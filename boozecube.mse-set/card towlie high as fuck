@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:46:56
-	time_modified: 2025-03-29 19:49:16
+	time_modified: 2025-04-29 02:53:50
 	name: Towlie, High as Fuck
 	casting_cost: GG
 	image: 
@@ -22,8 +22,7 @@ card:
 		Play with the top card of your library revealed. You may play lands from the top of your library.
 		You may play an additional land on each of your turns.
 		Whenever you play a land, drink.
-		<i>“I have no idea what’s going on.”</i>
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>“I have no idea what’s going on.”</i-flavor>
 	power: 0
 	toughness: 6
 	card_code_text: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:05:21
-	time_modified: 2025-03-29 19:07:43
+	time_modified: 2025-04-29 02:54:19
 	name: Trailer-Park Wolfir
 	casting_cost: GGG
 	image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto>
+	rule_text: <kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>A common sight on episodes of </i><error-spelling:en_US>Cathars<i></error-spelling:en_US> since the <error-spelling:en_US>Cursemute</error-spelling:en_US>, these former <error-spelling:en_US>lycanthropes</error-spelling:en_US> seem to have developed a penchant for cheap beer and domestic disturbances.</i-flavor>
 	power: 4
 	toughness: 5
