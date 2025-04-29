@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>:Add <sym>B</sym> or <sym-auto>G</sym-auto>.)</i-auto>
-		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped unless you drink 3.
+		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>Fertilized with certified organic free-range human.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

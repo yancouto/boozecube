@@ -503,23 +503,27 @@ symbol:
 symbol:
 	code: L/W
 	image: l_w.png
-	image font size: 15
+	image font size: 120
 symbol:
 	code: L/U
 	image: l_u.png
-	image font size: 15
+	image font size: 120
 symbol:
 	code: L/B
 	image: l_b.png
-	image font size: 15
+	image font size: 120
 symbol:
 	code: L/R
 	image: l_r.png
-	image font size: 15
+	image font size: 120
 symbol:
 	code: L/G
 	image: l_g.png
-	image font size: 15
+	image font size: 120
+symbol:
+	code: L/C
+	image: l_c.png
+	image font size: 120
 symbol:
 	code: H
 	image: mana_phyc.png
@@ -954,9 +958,12 @@ insert symbol menu:
 		item: 2/C
 		item: 2/S
 	item:
+		type: line
+	item:
 		name: liquid mana
 		item: L/W
 		item: L/U
 		item: L/B
 		item: L/R
 		item: L/G
+		item: L/C

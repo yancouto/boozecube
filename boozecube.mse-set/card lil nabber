@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t be blocked.
+		<atom-name>This creature</atom-cardname> can’t be blocked.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

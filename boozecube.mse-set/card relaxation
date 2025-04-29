@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname>’s power and toughness are equal to the number of bottles on the battlefield.
+		<atom-name>This creature</atom-cardname>’s power and toughness are equal to the number of bottles on the battlefield.
 		<sym-auto>T</sym-auto>: Create two 1/1 colorless Bottle artifact creature tokens with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>. Drink </sym>X<sym>, where X is the number bottles you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: *

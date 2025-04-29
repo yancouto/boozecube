@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		You may drink XX rather than pay for <sym>X</sym>.
-		<atom-name><nospellcheck>This spell</nospellcheck></atom-cardname> does the X damage to target creature or planeswalker.
+		<atom-name>This spell</atom-cardname> does the X damage to target creature or planeswalker.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

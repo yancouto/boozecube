@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> enters with one cup counter on it.
+		<atom-name>This creature</atom-cardname> enters with one cup counter on it.
 		<sym-auto>3BB</sym-auto>, Remove a cup counter: Target player discards his or her hand. Drink 2 for each card discarded.
 	flavor_text: <i-flavor>You’ll lose your lunch when they have theirs.</i-flavor>
 	power: 2

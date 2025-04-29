@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+1 for each age counter on it.
+		<atom-name>This creature</atom-cardname> gets +1/+1 for each age counter on it.
 	flavor_text:
 		<i-flavor>“They say as soon you have to cut down on your drinking, you have a drinking problem.”
 		-Don Draper</i-flavor>

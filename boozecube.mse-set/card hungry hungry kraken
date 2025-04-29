@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t attack unless defending player controls an Island.
+		<atom-name>This creature</atom-cardname> can’t attack unless defending player controls an Island.
 		<sym-auto>1UU</sym-auto>: Target land whose controller has drank 3 or more this turn becomes a basic Island.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7

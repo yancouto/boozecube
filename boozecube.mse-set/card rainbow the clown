@@ -25,7 +25,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> is all colors used to pay its mana cost. Its power and toughness are equal to its number of colors.
+		<atom-name>This creature</atom-cardname> is all colors used to pay its mana cost. Its power and toughness are equal to its number of colors.
 		<sym-auto>1</sym-auto>: Target spell or permanent becomes the color of the mana used to pay for this ability in addition to its other colors.
 		Whenever this creature is white, blue, red, black and green, transform it and it becomes colorless.
 	rule_text_2:

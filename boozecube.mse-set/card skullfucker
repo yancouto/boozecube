@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 15:22:38
-	time_modified: 2025-04-29 02:45:15
+	time_modified: 2025-04-29 14:10:08
 	name: [?] Skullfucker
 	casting_cost: 5
 	image: 
@@ -22,7 +22,7 @@ card:
 		<kw-A><nospellcheck><key>Living weapon</key></nospellcheck><atom-reminder-expert> <i-auto>(When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)</i-auto></atom-reminder-expert></kw-A>
 		Equipped creature gets +4/+4 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		<sym>L/BL/BL/BL/B</sym>: Return <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> to its owner’s hand.
-		<i-auto>(<sym>L/B</sym> can be paid with 1 or by drinking 3.)</i-auto>
+		<i-auto>(<sym>L/B</sym> can be paid with <sym>B</sym> or by drinking 3.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>5</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old

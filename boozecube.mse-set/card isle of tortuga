@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto>
-		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>3UU</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Create a 4/3 blue Pirate Ship creature token with Islandhome and “<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player”. Activate this ability only if an opponent has drank 5 or more this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old

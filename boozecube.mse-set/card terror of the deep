@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		As <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, turn all other creatures face down. They gain “<kw-0><nospellcheck><key>Morph—<param-cost>Take a shot”</param-cost>.</key></nospellcheck></kw-0> <i-auto>(They are 2/2 creatures and can be turned face-up by taking a shot.)</i-auto>
-		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of face-down creatures on the battlefield.
+		<atom-name>This creature</atom-cardname>’s power and toughness are each equal to the number of face-down creatures on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: *
 	toughness: *

@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-name><nospellcheck>This spell</nospellcheck></atom-cardname> deals X damage to each creature and planeswalker. Each player drinks X.
+	rule_text: <atom-name>This spell</atom-cardname> deals X damage to each creature and planeswalker. Each player drinks X.
 	flavor_text: <i-flavor>Fuck yeah!</i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

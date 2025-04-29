@@ -1,0 +1,17 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: Just used to test liquid mana symbols
+	time_created: 2025-04-29 14:13:18
+	time_modified: 2025-04-29 14:59:17
+	name: [!] Liquid test
+	casting_cost: L/UL/RL/BL/GL/WL/C
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	rule_text: Pay <sym-auto>L/UL/RL/BL/GL/WL/C</sym-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

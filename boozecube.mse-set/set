@@ -5,6 +5,7 @@ stylesheet: m15-altered
 stylesheet_version: 2024-09-23
 set_info:
 	title: Boozecube
+	set_language: en
 	symbol: 
 	masterpiece_symbol: 
 	CARDNAME_replacement: card's type
@@ -893,6 +894,7 @@ include_file: card hatched dinosaur
 include_file: card demon fratboy
 include_file: card dragon
 include_file: card elf warrior
+include_file: card liquid test
 keyword:
 	keyword: Boozetouch
 	match: boozetouch

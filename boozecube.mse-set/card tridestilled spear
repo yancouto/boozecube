@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>This artifact</nospellcheck></atom-cardname> can be attached to up to three different creatures simultaneously.
+		<atom-name>This artifact</atom-cardname> can be attached to up to three different creatures simultaneously.
 		Equipped creatures get +2/+2 and <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

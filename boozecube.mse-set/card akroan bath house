@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
-		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped unless you drink 3.
+		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>Not every Ancient Greek trope made it into <error-spelling:en_US>Theros</error-spelling:en_US>.</i-flavor>
 	illustrator: STEPHEN RAFFÆL
 	illustrator_brush: art old

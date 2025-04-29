@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
 		<sym-auto>4</sym-auto>, Drink <sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>: Search your library for up to two basic lands and put them on the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
