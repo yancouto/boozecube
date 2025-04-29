@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Kicker—<param-cost>drink 4</param-cost></key></nospellcheck></kw-0>
 		Search your library for a basic land and put it onto the battlefield tapped. Shuffle your library afterwards.
-		If <atom-cardname><nospellcheck>Fornication</nospellcheck></atom-cardname>was kicked, you may search for a nonbasic land instead.
+		If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>was kicked, you may search for a nonbasic land instead.
 	flavor_text: <i-flavor>“You and me baby ain’t nothing but mammals, so let’s do it like they do on the Discovery Channel.”</i-flavor>
 	illustrator: We can do it doggy style so we can both watch X-Files.
 	illustrator_brush: art old

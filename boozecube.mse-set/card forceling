@@ -19,12 +19,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
-		<sym-auto>B</sym-auto>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname>.
-		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> gets +1/-1 until end of turn.
-		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> gets -1/+1 until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
+		<sym-auto>B</sym-auto>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets +1/-1 until end of turn.
+		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets -1/+1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 12:17:30
-	time_modified: 2025-04-27 17:43:03
+	time_modified: 2025-04-29 13:30:02
 	name: Islay
 	image: 
 	image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> to your mana pool.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 		<sym-auto>T</sym-auto>: Target player drinks.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Badger Cunning</nospellcheck></atom-cardname> enters or enchanted creature attacks, draw a card.
-		Enchanted creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>. At the beginning of your upkeep, sacrifice <atom-cardname><nospellcheck>Badger Cunning</nospellcheck></atom-cardname> unless you drink for each card in your hand.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters or enchanted creature attacks, draw a card.
+		Enchanted creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>. At the beginning of your upkeep, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> unless you drink for each card in your hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

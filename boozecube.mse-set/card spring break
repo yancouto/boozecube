@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Rather than pay the mana costs of spells and abilities, you may drink </sym>XX<sym>, where X is the spell’s or ability’s mana value.
-		Whenever you tap a permanent for mana, chug a beer, than sacrifice <atom-cardname><nospellcheck>Spring Break</nospellcheck></atom-cardname>.
+		Whenever you tap a permanent for mana, chug a beer, than sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor><error-spelling:en_US>Woooooooooooooooooo</error-spelling:en_US>!</i-flavor>
 	illustrator: 
 	illustrator_brush: art old

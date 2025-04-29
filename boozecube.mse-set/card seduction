@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Seduction</nospellcheck></atom-cardname> deals combat damage to a player, you may exile the top card of that player’s library.
-		You may play cards exiled with <atom-cardname><nospellcheck>Seduction</nospellcheck></atom-cardname> as if they were in your hand, treating colored mana symbols in their mana costs as liquid mana symbols of the same color. <i-auto>(For example, 3<sym>GG</sym> would be 3<sym>L/GL/G</sym>. <sym-auto>L/G</sym-auto> can be paid <sym>G</sym> or by drinking 3.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, you may exile the top card of that player’s library.
+		You may play cards exiled with <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> as if they were in your hand, treating colored mana symbols in their mana costs as liquid mana symbols of the same color. <i-auto>(For example, 3<sym>GG</sym> would be 3<sym>L/GL/G</sym>. <sym-auto>L/G</sym-auto> can be paid <sym>G</sym> or by drinking 3.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever an opponent drinks, you may pay <sym-auto>2</sym-auto>. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>Cap’n Crunch</nospellcheck></atom-cardname>.
+	rule_text: Whenever an opponent drinks, you may pay <sym-auto>2</sym-auto>. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

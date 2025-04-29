@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>1R</sym-auto>, drink 1<sym></sym>: Deal 1 damage to target creature. It becomes a bottle. Put +1/+1 in <atom-cardname><nospellcheck>Olivia</nospellcheck></atom-cardname>.
-		<sym-auto>3BB</sym-auto>: Gain control of target bottle while you control <atom-cardname><nospellcheck>Olivia</nospellcheck></atom-cardname>. Drink equal to its mana value.
+		<sym-auto>1R</sym-auto>, drink 1<sym></sym>: Deal 1 damage to target creature. It becomes a bottle. Put +1/+1 in <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		<sym-auto>3BB</sym-auto>: Gain control of target bottle while you control <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. Drink equal to its mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

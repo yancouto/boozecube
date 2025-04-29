@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-1><nospellcheck><key>Kicker—<param-cost>Drink 10</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>drink 10 in addition to any other costs</param-cost> as you cast this spell.)</i-auto></atom-reminder-expert></kw-1>
-		Search your library for card and put it into your hand, then drink 10. If <atom-cardname><nospellcheck>Corporate Tutor</nospellcheck></atom-cardname> was kicked, you may search for two cards instead. Shuffle your library afterwards.
+		Search your library for card and put it into your hand, then drink 10. If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> was kicked, you may search for two cards instead. Shuffle your library afterwards.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

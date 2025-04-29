@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>
-		When <atom-legname><nospellcheck>Bromikon</nospellcheck></atom-legname> enters, choose left or right.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, choose left or right.
 		Each player may only attack the nearest opponent in the chosen direction or planeswalker he/she controls.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

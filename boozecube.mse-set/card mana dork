@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 19:15:48
-	time_modified: 2025-04-27 18:51:28
+	time_modified: 2025-04-29 13:30:21
 	name: Mana Dork
 	casting_cost: G
 	image: 
@@ -27,8 +27,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> to your mana pool.
+		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor>He lurks in the wilds of <error-spelling:en_US>Krosa</error-spelling:en_US>, gathering mystical energies and social awkwardness.</i-flavor>
 	power: 1
 	toughness: 1

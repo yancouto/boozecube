@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Lords of South Padre</nospellcheck></atom-cardname> deals combat damage, each player drinks 2.
-		Drink <sym></sym>X: <atom-cardname><nospellcheck>Lords of South Padre</nospellcheck></atom-cardname> gains <kw-A><nospellcheck><key>absorb <param-number>X</param-number></key></nospellcheck> until end of turn.<atom-reminder-expert> <i-auto>(If a source would deal damage to this creature, prevent <param-number>X</param-number> of that damage.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage, each player drinks 2.
+		Drink <sym></sym>X: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-A><nospellcheck><key>absorb <param-number>X</param-number></key></nospellcheck> until end of turn.<atom-reminder-expert> <i-auto>(If a source would deal damage to this creature, prevent <param-number>X</param-number> of that damage.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Paradoxically, bonging boxed wine was both the best idea ever and the worst idea ever.</i-flavor>
 	power: 2
 	toughness: 1

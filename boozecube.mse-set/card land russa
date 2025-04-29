@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-01 13:20:34
-	time_modified: 2025-04-27 18:51:02
+	time_modified: 2025-04-29 13:30:05
 	name: Land Russa
 	image: 
 	image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym>T</sym>: Add <sym-auto>R</sym-auto> to your mana pool.
+		<sym>T</sym>: Add <sym-auto>R</sym-auto>.
 		<sym>T</sym>: Target player drinks.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

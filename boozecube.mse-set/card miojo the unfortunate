@@ -12,9 +12,9 @@ card:
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-04-27 18:56:03
 	special_text:
-		Any player may activate <atom-cardname><nospellcheck>Miojo, the Unfortunate</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
-		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Miojo, the Unfortunate</nospellcheck></atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
-		[-13]: <margin:130:0:0><atom-cardname><nospellcheck>Miojo, the Unfortunate</nospellcheck></atom-cardname>’s controller loses the game.</margin:130:0:0>
+		Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
+		[+1]: <margin:130:0:0><atom-name><nospellcheck>This planeswalker</nospellcheck></atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
+		[-13]: <margin:130:0:0><atom-name><nospellcheck>This planeswalker</nospellcheck></atom-cardname>’s controller loses the game.</margin:130:0:0>
 	name: Miojo, the Unfortunate
 	casting_cost: 1W/BW/B
 	image: 
@@ -39,9 +39,9 @@ card:
 	loyalty_cost_2: +1
 	loyalty_cost_3: -13
 	loyalty: 3
-	level_1_text: Any player may activate <atom-cardname><nospellcheck>Miojo, the Unfortunate</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
-	level_2_text: <margin:130:0:0><atom-cardname><nospellcheck>Miojo, the Unfortunate</nospellcheck></atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
-	level_3_text: <margin:130:0:0><atom-cardname><nospellcheck>Miojo, the Unfortunate</nospellcheck></atom-cardname>’s controller loses the game.</margin:130:0:0>
+	level_1_text: Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
+	level_2_text: <margin:130:0:0><atom-name><nospellcheck>This planeswalker</nospellcheck></atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
+	level_3_text: <margin:130:0:0><atom-name><nospellcheck>This planeswalker</nospellcheck></atom-cardname>’s controller loses the game.</margin:130:0:0>
 	level_4_text: 
 	illustrator: 
 	illustrator_brush: art old

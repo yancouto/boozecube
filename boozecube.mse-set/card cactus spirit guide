@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 18:46:07
-	time_modified: 2025-04-27 10:00:05
+	time_modified: 2025-04-29 13:29:20
 	name: Cactus Spirit Guide
 	casting_cost: 2G
 	image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: You may exile <atom-cardname><nospellcheck>Cactus Spirit Guide</nospellcheck></atom-cardname> from your hand to add one mana of any color to your mana pool.
+	rule_text: You may exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your hand to add one mana of any color.
 	flavor_text: <i-flavor>“And suddenly I had an inkling of what it must feel like to be mad.”- <error-spelling:en_US>Aldous</error-spelling:en_US> Huxley, The Door of Perception</i-flavor>
 	power: 1
 	toughness: 3

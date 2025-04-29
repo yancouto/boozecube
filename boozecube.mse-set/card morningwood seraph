@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		Drink: Prevent all combat damage to <atom-cardname><nospellcheck>Morningwood Seraph</nospellcheck></atom-cardname> from one source.
+		Drink: Prevent all combat damage to <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from one source.
 	flavor_text: <i-flavor>Born with wings of light and a liver of iron, this heavenly incarnation embodies both purity and... what are you looking at? I swear, I’ll fucking cut you.</i-flavor>
 	power: 3
 	toughness: 3

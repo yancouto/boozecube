@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of your upkeep, you may pay <sym-auto>U</sym-auto>. If you don’t, you drink 2 and lose 2 life. If you do, create a token that is a copy of <atom-cardname><nospellcheck>Breeding Pirates</nospellcheck></atom-cardname>.
+	rule_text: At the beginning of your upkeep, you may pay <sym-auto>U</sym-auto>. If you don’t, you drink 2 and lose 2 life. If you do, create a token that is a copy of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

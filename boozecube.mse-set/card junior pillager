@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Sacrifice <atom-cardname><nospellcheck>Junior Pillager</nospellcheck></atom-cardname>: You gain control or target artifact. The artifact has “At the beginning of your upkeep, sacrifice this artifact unless you drink 2.”
+	rule_text: Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: You gain control or target artifact. The artifact has “At the beginning of your upkeep, sacrifice this artifact unless you drink 2.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

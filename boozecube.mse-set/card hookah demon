@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a>
-		Whenever a player takes a shot, put a smoke counter on <atom-cardname><nospellcheck>Hookah Demon</nospellcheck></atom-cardname>.
-		At the beginning or your upkeep, if <atom-cardname><nospellcheck>Hookah Demon</nospellcheck></atom-cardname> has seven or more smoke counters, you win the game.
+		Whenever a player takes a shot, put a smoke counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		At the beginning or your upkeep, if <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has seven or more smoke counters, you win the game.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

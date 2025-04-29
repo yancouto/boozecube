@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Draft this card face up.
-		During the draft, if your booster pack has two or more cards, you may yell “Chopsticks!” to take 2 cards from it instead of 1. If you do, put <atom-cardname><nospellcheck>Chopsticks</nospellcheck></atom-cardname> back into the booster and drink 5.
+		During the draft, if your booster pack has two or more cards, you may yell “Chopsticks!” to take 2 cards from it instead of 1. If you do, put <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> back into the booster and drink 5.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

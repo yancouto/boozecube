@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of you end step, each player measures their deck against each other player’s deck, the player with the biggest deck draws a card for each smaller deck, then <atom-cardname><nospellcheck>Deck Measuring Contest</nospellcheck></atom-cardname> deals 1 damage to the player with the smallest deck for each card drawn this way.
+	rule_text: At the beginning of you end step, each player measures their deck against each other player’s deck, the player with the biggest deck draws a card for each smaller deck, then <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> deals 1 damage to the player with the smallest deck for each card drawn this way.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

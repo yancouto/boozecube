@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:19:09
-	time_modified: 2025-04-29 02:28:50
+	time_modified: 2025-04-29 13:28:51
 	name: Akroan Bath House
 	image: 
 	image_2: 
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto> to your mana pool.)</i-auto>
-		<atom-cardname><nospellcheck>Akroan Bath House</nospellcheck></atom-cardname> enters tapped unless you drink 3.
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>Not every Ancient Greek trope made it into <error-spelling:en_US>Theros</error-spelling:en_US>.</i-flavor>
 	illustrator: STEPHEN RAFFÆL
 	illustrator_brush: art old

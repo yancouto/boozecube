@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>XGG</sym-auto>: <atom-cardname><nospellcheck>Fart Elemental</nospellcheck></atom-cardname> deals X damage to each creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>XGG</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals X damage to each creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“Break the wind, break what rides it.” — Troll proverb</i-flavor>
 	power: 2
 	toughness: 7

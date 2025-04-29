@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 17:55:04
-	time_modified: 2025-04-01 10:47:30
+	time_modified: 2025-04-29 13:47:09
 	name: Usain Bolt
 	casting_cost: R
 	image: 
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key>Intoxicated</key></nospellcheck></kw-a> <i-auto>(This source deals damage to players in the form of drinks.)</i-auto>
+		<kw-0><nospellcheck><key>Intoxicated</key></nospellcheck></kw-0>
 		<kw-A><nospellcheck><key>Dash <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

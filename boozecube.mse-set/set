@@ -7,8 +7,9 @@ set_info:
 	title: Boozecube
 	symbol: 
 	masterpiece_symbol: 
-	CARDNAME_replacement: card's name
+	CARDNAME_replacement: card's type
 	automatic_reminder_text: old, expert, pseudo, action, lower case
+	default_flavor_bar: thick bar
 	mana_symbol_options: 
 styling:
 	magic-DayNight:
@@ -895,13 +896,13 @@ include_file: card elf warrior
 keyword:
 	keyword: Boozetouch
 	match: boozetouch
-	reminder: When this creature deals combat damage to a player, that player drinks.
+	reminder: When {this_or_that("creature", upper:false)} creature deals combat damage to a player, that player drinks.
 	rules: 
 	mode: core
 keyword:
 	keyword: Tequilator
 	match: tequilator <atom-param>number</atom-param>
-	reminder: When this creature attacks, defending player takes {english_number_a(param1)} shot(s).
+	reminder: When {this_or_that("creature", upper:false)} creature attacks, defending player takes {english_number_a(param1)} shot(s).
 	rules: 
 	mode: expert
 keyword:
@@ -937,7 +938,7 @@ keyword:
 keyword:
 	keyword: Chugtouch
 	match: chugtouch
-	reminder: When this {this_or_that("creature", upper:false)} deals combat damage to a player, they chug a beer.
+	reminder: When {this_or_that("creature", upper:false)} deals combat damage to a player, they chug a beer.
 	rules: 
 	mode: expert
 keyword:
@@ -955,7 +956,7 @@ keyword:
 keyword:
 	keyword: Shottouch
 	match: shot touch
-	reminder: When this {this_or_that("creature", upper:false)} deals combat damage to a player, they take a shot.
+	reminder: When {this_or_that("creature", upper:false)} deals combat damage to a player, they take a shot.
 	rules: 
 	mode: expert
 version_control:

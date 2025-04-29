@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Alcohol Poisoning</nospellcheck></atom-cardname> enters, put X -1/-1 counters on enchanted creature.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, put X -1/-1 counters on enchanted creature.
 		At the beginning of your upkeep, enchanted creature’s controller drinks </sym>X<sym>, where X is the number of counters on it.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old

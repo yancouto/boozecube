@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Stumbling Devil</nospellcheck></atom-cardname> enters, any player may chug a beer. If a player does, sacrifice <atom-cardname><nospellcheck>Stumbling Devil</nospellcheck></atom-cardname>.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, any player may chug a beer. If a player does, sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor>This is why you never want to be the first one to a party.</i-flavor>
 	power: 4
 	toughness: 3

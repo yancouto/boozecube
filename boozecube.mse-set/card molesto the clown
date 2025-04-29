@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Intimidate</key></nospellcheck>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a><atom-reminder-old> <i-auto>(This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)</i-auto></atom-reminder-old></kw-A>
-		<sym-auto>1B</sym-auto>: <atom-cardname><nospellcheck>Molesto the Clown</nospellcheck></atom-cardname> deals 1 damage to each creature and player.
+		<sym-auto>1B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 1 damage to each creature and player.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

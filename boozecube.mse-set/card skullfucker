@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living weapon</key></nospellcheck><atom-reminder-expert> <i-auto>(When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)</i-auto></atom-reminder-expert></kw-A>
 		Equipped creature gets +4/+4 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
-		<sym>L/BL/BL/BL/B</sym>: Return <atom-cardname><nospellcheck><sym>?</sym> Skullfucker</nospellcheck></atom-cardname> to its owner’s hand.
+		<sym>L/BL/BL/BL/B</sym>: Return <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> to its owner’s hand.
 		<i-auto>(<sym>L/B</sym> can be paid with 1 or by drinking 3.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>5</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

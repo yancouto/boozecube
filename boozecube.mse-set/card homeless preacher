@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever you drink, <atom-cardname><nospellcheck>Homeless Preacher</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
-		Whenever an opponent drinks, <atom-cardname><nospellcheck>Homeless Preacher</nospellcheck></atom-cardname> gets -1/-0 until end of turn.
+		Whenever you drink, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
+		Whenever an opponent drinks, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets -1/-0 until end of turn.
 	flavor_text: <i-flavor>He knows things that man was not meant to know, like how a three-day-old dumpster burrito tastes.</i-flavor>
 	power: 1
 	toughness: 1

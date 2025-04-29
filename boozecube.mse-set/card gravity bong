@@ -19,9 +19,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever an opponent drinks 3 or more, you may untap <atom-cardname><nospellcheck>Gravity Bong</nospellcheck></atom-cardname>.
-		<sym-auto>T</sym-auto>: Put a charge counter on <atom-cardname><nospellcheck>Gravity Bong</nospellcheck></atom-cardname>.
-		<sym-auto>T</sym-auto>, Remove three charge counters from <atom-cardname><nospellcheck>Gravity Bong</nospellcheck></atom-cardname>: Destroy target permanent.
+		Whenever an opponent drinks 3 or more, you may untap <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>: Put a charge counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Remove three charge counters from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Destroy target permanent.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

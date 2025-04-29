@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Power of Attorney</nospellcheck></atom-cardname> enters with three bill counters on it.
-		At the beginning of your upkeep, put a bill counter on <atom-cardname><nospellcheck>Power of Attorney</nospellcheck></atom-cardname>, then draw a card and drink <sym></sym>X, where X is the number of bill counters.
+		<atom-name><nospellcheck>This enchantment</nospellcheck></atom-cardname> enters with three bill counters on it.
+		At the beginning of your upkeep, put a bill counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>, then draw a card and drink <sym></sym>X, where X is the number of bill counters.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

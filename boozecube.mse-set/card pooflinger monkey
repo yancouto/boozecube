@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Pooflinger Monkey</nospellcheck></atom-cardname> enters, you may have it <kw-A><nospellcheck><key>fight</key></nospellcheck> target creature you don’t control.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
-		Whenever a player audibly passes gas, you may return <atom-cardname><nospellcheck>Pooflinger Monkey</nospellcheck></atom-cardname> to its owner’s hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may have it <kw-A><nospellcheck><key>fight</key></nospellcheck> target creature you don’t control.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
+		Whenever a player audibly passes gas, you may return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> to its owner’s hand.
 	flavor_text: <i-flavor>Deep in the jungles of <error-spelling:en_US>Jamuraa</error-spelling:en_US>, these creatures launch fecal assaults on any who dare intrude.</i-flavor>
 	power: 2
 	toughness: 3

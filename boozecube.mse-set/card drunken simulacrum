@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Drunken Simulacrum</nospellcheck></atom-cardname> enters, search your library for a land and put it onto the battlefield tapped.
-		When <atom-cardname><nospellcheck>Drunken Simulacrum</nospellcheck></atom-cardname> leaves the battlefield, draw a card.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, search your library for a land and put it onto the battlefield tapped.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 21:41:49
-	time_modified: 2025-03-27 21:45:21
+	time_modified: 2025-04-29 13:54:45
 	name: Wifebeater Devil
 	casting_cost: B/R
 	image: 
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
-		<sym-auto>B/R</sym-auto>: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Wifebeater</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Devil gets +1/+0 until end of turn.
-		Whenever a creature damaged by <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Wifebeater</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Devil dies, drink <sym-auto>X</sym-auto>, where X is the sum of its power and toughness.
+		<sym-auto>B/R</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
+		Whenever a creature damaged by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, drink X<sym></sym>, where X is the sum of its power and toughness.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

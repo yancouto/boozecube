@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Redneck</nospellcheck></atom-cardname> enters, you may search your library for a creature card with <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>. If you do, reveal that card and put it into your hand, then shuffle.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may search your library for a creature card with <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>. If you do, reveal that card and put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

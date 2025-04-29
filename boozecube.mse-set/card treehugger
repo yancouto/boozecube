@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:25:39
-	time_modified: 2025-04-29 02:36:54
+	time_modified: 2025-04-29 13:19:30
 	name: Treehugger
 	casting_cost: GG
 	image: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Treehugger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, you may search you library for a Forest card and put it onto the battlefield tapped, then shuffle.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may search you library for a Forest card and put it onto the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

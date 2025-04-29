@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 12:44:41
-	time_modified: 2025-03-23 12:46:43
+	time_modified: 2025-04-29 13:47:54
 	name: Victim of Party
 	casting_cost: BB
 	image: 
@@ -18,10 +18,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		Destroy target non-bottle non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature.
-		“Do not touch an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>engov</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. Not yet. I want to watch this so called ‘<kw-A><nospellcheck><key>party</key></nospellcheck> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>boy’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> last PT”- <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Orloff</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Voldaren<atom-reminder-action></error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i-auto></atom-reminder-action></kw-A>
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: Destroy target non-bottle non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature.
+	flavor_text: <i-flavor>“Do not touch an <error-spelling:en_US>engov</error-spelling:en_US>. Not yet. I want to watch this so called ‘party <error-spelling:en_US>boy’</error-spelling:en_US> last PT” — <error-spelling:en_US>Orloff</error-spelling:en_US> <error-spelling:en_US>Voldaren</i-flavor></error-spelling:en_US>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

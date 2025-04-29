@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Loki, the Fast</nospellcheck></atom-cardname> attacks, the defending player may tap it before declaring blockers. If they don’t, <atom-cardname><nospellcheck>Loki, the Fast</nospellcheck></atom-cardname> deals 2 damage to the defending player. 
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, the defending player may tap it before declaring blockers. If they don’t, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 2 damage to the defending player. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1

@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		As long as it’s your turn, creatures you control get +1/+0, have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
-		Drink 5<sym></sym>: Destroy <atom-cardname><nospellcheck>Drunk Riot</nospellcheck></atom-cardname>.
+		Drink 5<sym></sym>: Destroy <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

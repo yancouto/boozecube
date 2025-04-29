@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 12:29:19
-	time_modified: 2025-04-29 02:33:20
+	time_modified: 2025-04-29 13:29:46
 	name: Corner Pub
 	image: 
 	image_2: 
@@ -19,8 +19,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-name>This land</atom-cardname> enters with three tab counters to it.
-		<sym-auto>T</sym-auto>, Remove a tab counter from <atom-cardname><nospellcheck>Corner Pub</nospellcheck></atom-cardname>: Add one mana of any color to your mana pool.
-		Drink <sym-auto>8</sym-auto>, <sym-auto>T</sym-auto>: Put three tab counters on <atom-cardname><nospellcheck>Corner Pub</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Remove a tab counter from <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Add one mana of any color.
+		Drink <sym-auto>8</sym-auto>, <sym-auto>T</sym-auto>: Put three tab counters on <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

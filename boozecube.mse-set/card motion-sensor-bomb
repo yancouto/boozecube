@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		As <atom-cardname><nospellcheck>Motion-Sensor-Bomb</nospellcheck></atom-cardname> enters, choose one of enchanted player’s hand, that player balances this card on the back of that hand.
-		When <atom-cardname><nospellcheck>Motion-Sensor-Bomb</nospellcheck></atom-cardname> falls off the chosen hand, sacrifice it, then enchanted player loses 3 life and takes a shot.
+		As <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, choose one of enchanted player’s hand, that player balances this card on the back of that hand.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> falls off the chosen hand, sacrifice it, then enchanted player loses 3 life and takes a shot.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

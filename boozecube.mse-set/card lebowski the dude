@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Lebowski, the Dude</nospellcheck></atom-cardname> can’t be countered.
-		When <atom-cardname><nospellcheck>Lebowski, the Dude</nospellcheck></atom-cardname> is put into a graveyard from anywhere, shuffle your graveyard into your library.
+		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t be countered.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is put into a graveyard from anywhere, shuffle your graveyard into your library.
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>4</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

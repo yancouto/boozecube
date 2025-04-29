@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key><param-prefix>Island</param-prefix>walk</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked as long as defending player controls an <param-prefix>Island</param-prefix>.)</i-auto></atom-reminder-old></kw-A>
-		<sym-auto>6U</sym-auto>, <sym-auto>T</sym-auto>: Target player drinks X<sym></sym>, where X is <atom-cardname><nospellcheck>Tinfins</nospellcheck></atom-cardname>’s toughness.
+		<sym-auto>6U</sym-auto>, <sym-auto>T</sym-auto>: Target player drinks X<sym></sym>, where X is <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s toughness.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 10

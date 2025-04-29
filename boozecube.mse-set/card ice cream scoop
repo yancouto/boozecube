@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Ice Cream Scoop</nospellcheck></atom-cardname> enters tapped.
+		<atom-name><nospellcheck>This artifact</nospellcheck></atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Target opponent chugs two beers or takes two shots, then you concede the game.
 	flavor_text: <i-flavor>Ice Cream Scoop. I scream “scoop”. <error-spelling:en_US>Haha</error-spelling:en_US>, get it? Now drink your fucking beer.</i-flavor>
 	illustrator: Your Mom

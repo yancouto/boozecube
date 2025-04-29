@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When you play <atom-cardname><nospellcheck>Flip, Sip or Strip</nospellcheck></atom-cardname>, give it to any player.
-		During your upkeep, flip a coin. If heads, draw a card and pass <atom-cardname><nospellcheck>Flip, Sip or Strip</nospellcheck></atom-cardname> to the player on your left. Is tails, take a shot, and pass it to the player in your right.
+		When you play <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>, give it to any player.
+		During your upkeep, flip a coin. If heads, draw a card and pass <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> to the player on your left. Is tails, take a shot, and pass it to the player in your right.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

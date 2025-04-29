@@ -29,7 +29,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>4</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
-		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>The Green Fairy</nospellcheck></atom-cardname>, if you control a forest, you may search you library for an enchantment, reveal it, and put it in your hand, then shuffle.
+		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, if you control a forest, you may search you library for an enchantment, reveal it, and put it in your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

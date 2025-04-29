@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-04-01 11:31:56
+	time_modified: 2025-04-29 13:35:44
 	name: Trucker-Grade Amphetamines
 	casting_cost: 5R
 	image: 
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Cumulative upkeep drink 3  <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto>
-		<kw-a><nospellcheck><key>Intoxicated</key></nospellcheck></kw-a> creatures you control lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>. <i-auto>(They deal damage to players.)</i-auto>
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Drink 3</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		<kw-a><nospellcheck><key>Intoxicated</key></nospellcheck></kw-a> creatures you control lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

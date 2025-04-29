@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 15:20:35
-	time_modified: 2025-04-29 02:34:36
+	time_modified: 2025-04-29 13:29:57
 	name: Foil Mox
 	casting_cost: 0
 	image: 
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As <atom-cardname><nospellcheck>Foil Mox</nospellcheck></atom-cardname> enters, you may take a shot or chug a beer. If you don’t, sacrifice <atom-cardname><nospellcheck>Foil Mox</nospellcheck></atom-cardname>.
-		<sym-auto>T</sym-auto>: Add one mana of any color to your mana pool.
+		As <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> enters, you may take a shot or chug a beer. If you don’t, sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>: Add one mana of any color.
 	flavor_text: <i-flavor><error-spelling:en_US>Ooooh</error-spelling:en_US>, shiny...</i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

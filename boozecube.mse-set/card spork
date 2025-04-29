@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		You may discard a red card and take a shot rather than pay <atom-cardname><nospellcheck>Spork</nospellcheck></atom-cardname>’s mana cost.
+		You may discard a red card and take a shot rather than pay <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>’s mana cost.
 		Copy target instant or sorcery spell. You may choose new targets for the copy.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old

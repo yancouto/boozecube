@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		At the beginning of each player’s upkeep, that player gains control of <atom-cardname><nospellcheck>Marx Diamond</nospellcheck></atom-cardname> and untaps it.
+		At the beginning of each player’s upkeep, that player gains control of <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> and untaps it.
 		<sym-auto>T</sym-auto>: Add one mana of any color.
 	flavor_text: <i-flavor>To each according to his needs.</i-flavor>
 	card_code_text: 

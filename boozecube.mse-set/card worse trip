@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 12:36:57
-	time_modified: 2025-03-23 12:44:24
+	time_modified: 2025-04-29 13:56:43
 	name: Worse Trip
 	casting_cost: 2BB
 	image: 
@@ -19,9 +19,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost drink XXX
-		Lose X life, draw X cards
-		Flashback drink XX
+		As an additional cost, drink XXX.
+		Lose X life, draw X cards.
+		<kw-A><nospellcheck><key>Flashback—<param-cost>Drink XX</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

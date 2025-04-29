@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever a player taps a permanent they control, if they don’t turn the card 90 degrees counter-clockwise, <atom-cardname><nospellcheck>Left-Handed</nospellcheck></atom-cardname> deals 2 damage to that player.
+	rule_text: Whenever a player taps a permanent they control, if they don’t turn the card 90 degrees counter-clockwise, <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> deals 2 damage to that player.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Mão
 	card_code_text: 

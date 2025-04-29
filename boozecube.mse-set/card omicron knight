@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Omicron Knight</nospellcheck></atom-cardname> enters, secretly name a player. The next time you are attacked, reveal the name. If it was the player, they chug a beer.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, secretly name a player. The next time you are attacked, reveal the name. If it was the player, they chug a beer.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

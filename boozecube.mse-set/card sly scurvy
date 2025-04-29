@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <kw-1><nospellcheck><key>Shot touch</key></nospellcheck><atom-reminder-expert> <i-auto>(When this this creature deals combat damage to a player, they take a shot.)</i-auto></atom-reminder-expert></kw-1>
+	rule_text: <kw-1><nospellcheck><key>Shot touch</key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, they take a shot.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

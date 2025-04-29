@@ -29,7 +29,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Racist Slime</nospellcheck></atom-cardname> enters, choose a creature type.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose a creature type.
 		Creatures of the chosen type get -1/-1.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Kleav’land Steamer</nospellcheck></atom-cardname> enters, each opponent drinks 2.
-		<sym-auto>1UU</sym-auto>: Return <atom-cardname><nospellcheck>Kleav’land Steamer</nospellcheck></atom-cardname> to its owner’s hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, each opponent drinks 2.
+		<sym-auto>1UU</sym-auto>: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

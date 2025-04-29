@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 20:35:08
-	time_modified: 2025-03-29 20:40:23
+	time_modified: 2025-04-29 13:50:52
 	name: Voyeur Elf
 	casting_cost: 1G
 	image: 
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>T</sym-auto>: Untap target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkland</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		When Voyeur Elf becomes tapped, target player drinks
+		<sym-auto>T</sym-auto>: Untap target drink land.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> becomes tapped, target player drinks.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

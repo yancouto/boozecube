@@ -21,7 +21,7 @@ card:
 	rule_text:
 		As an additional cost to cast this spell, take a shot.
 		Reveal the top card of your library. If it’s a permanent, you may put it onto the battlefield.
-		You can cast <atom-cardname><nospellcheck>Shot Do Calabouço</nospellcheck></atom-cardname> from your graveyard.
+		You can cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> from your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

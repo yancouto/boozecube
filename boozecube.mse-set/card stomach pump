@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever a spell or ability causes you to drink </sym>X<sym>, put that many charge counters on <atom-cardname><nospellcheck>Stomach Pump</nospellcheck></atom-cardname>.
-		Sacrifice <atom-cardname><nospellcheck>Stomach Pump</nospellcheck></atom-cardname>: Gain life equal to the number of counters on <atom-cardname><nospellcheck>Stomach Pump</nospellcheck></atom-cardname>.
+		Whenever a spell or ability causes you to drink </sym>X<sym>, put that many charge counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Gain life equal to the number of counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

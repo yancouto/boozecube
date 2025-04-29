@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Drink 1<sym></sym>: <atom-cardname><nospellcheck>Knight of the Tankard</nospellcheck></atom-cardname> gets +1/+0 and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
-		At the beginning of each end step, <atom-cardname><nospellcheck>Knight of the Tankard</nospellcheck></atom-cardname> deals 1 damage to each player who didn’t drink this turn.
+		Drink 1<sym></sym>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		At the beginning of each end step, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each player who didn’t drink this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

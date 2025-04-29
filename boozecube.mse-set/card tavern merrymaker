@@ -27,8 +27,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		At the beginning of each opponent’s draw step, that player may drink and draw an additional card. If they do, put a +1/+1 counter on <atom-cardname><nospellcheck>Tavern Merrymaker</nospellcheck></atom-cardname>.
-		Drink, remove a +1/+1 counter from <atom-cardname><nospellcheck>Tavern Merrymaker</nospellcheck></atom-cardname>: Draw a card.
+		At the beginning of each opponent’s draw step, that player may drink and draw an additional card. If they do, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		Drink, remove a +1/+1 counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

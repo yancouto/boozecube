@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 13:37:28
-	time_modified: 2025-03-22 13:42:31
+	time_modified: 2025-04-29 13:55:06
 	name: WikiLore
 	casting_cost: 0
 	image: 
@@ -20,9 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		You have no maximum hand size.
-		At the beginning of your upkeep, reveal your hand to target opponent. That opponent may choose a card. If he or she does, shuffle that card into your library, then draw two cards.
-		<i>A <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellbook</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> that anyone can edit.</i>
-	flavor_text: <i-flavor></i-flavor>
+		At the beginning of your upkeep, reveal your hand to target opponent. That opponent may choose a card. If they do, shuffle that card into your library, then draw two cards.
+	flavor_text: <i-flavor>A <error-spelling:en_US>Spellbook</error-spelling:en_US> that anyone can edit.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

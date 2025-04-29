@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:41:49
-	time_modified: 2025-04-29 02:37:12
+	time_modified: 2025-04-29 13:32:32
 	name: Trendy Nightclub
 	image: 
 	image_2: 
@@ -18,9 +18,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When Trendy Nightclub enters, drink.
-		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> to your mana pool
-		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>WWW</sym-auto> to your mana pool.
+		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>WWW</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-name>This creature</atom-cardname> attacks every turn if able.
-		Drink <sym-auto>2</sym-auto>: Return <atom-cardname><nospellcheck><sym>?</sym> Drunken Skeleton</nospellcheck></atom-cardname> from the graveyard to the battlefield.
+		Drink <sym-auto>2</sym-auto>: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from the graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

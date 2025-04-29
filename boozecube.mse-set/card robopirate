@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Target opponent drinks.
-		<sym-auto>UU</sym-auto>: Untap <atom-cardname><nospellcheck>Robopirate</nospellcheck></atom-cardname>.
+		<sym-auto>UU</sym-auto>: Untap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

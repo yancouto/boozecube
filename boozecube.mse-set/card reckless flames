@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-cardname><nospellcheck>Reckless Flames</nospellcheck></atom-cardname> deals 8 damage to target creature or planeswalker. Excess damage is dealt to you, and you drink that same amount.
+	rule_text: <atom-name><nospellcheck>This spell</nospellcheck></atom-cardname> deals 8 damage to target creature or planeswalker. Excess damage is dealt to you, and you drink that same amount.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature gets +1/+1 for each age counter on <atom-cardname><nospellcheck>Homeric Epic</nospellcheck></atom-cardname>.
+		Enchanted creature gets +1/+1 for each age counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

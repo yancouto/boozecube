@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-cardname><nospellcheck>Introvert Bear</nospellcheck></atom-cardname> gets -X/-X, where X is the number of other creatures on the battlefield
+	rule_text: <atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> gets -X/-X, where X is the number of other creatures on the battlefield
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8

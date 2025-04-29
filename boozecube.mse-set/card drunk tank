@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:19:07
-	time_modified: 2025-04-27 16:34:43
+	time_modified: 2025-04-29 13:29:54
 	name: Drunk Tank
 	image: 
 	image_2: 
@@ -18,9 +18,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		You may choose not to untap <atom-cardname><nospellcheck>Drunk Tank</nospellcheck></atom-cardname> during your untap step. If you choose not to untap it, drink.
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto> to your mana pool.
-		<sym-auto>T</sym-auto>: Target creature doesn’t untap as normal while <atom-cardname><nospellcheck>Drunk Tank</nospellcheck></atom-cardname> remains tapped.
+		You may choose not to untap <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> during your untap step. If you choose not to untap it, drink.
+		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
+		<sym-auto>T</sym-auto>: Target creature doesn’t untap as normal while <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> remains tapped.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

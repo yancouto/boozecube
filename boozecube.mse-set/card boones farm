@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:17:17
-	time_modified: 2025-04-29 02:40:21
+	time_modified: 2025-04-29 13:29:03
 	name: Boone’s Farm
 	image: 
 	image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto> to your mana pool.
+		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
 		<sym-auto>X3</sym-auto>, <sym-auto>T</sym-auto>: Target creature gets +X/+0 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until the end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

@@ -29,8 +29,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Drink <sym-auto>3</sym-auto>: Put +1/+1 counter on <atom-cardname><nospellcheck>Deerblood Huntmaster</nospellcheck></atom-cardname>.
-		If damage would be dealt to <atom-cardname><nospellcheck>Deerblood Huntmaster</nospellcheck></atom-cardname>, prevent that damage. Remove a +1/+1 counter for each damage prevented this way.
+		Drink <sym-auto>3</sym-auto>: Put +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		If damage would be dealt to <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, prevent that damage. Remove a +1/+1 counter for each damage prevented this way.
 	flavor_text: <i-flavor><error-spelling:en_US>Jagermeister</error-spelling:en_US> is German for <error-spelling:en_US>Huntmaster</error-spelling:en_US>. Now you know, and knowing is half the battle.</i-flavor>
 	power: 0
 	toughness: 1

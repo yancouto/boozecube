@@ -26,7 +26,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Berserkohol</nospellcheck></atom-cardname> enters, you may take a shot or chug a beer. If you do, creatures you control gain +2/+0 and <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may take a shot or chug a beer. If you do, creatures you control gain +2/+0 and <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>Ask me what I know about dwarfs.</i-flavor>
 	power: 4
 	toughness: 2

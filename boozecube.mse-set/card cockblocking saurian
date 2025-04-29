@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Cockblocking Saurian</nospellcheck></atom-cardname> enters, drink 4 if it is an opponent’s turn.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, drink 4 if it is an opponent’s turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

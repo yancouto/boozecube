@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-name>This spell</atom-cardname> deals 4 damage to target creature or player.
-		When <atom-cardname><nospellcheck>Burning Sensation</nospellcheck></atom-cardname> is put into your graveyard from anywhere, flip a coin. If you win the flip, you may return <atom-cardname><nospellcheck>Burning Sensation</nospellcheck></atom-cardname> to your hand. If you lose, exile <atom-cardname><nospellcheck>Burning Sensation</nospellcheck></atom-cardname> and drink 10.
+		When <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> is put into your graveyard from anywhere, flip a coin. If you win the flip, you may return <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> to your hand. If you lose, exile <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> and drink 10.
 	flavor_text: <i-flavor>At a pub <error-spelling:en_US>Ravnica</error-spelling:en_US>, Chandra once admitted to an admirer that the carpet matched the drapes. To his dismay, her would-be suitor later discovered that both tended to catch fire when she was excited.</i-flavor>
 	illustrator: The Internet is for Porn
 	illustrator_brush: art old

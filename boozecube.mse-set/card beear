@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Beear</nospellcheck></atom-cardname> enters, you may chug a beer. If you do, destroy target artifact or enchantment.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may chug a beer. If you do, destroy target artifact or enchantment.
 	flavor_text:
 		<i-flavor>What do you call bears without ears?
 		</i-flavor>

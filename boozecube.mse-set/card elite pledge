@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the end of each turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Elite Pledge</nospellcheck></atom-cardname> if two or more players drank that turn.
+	rule_text: At the end of each turn, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> if two or more players drank that turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

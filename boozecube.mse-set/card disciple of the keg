@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <kw-A><nospellcheck><key>Chugtouch</key></nospellcheck><atom-reminder-expert> <i-auto>(When this this creature deals combat damage to a player, they chug a beer.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Chugtouch</key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, they chug a beer.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-auto></atom-reminder-expert></kw-A></i-flavor>
 	power: 1
 	toughness: 1

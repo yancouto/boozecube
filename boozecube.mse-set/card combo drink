@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Combo Drink</nospellcheck></atom-cardname>: Finish your game beverage, refill it, then finish it again. Untap all your lands.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Finish your game beverage, refill it, then finish it again. Untap all your lands.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Alguém</error-spelling:en_US> <error-spelling:en_US>vai</error-spelling:en_US> me <error-spelling:en_US>pegando</error-spelling:en_US> <error-spelling:en_US>uma</error-spelling:en_US> <error-spelling:en_US>breja</error-spelling:en_US> <error-spelling:en_US>que</error-spelling:en_US> <error-spelling:en_US>eu</error-spelling:en_US> <error-spelling:en_US>vou</error-spelling:en_US> <error-spelling:en_US>combar</error-spelling:en_US> <error-spelling:en_US>aqui</error-spelling:en_US>.”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

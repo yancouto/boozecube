@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 21:45:37
-	time_modified: 2025-04-27 19:16:10
+	time_modified: 2025-04-29 13:30:30
 	name: Oracle of Dis’Qo
 	casting_cost: 3B
 	image: 
@@ -19,10 +19,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Drink 3<sym></sym>, <sym-auto>T</sym-auto>: Target creature gains <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
+		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Target creature gains <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
 		Take a shot: Gain 5 life
 		Pay 1 life: Target player drinks 2.
-		<sym-auto>1B</sym-auto>: Add one mana of any color to your mana pool, then drink.
+		<sym-auto>1B</sym-auto>: Add one mana of any color, then drink.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

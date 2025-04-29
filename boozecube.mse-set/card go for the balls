@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Dredge <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(If you would draw a card, you may mill <param-number>three</param-number> cards instead. If you do, return this card from your graveyard to your hand.)</i-auto></atom-reminder-expert></kw-A>
 		Destroy target creature. It can’t be regenerated.
-		When you dredge <atom-cardname><nospellcheck>Go for the Balls</nospellcheck></atom-cardname>, take a shot.
+		When you dredge <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>, take a shot.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

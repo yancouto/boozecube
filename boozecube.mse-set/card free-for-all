@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck><sym>?</sym> Free-For-All</nospellcheck></atom-cardname> enters, exile all other non-land permanents.
-		At the beginning of each player’s upkeep, that player chooses a card exiled with <atom-cardname><nospellcheck><sym>?</sym> Free-For-All</nospellcheck></atom-cardname> at random and puts it on the battlefield.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile all other non-land permanents.
+		At the beginning of each player’s upkeep, that player chooses a card exiled with <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> at random and puts it on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

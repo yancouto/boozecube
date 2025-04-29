@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>3</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
-		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>Order of the Bottle</nospellcheck></atom-cardname>, creatures you control gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, creatures you control gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

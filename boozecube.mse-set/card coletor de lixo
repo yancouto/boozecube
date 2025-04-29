@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Draft this card  face up.
-		Each player passes the last card from each booster pack to a player who drafted <atom-cardname><nospellcheck>Coletor de Lixo</nospellcheck></atom-cardname>.
+		Each player passes the last card from each booster pack to a player who drafted <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 		<kw-0><nospellcheck><key>Boozetouch</key></nospellcheck></kw-0>
 		<sym-auto>T</sym-auto>: Put a target card from your graveyard on the bottom of your library.
 	flavor_text: <i-flavor></i-flavor>

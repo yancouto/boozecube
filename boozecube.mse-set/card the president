@@ -20,9 +20,9 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>The President</nospellcheck></atom-cardname> becomes attached to a player, that player gains 5 life.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> becomes attached to a player, that player gains 5 life.
 		Enchanted player has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and “<sym-auto>2</sym-auto>: Target player drinks”.
-		If <atom-cardname><nospellcheck>The President</nospellcheck></atom-cardname> would be destroyed, instead exile it and return it to the battlefield enchanting the player who controlled the spell or ability that destroyed it
+		If <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> would be destroyed, instead exile it and return it to the battlefield enchanting the player who controlled the spell or ability that destroyed it
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hall to the Chief, baby
 	illustrator_brush: art old

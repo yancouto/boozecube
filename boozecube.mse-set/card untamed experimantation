@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-03-26 15:48:44
+	time_modified: 2025-04-29 13:46:21
 	name: Untamed Experimantation
 	casting_cost: 2R
 	image: 
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>1W</sym-auto>: Search your library for an enchantment card, reveal it, then put it in your hand. Then discard a card at random from your hand. Drink.
-		<sym-auto>1U</sym-auto>: Search your library for an instant card, reveal it, then put it in your hand. Then discard a card at random from your hand. Drink.
+		<sym-auto>1W</sym-auto>: Search your library for an enchantment card, reveal it, then put it in your hand and shuffle. Then discard a card at random from your hand. Drink.
+		<sym-auto>1U</sym-auto>: Search your library for an instant card, reveal it, then put it in your hand and shuffle. Then discard a card at random from your hand. Drink.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

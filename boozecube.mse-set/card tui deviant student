@@ -1,10 +1,13 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 22:11:52
-	time_modified: 2025-03-28 22:14:45
-	name: Tui, Deviant Student 
+	time_modified: 2025-04-29 13:37:33
+	name: [?] Tui, Deviant Student 
+	name_2: ??
 	casting_cost: R/W
 	image: 
 	image_2: 
@@ -19,8 +22,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		At the beginning of each upkeep, drink <sym-auto>X</sym-auto>, where X is the number of <kw-A><nospellcheck><key>training</key></nospellcheck> counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tui</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. At the beginning of your upkeep, if <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tui</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has 5 or more <kw-A><nospellcheck><key>training</key></nospellcheck> counters, transform it.<blob></kw-A><moved><atom-reminder-expert> <i-auto>(Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-expert></kw-A></moved></blob>
-		<sym-auto>T</sym-auto>: Put <kw-A><nospellcheck><key>training</key></nospellcheck> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tui</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <atom-reminder-expert> <i-auto>(Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-expert></kw-A>
+		At the beginning of each upkeep, drink for each <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> has 5 or more <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counters, transform it.
+		<sym-auto>T</sym-auto>: Put <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3

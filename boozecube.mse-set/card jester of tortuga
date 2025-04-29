@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<sym-auto>1</sym-auto>: Look at the top three cards of your library and put them back in any order.
-		<sym-auto>T</sym-auto>: Draw a card, then put <atom-cardname><nospellcheck>Jester of Tortuga</nospellcheck></atom-cardname> on top of your library.
+		<sym-auto>T</sym-auto>: Draw a card, then put <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> on top of your library.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

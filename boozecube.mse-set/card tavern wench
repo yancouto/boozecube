@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:49:28
-	time_modified: 2025-04-29 01:54:32
+	time_modified: 2025-04-29 13:30:54
 	name: Tavern Wench
 	casting_cost: G
 	image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>. If you’ve drank this turn, you may add one additional mana of any color to your mana pool.
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>. If you’ve drank this turn, you may add one additional mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

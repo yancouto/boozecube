@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 16:15:00
-	time_modified: 2025-04-27 15:56:59
+	time_modified: 2025-04-29 13:29:27
 	border_color: rgb(0,0,0)
 	card_color: black
 	name: Calculated Gamble
@@ -24,8 +24,8 @@ card:
 		<atom-name>This spell</atom-cardname> is black.
 		<kw-0><nospellcheck><key>Suspend <param-number>3</param-number>—<param-cost><sym-auto>B</sym-auto>, Pay X life</param-cost>.</key></nospellcheck></kw-0>
 		Gain X life. Then:
-		- If you gained at least 10 life, add <sym>BBBBBB</sym> to your mana pool.
-		- If you gained at least 20 life, add <sym-auto>BBBBBB</sym-auto> more to your mana pool.
+		- If you gained at least 10 life, add <sym>BBBBBB</sym>.
+		- If you gained at least 20 life, add <sym-auto>BBBBBB</sym-auto> more.
 		Until end of turn, this mana doesn’t leave your mana pool as steps and phases end.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

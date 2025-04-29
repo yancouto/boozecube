@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-name>This creature</atom-cardname> enters with eleven -1/-1 counters on it.
-		<sym-auto>0</sym-auto>: Drink <sym-auto>X</sym-auto>, where X equals the number of counters on <atom-cardname><nospellcheck>Death’s Drinking Buddy</nospellcheck></atom-cardname>. If you do, remove a -1/-1 counter from <atom-cardname><nospellcheck>Death’s Drinking Buddy</nospellcheck></atom-cardname>.
+		<sym-auto>0</sym-auto>: Drink <sym-auto>X</sym-auto>, where X equals the number of counters on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. If you do, remove a -1/-1 counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 12
 	toughness: 12

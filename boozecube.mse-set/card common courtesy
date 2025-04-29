@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Whenever another player casts a spell without asking your permission while casting it, counter that spell.
-		When another player asks you permission to cast a spell and you refuse, counter that spell, sacrifice <atom-cardname><nospellcheck>Common Courtesy</nospellcheck></atom-cardname> and drink.
+		When another player asks you permission to cast a spell and you refuse, counter that spell, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> and drink.
 	flavor_text: <i-flavor>“You didn’t say the magic word!”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

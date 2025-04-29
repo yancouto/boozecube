@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		Sacrifice <atom-cardname><nospellcheck>Margarita Bear</nospellcheck></atom-cardname>: Destroy target artifact or enchantment, then drink <sym-auto>X</sym-auto>, where X is its mana value.
+		Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Destroy target artifact or enchantment, then drink <sym-auto>X</sym-auto>, where X is its mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

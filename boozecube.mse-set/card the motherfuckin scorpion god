@@ -29,7 +29,7 @@ card:
 	rule_text:
 		Whenever a creature with a -1/-1 counter on it dies, its controller takes a shot.
 		<sym-auto>1BR</sym-auto>: Put -1/-1 counter on target creature. Drink 2.
-		When <atom-cardname><nospellcheck>The Motherfuckin Scorpion God</nospellcheck></atom-cardname> dies, take a shot, and return it to its owner hand at the end of your next turn.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, take a shot, and return it to its owner hand at the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

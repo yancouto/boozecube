@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 12:35:25
-	time_modified: 2025-03-23 12:36:54
+	time_modified: 2025-04-29 14:01:39
 	name: Zombie’s Appetizer
 	casting_cost: 2BB
 	image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Each opponent drinks <sym-auto>XX</sym-auto>, where X is the number of creatures in your graveyard. You gain life equal to the total number of drinks consumed.
+	rule_text: Each opponent drinks XX<sym></sym>, where X is the number of creatures in your graveyard. You gain life equal to the total number of drinks consumed.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

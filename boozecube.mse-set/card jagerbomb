@@ -19,9 +19,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Jagerbomb</nospellcheck></atom-cardname> enters tapped.
+		<atom-name><nospellcheck>This artifact</nospellcheck></atom-cardname> enters tapped.
 		Take a shot: Put a fate counter on target permanent.
-		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Jagerbomb</nospellcheck></atom-cardname>: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

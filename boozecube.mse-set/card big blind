@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		At the beginning of enchanted player’s end step, he or she puts a bet counter on <atom-cardname><nospellcheck>Big Blind</nospellcheck></atom-cardname> and attaches it to the previous player in turn order.
-		At the beginning of each player’s upkeep, enchanted player drink </sym>X<sym>, where X is the number of bet counters on <atom-cardname><nospellcheck>Big Blind</nospellcheck></atom-cardname>. 
+		At the beginning of enchanted player’s end step, he or she puts a bet counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> and attaches it to the previous player in turn order.
+		At the beginning of each player’s upkeep, enchanted player drink </sym>X<sym>, where X is the number of bet counters on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

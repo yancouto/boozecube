@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:37:02
-	time_modified: 2025-04-17 01:57:02
+	time_modified: 2025-04-29 13:29:18
 	name: Booze Confluence
 	image: 
 	image_2: 
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto> to your mana pool
-		<sym-auto>T</sym-auto>: Add 1 booze counter to <atom-cardname><nospellcheck>Booze Confluence</nospellcheck></atom-cardname> and drink for each booze counter in <atom-cardname><nospellcheck>Booze Confluence</nospellcheck></atom-cardname>. Add one mana of any color to your mana pool.
+		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>
+		<sym-auto>T</sym-auto>: Add 1 booze counter to <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> and drink for each booze counter in <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>. Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

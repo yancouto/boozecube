@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Choose an opponent. Play Rock-Paper-Scissors against them <i-auto>(best out of 3)</i-auto>. If you win, <atom-cardname><nospellcheck>Rock-Paper-Punch</nospellcheck></atom-cardname> deals 5 damage to them or any target they control.
+	rule_text: Choose an opponent. Play Rock-Paper-Scissors against them <i-auto>(best out of 3)</i-auto>. If you win, <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals 5 damage to them or any target they control.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

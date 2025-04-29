@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Firewater Shamam</nospellcheck></atom-cardname> enters or a source you control causes an opponent to drink 5 or more, you may create a 5/5 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or a source you control causes an opponent to drink 5 or more, you may create a 5/5 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

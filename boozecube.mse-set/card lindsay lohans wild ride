@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-04-27 18:30:14
+	time_modified: 2025-04-29 13:30:09
 	name: Lindsay Lohan’s Wild Ride
 	casting_cost: 2R
 	image: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
-		At the beginning of your precombat main phase, flip a coin. If you win the flip, add <sym-auto>R</sym-auto> to your mana pool for each age counter on <atom-cardname><nospellcheck>Lindsay Lohan’s Wild Ride</nospellcheck></atom-cardname>. If you lose the flip, add an additional age counter.
+		At the beginning of your precombat main phase, flip a coin. If you win the flip, add R for each age counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>. If you lose the flip, add an additional age counter.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Drunk Driving
 	illustrator_brush: art old

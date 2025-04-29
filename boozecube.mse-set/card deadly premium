@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Intimidate</key></nospellcheck>, <kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><blob><atom-reminder-old> <i-auto>(This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.</atom-reminder-old></kw-A><moved><atom-reminder-core> When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1></moved></blob>
-		Sacrifice <atom-cardname><nospellcheck>Deadly Premium</nospellcheck></atom-cardname>: Return target artifact in a graveyard to its owner’s hand.
+		<kw-A><nospellcheck><key>Intimidate</key></nospellcheck>, <kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><blob><atom-reminder-old> <i-auto>(This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.</atom-reminder-old></kw-A><moved><atom-reminder-core> When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1></moved></blob>
+		Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Return target artifact in a graveyard to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

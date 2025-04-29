@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Tequilastodon</nospellcheck></atom-cardname> enters you may destroy up to 3 noncreature permanents. For each permanent destroyed this way, you drink 3<sym></sym>, its controller drinks 3 and creates a 3/3 green “Drunk Elephant” creature token.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters you may destroy up to 3 noncreature permanents. For each permanent destroyed this way, you drink 3<sym></sym>, its controller drinks 3 and creates a 3/3 green “Drunk Elephant” creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 9
 	toughness: 9

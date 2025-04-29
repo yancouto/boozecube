@@ -21,8 +21,8 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Redemption <param-number>100</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature enters with <param-number>100</param-number> redemption counters. Remove one for each drink you take and fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>, <kw-1><nospellcheck><key>Melee</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</i-auto></atom-reminder-expert></kw-1>
-		Whenever <atom-cardname><nospellcheck>Guzman, the Jock</nospellcheck></atom-cardname> blocks a creature, that creature gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
-		Whenever <atom-cardname><nospellcheck>Guzman, the Jock</nospellcheck></atom-cardname> has no more <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0>, transform it.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> blocks a creature, that creature gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has no more <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0>, transform it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 2

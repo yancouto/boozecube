@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As <atom-cardname><nospellcheck>Censorship</nospellcheck></atom-cardname> enters, choose a word.
-		Whenever a player says the chosen word, <atom-cardname><nospellcheck>Censorship</nospellcheck></atom-cardname> deals 2 damage to that player.
+		As <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, choose a word.
+		Whenever a player says the chosen word, <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> deals 2 damage to that player.
 	flavor_text: <i-flavor>“[REDACTED]”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

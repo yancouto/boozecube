@@ -29,8 +29,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
-		Sacrifice <atom-cardname><nospellcheck>Dirty Hippie</nospellcheck></atom-cardname>: Destroy target artifact or enchantment.
+		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Destroy target artifact or enchantment.
 	flavor_text: <i-flavor>We should all just like naturalize, man.</i-flavor>
 	power: 1
 	toughness: 1

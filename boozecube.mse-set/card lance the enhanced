@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Lance the Enhanced</nospellcheck></atom-cardname> is unblockable.
-		You may sneak <atom-cardname><nospellcheck>Lance the Enhanced</nospellcheck></atom-cardname> into play at any time without paying for it, but if an opponent catches you right away, sacrifice it and drink 10.
+		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> is unblockable.
+		You may sneak <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> into play at any time without paying for it, but if an opponent catches you right away, sacrifice it and drink 10.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

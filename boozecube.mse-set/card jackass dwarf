@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>Jackass Dwarf</nospellcheck></atom-cardname> dies, it deals 2 damage to each non-dwarf creature.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, it deals 2 damage to each non-dwarf creature.
 	flavor_text: <i-flavor>Explosives and ale: a match made heaven.</i-flavor>
 	power: 3
 	toughness: 2

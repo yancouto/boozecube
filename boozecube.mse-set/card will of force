@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 17:13:17
-	time_modified: 2025-04-01 20:48:14
+	time_modified: 2025-04-29 13:55:55
 	name: Will of Force
 	casting_cost: RG
 	image: 
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Counter target spell, if you do XX push ups, where X is that spell mana value.
-		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>RG</sym-auto></param-cost></key></nospellcheck>, number of push ups is doubled until end of turn.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		Counter target spell if you do XX push ups, where X is that spell’s mana value.
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>RG</sym-auto>, number of push ups is doubled until end of turn</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

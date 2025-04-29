@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Buyback drink XX <i-auto>(You may drink XX as you cast this spell. If you do,  put this card into your hand and it resolves.)</i-auto>
-		<atom-cardname><nospellcheck>Hadouken</nospellcheck></atom-cardname> deals X damage to target creature or player.
+		<atom-name><nospellcheck>This spell</nospellcheck></atom-cardname> deals X damage to target creature or player.
 	flavor_text: <i-flavor>Up, Up, Down, Down, Left, Right, Left, Right, B, A, Select, Start</i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

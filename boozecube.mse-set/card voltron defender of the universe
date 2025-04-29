@@ -3,8 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 16:10:25
-	time_modified: 2025-04-29 02:43:03
-	name: Voltron, Defender of the Universe
+	time_modified: 2025-04-29 13:50:14
+	name: [?] Voltron, Defender of the Universe
 	casting_cost: 9
 	image: 
 	image_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>5</sym-auto>: <atom-legname><nospellcheck>Voltron</nospellcheck></atom-legname> has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>5</sym-auto>: <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> gains <kw-0><nospellcheck><key>trample</key></nospellcheck></kw-0> and loses <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 9
 	toughness: 9

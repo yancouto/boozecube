@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		At the beginning of your upkeep, you may drink 5. If you do, gain 3 life and your creatures can’t attack this turn.
-		Sacrifice <atom-cardname><nospellcheck>Drunken Stupor</nospellcheck></atom-cardname>: Creatures you control get +2/+2 and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		Sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>: Creatures you control get +2/+2 and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

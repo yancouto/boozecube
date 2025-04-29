@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
-		<sym-auto>L/W</sym-auto>: <atom-cardname><nospellcheck>Etherium History Major</nospellcheck></atom-cardname> Major gets +0/+1 until end of turn.
+		<sym-auto>L/W</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> Major gets +0/+1 until end of turn.
 	flavor_text: <i-flavor>“Halt, bro.”</i-flavor>
 	power: 2
 	toughness: 4

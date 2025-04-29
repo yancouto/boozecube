@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever a source you control causes an opponent to drink 3 or more, you may have <atom-cardname><nospellcheck>Blasphemous Art</nospellcheck></atom-cardname> deal 2 damage to that opponent or to a creature that he or she controls.
+	rule_text: Whenever a source you control causes an opponent to drink 3 or more, you may have <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> deal 2 damage to that opponent or to a creature that he or she controls.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

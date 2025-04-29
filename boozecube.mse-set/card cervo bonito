@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>3</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Cervo Bonito</nospellcheck></atom-cardname>: Search your library for up to two drink lands, put them onto the battlefield tapped, then shuffle.
+		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>3</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Search your library for up to two drink lands, put them onto the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

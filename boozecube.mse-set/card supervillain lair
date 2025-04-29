@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:30:23
-	time_modified: 2025-04-29 01:50:51
+	time_modified: 2025-04-29 13:30:52
 	name: Supervillain Lair
 	image: 
 	image_2: 
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto> to your mana pool.)</i-auto>
-		<atom-cardname><nospellcheck>Supervillain Lair</nospellcheck></atom-cardname> enters tapped unless you drink 3.
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>“I’m not a comic-book villain. Do you seriously think I would explain my master stroke to you if there where even the slightest possibility you could affect the outcome?”- Ozymandias</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

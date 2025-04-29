@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Shotwing Phoenix</nospellcheck></atom-cardname> enters, you may take a shot, if you don’t, <atom-cardname><nospellcheck>Shotwing Phoenix</nospellcheck></atom-cardname> deals 4 damage to you.
-		<sym-auto>1RR</sym-auto>: Return <atom-cardname><nospellcheck>Shotwing Phoenix</nospellcheck></atom-cardname> from your graveyard to the battlefield.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may take a shot, if you don’t, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 4 damage to you.
+		<sym-auto>1RR</sym-auto>: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

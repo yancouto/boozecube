@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 16:44:39
-	time_modified: 2025-03-27 16:46:19
+	time_modified: 2025-04-29 14:00:21
 	name: Xatrid Butterface
 	casting_cost: 3BB
 	image: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Destroy target creature. Drink <sym-auto>X</sym-auto>, where X is that creature’s toughness.
+		<sym-auto>T</sym-auto>: Destroy target creature. Drink <sym></sym>X, where X is that creature’s toughness.
 	flavor_text: <i-flavor>You’ll definitely need a paper bag.</i-flavor>
 	power: 2
 	toughness: 5

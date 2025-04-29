@@ -21,7 +21,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <sym-auto>2</sym-auto>: Put a lemon counter on <atom-cardname><nospellcheck><sym>?</sym> Declaration of Independence</nospellcheck></atom-cardname>. Then if there are two or more counters on it, remove those counters and transform it.
+	rule_text: <sym-auto>2</sym-auto>: Put a lemon counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>. Then if there are two or more counters on it, remove those counters and transform it.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

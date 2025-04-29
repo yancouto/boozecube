@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<sym-auto>R/G</sym-auto>, <sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>That Guy</nospellcheck></atom-cardname> fights target creature.
-		Drink <sym-auto>2</sym-auto>: <atom-cardname><nospellcheck>That Guy</nospellcheck></atom-cardname> gets +1/+1 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>R/G</sym-auto>, <sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> fights target creature.
+		Drink <sym-auto>2</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+1 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>You think you’re <error-spelling:en_US>better’n</error-spelling:en_US> me, huh?</i-flavor>
 	power: 0
 	toughness: 1

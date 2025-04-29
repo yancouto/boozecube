@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Cocktail</nospellcheck></atom-cardname> enters, you may take a shot. If you do, return up to two target nonland permanents to their owner’s hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may take a shot. If you do, return up to two target nonland permanents to their owner’s hand.
 	flavor_text: <i-flavor>What does the bird hates most about baseball?</i-flavor>
 	power: 2
 	toughness: 2

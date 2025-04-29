@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Abilities that say “Equipped creature” also apply to <atom-cardname><nospellcheck>Equipped Creature</nospellcheck></atom-cardname>.
+		Abilities that say “Equipped creature” also apply to <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 		Equipment spells cost <sym-auto>2</sym-auto> less to cast.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

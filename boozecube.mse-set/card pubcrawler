@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-cardname><nospellcheck>Pubcrawler</nospellcheck></atom-cardname> can’t block.
-		Drink <sym></sym>2: You may cast <atom-cardname><nospellcheck>Pubcrawler</nospellcheck></atom-cardname> from your graveyard.
+		<atom-name><nospellcheck>This creature</nospellcheck></atom-cardname> can’t block.
+		Drink <sym></sym>2: You may cast <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard.
 	flavor_text: <i-flavor>Randall wasn’t going to let a little thing like death stand in the way of a one night stand with a cyclops.</i-flavor>
 	power: 2
 	toughness: 1

@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		You and target opponent each flip a coin:
-		- If a player gets tails, <atom-cardname><nospellcheck>Corote Clash</nospellcheck></atom-cardname> deals 1 damage to that player.
+		- If a player gets tails, <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals 1 damage to that player.
 		- If a player gets heads, that player drinks 1.
 		Repeat this process until both players coins come up heads on the same flip.
 	flavor_text: <i-flavor></i-flavor>

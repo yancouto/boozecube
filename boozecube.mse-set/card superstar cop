@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Superstar Cop</nospellcheck></atom-cardname> enters, chug a beer to show everyone you are a cool rock star.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, chug a beer to show everyone you are a cool rock star.
 	flavor_text: <i-flavor>“They say the world isn’t ready for a rock-n-roll cop”.</i-flavor>
 	power: 3
 	toughness: 3

@@ -1,9 +1,17 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 11
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-29 17:29:36
-	time_modified: 2025-04-17 00:57:15
+	time_modified: 2025-04-29 14:00:58
 	name: Yan, the Returned King
 	casting_cost: L/WL/UL/BL/RL/G
 	image: 
@@ -23,7 +31,7 @@ card:
 		<sym-auto>1G</sym-auto>: Put a +1/+1 counter on target creature.
 		<sym-auto>2W</sym-auto>: Target player gains 5 life
 		<sym-auto>3U</sym-auto>: Target player draws a card.
-		<sym-auto>4B</sym-auto>:Put target creature card from a graveyard onto the battlefield under its owner’s control
+		<sym-auto>4B</sym-auto>: Put target creature card from a graveyard onto the battlefield under its owner’s control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

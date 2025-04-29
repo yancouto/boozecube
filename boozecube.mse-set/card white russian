@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 21:39:05
-	time_modified: 2025-03-28 21:40:08
+	time_modified: 2025-04-29 13:53:45
 	name: White Russian
 	casting_cost: 2WW
 	image: 
@@ -18,10 +18,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto>
-		<i>In Russia, card taps you.</i>
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>In Russia, card taps you.</i-flavor>
 	power: 2
 	toughness: 5
 	illustrator_brush: art old

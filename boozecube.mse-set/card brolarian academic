@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-A><nospellcheck><key>Protection from <param-name>red and black</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything red and black.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Brolarian Academic</nospellcheck></atom-cardname> enters, chug a beer.
-		Whenever <atom-cardname><nospellcheck>Brolarian Academic</nospellcheck></atom-cardname> deals combat damage to a player, create a 2/2 white Pledge creature token.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, chug a beer.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, create a 2/2 white Pledge creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 5

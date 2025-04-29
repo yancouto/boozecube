@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <atom-cardname><nospellcheck>Tarmodrink</nospellcheck></atom-cardname>’s power is the number of drinks <i-auto>(combining all instances)</i-auto> you have taken this turn, and its toughness is that number plus 1.
+	rule_text: <atom-name><nospellcheck>This creature</nospellcheck></atom-cardname>’s power is the number of drinks <i-auto>(combining all instances)</i-auto> you have taken this turn, and its toughness is that number plus 1.
 	flavor_text: <i-flavor></i-flavor>
 	power: *
 	toughness: *+1

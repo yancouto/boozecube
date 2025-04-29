@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever another player drinks, that player may have the enchanted player also drink.
-		Whenever <atom-cardname><nospellcheck>The Asshole</nospellcheck></atom-cardname> is put into the graveyard from the battlefield, enchanted player may return it to the battlefield targeting another player.
+		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> is put into the graveyard from the battlefield, enchanted player may return it to the battlefield targeting another player.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Beerfest
 	illustrator_brush: art old
