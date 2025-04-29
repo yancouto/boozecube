@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 21:30:13
+	time_modified: 2025-04-27 16:02:57
+	name: Cursed Graveyard
+	casting_cost: 3BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Opponent’s creatures enter the battlefield with 6 <kw-A><nospellcheck><key>redemption counters</key></nospellcheck> on them.<atom-reminder-expert> <i-auto>(Remove one redemption counter from your creatures for each drink you take, or fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever a creature with redemption counter dies, return it under your control at the end of the turn.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-20 16:15:00
+	time_modified: 2025-04-27 15:56:59
+	border_color: rgb(0,0,0)
+	card_color: black
+	name: Calculated Gamble
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<atom-name>This spell</atom-cardname> is black.
+		<kw-0><nospellcheck><key>Suspend <param-number>3</param-number>—<param-cost><sym-auto>B</sym-auto>, Pay X life</param-cost>.</key></nospellcheck></kw-0>
+		Gain X life. Then:
+		- If you gained at least 10 life, add <sym>BBBBBB</sym> to your mana pool.
+		- If you gained at least 20 life, add <sym-auto>BBBBBB</sym-auto> more to your mana pool.
+		Until end of turn, this mana doesn’t leave your mana pool as steps and phases end.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

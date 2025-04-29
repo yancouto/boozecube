@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 18:19:28
+	time_modified: 2025-03-22 18:20:37
+	name: Poke Wars
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Deal 1 damage to opponent, that player drinks. Any player may pay <sym-auto>1</sym-auto> to copy this spell and choose new target
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

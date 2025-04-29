@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 21:08:14
+	time_modified: 2025-04-29 02:29:59
+	name: Bar Tab
+	casting_cost: XBBB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-name>This enchantment</atom-cardname> enters with X bill counters on it. Whenever you take a shot, you may put three bill counters on <atom-cardname><nospellcheck>Bar Tab</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, remove a bill counter. If there are no bill counters on <atom-cardname><nospellcheck>Bar Tab</nospellcheck></atom-cardname>, sacrifice each nonland permanent you control.
+		Whenever you tap a Swamp for mana, add <sym-auto>BB</sym-auto> to your mana pool.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

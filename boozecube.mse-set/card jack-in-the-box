@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 14:16:43
+	time_modified: 2025-04-27 18:14:32
+	name: Jack-in-the-Box
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Roll a D6.
+		<b>1</b>| Chug a beer.
+		<b>2</b>| Add <sym-auto>W</sym-auto> to you mana pool. Drink.
+		<b>3</b>| Add <sym-auto>U</sym-auto> to you mana pool. Drink.
+		<b>4</b>| Add <sym-auto>B</sym-auto> to you mana pool. Drink.
+		<b>5</b>| Add <sym-auto>R</sym-auto> to you mana pool. Drink.
+		<b>6</b>| Add <sym-auto>G</sym-auto> to you mana pool. Drink.
+	flavor_text: <i-flavor>“What’s in the box?”- Brad</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 6
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-28 11:57:16
+	time_modified: 2025-04-29 02:02:01
+	name: The Motherfuckin Scorpion God
+	casting_cost: 1BBRR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever a creature with a -1/-1 counter on it dies, its controller takes a shot.
+		<sym-auto>1BR</sym-auto>: Put -1/-1 counter on target creature. Drink 2.
+		When <atom-cardname><nospellcheck>The Motherfuckin Scorpion God</nospellcheck></atom-cardname> dies, take a shot, and return it to its owner hand at the end of your next turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

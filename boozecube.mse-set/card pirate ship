@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 14:01:09
+	time_modified: 2025-04-01 23:28:50
+	card_color: blue
+	name: Pirate Ship
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Pirate</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ship</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Islandhome <i-auto>(This creature can’t attack unless the defending player controls an Island. When you control no Islands, sacrifice this creature.)</i-auto>
+		<sym-auto>T</sym-auto>: Pirate Ship deals 1 damage to target creature or player.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Arrrr, matey
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

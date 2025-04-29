@@ -1,0 +1,59 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: genevensis-10-saga
+	stylesheet_version: 2022-02-22
+	has_styling: true
+	styling_data:
+		font_size: 
+		center_name: no
+		textboxes: seven
+		snap_chapter_to_box: 3,4,5,6,7
+		chapter_spacing_percentage: 
+		move_chapter_icons: 
+		custom_chapter_icons: 
+		move_separators: 
+		move_textbox_bottoms: 
+		extended_art: no
+		watermark: 
+		legend_crown: special
+		insignia: none
+		transformation_reminder: none
+		banner: no
+		force_left_color: none
+		force_right_color: none
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+		auxiliary_font: 
+	notes: 
+	time_created: 2025-03-21 19:16:36
+	time_modified: 2025-04-27 09:56:26
+	extra_data:
+		magic-m15-meld-3in1: meld_image: 
+	special_text: 
+	name: Bruninho’s Journey
+	casting_cost: 1GGWW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)</i-auto>
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	level_1_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)</i-auto>
+	level_2_text: Ward drink 1</sym><sym>7, take a shot or chug a beer.
+	level_3_text: Drink 17.
+	level_4_text: Take a shot.
+	level_5_text: Chug a beer.
+	level_6_text: Drink </sym>17<sym>, take a shot and chug a beer. 
+	level_7_text: You win the game.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 

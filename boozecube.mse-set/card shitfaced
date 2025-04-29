@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 17:28:33
+	time_modified: 2025-04-29 01:41:57
+	name: Shitfaced
+	casting_cost: U/R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a creature enters, its controller may have target player drink X<sym></sym>, where X is its power.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

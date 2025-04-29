@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 11
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-27 23:11:13
+	time_modified: 2025-04-27 18:25:11
+	name: Kleber Bambam
+	casting_cost: 6BBB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bodybuilder</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>menace</key></nospellcheck></kw-0>
+		<sym-auto>1B</sym-auto>, Reveal this card from your hand, say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>tá</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>vindo</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> o <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>monstro</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>...”: <atom-cardname><nospellcheck>Kleber Bambam</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Ajuda</error-spelling:en_US> o <error-spelling:en_US>maluco</error-spelling:en_US> <error-spelling:en_US>que</error-spelling:en_US> <error-spelling:en_US>tá</error-spelling:en_US> <error-spelling:en_US>doente</error-spelling:en_US>”-<error-spelling:en_US>Karn</i-flavor></error-spelling:en_US>
+	power: 7
+	toughness: 7
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

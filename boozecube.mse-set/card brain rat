@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 18:14:57
+	time_modified: 2025-03-27 18:18:25
+	name: Brain Rat
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When you draft this card, reveal it. Then note the name of another card in this booster pack. Until the noted card isn’t revealed, each player drafting from this booster reveals their drafted card. When the noted card is revealed, that player takes a shot.
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

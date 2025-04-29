@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		shrink_name_text: 
+		shrink_typeline_text: 
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-29 19:45:01
+	time_modified: 2025-04-27 16:18:12
+	name: Dirty Hippie
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		Sacrifice <atom-cardname><nospellcheck>Dirty Hippie</nospellcheck></atom-cardname>: Destroy target artifact or enchantment.
+	flavor_text: <i-flavor>We should all just like naturalize, man.</i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

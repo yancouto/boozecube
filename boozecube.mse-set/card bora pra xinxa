@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-20 17:18:20
+	time_modified: 2025-03-25 11:14:26
+	name: Bora Pra Xinxa
+	casting_cost: 1BRGW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<i-auto>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)</i-auto>
+		Each player reveals their library and puts all creatures revealed this way onto the battlefield under their owners control.
+		Shuffle all libraries. End the turn.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

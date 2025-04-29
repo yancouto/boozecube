@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 20:06:38
+	time_modified: 2025-04-27 18:22:34
+	name: Karol, Draft Protector
+	casting_cost: GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Draft this card face up. Opponent effects can’t cause you to drink/take a shot/chug a beer during the draft.
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

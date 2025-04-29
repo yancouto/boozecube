@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 15:21:05
+	time_modified: 2025-04-17 01:29:47
+	name: Auction Woman
+	casting_cost: 2W/U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Tap: Auction a card. <i-auto>(Get a random card from unused cube cards and auction it, starting with you. Whoever wins the auction puts the card on his/her hand)</i-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 10
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-29 18:36:04
+	time_modified: 2025-04-29 01:40:26
+	name: Seamus O’Leprechaun
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ouphe</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		<sym-auto>G</sym-auto>: Target creature blocks <atom-cardname><nospellcheck>Seamus O’Leprechaun</nospellcheck></atom-cardname> if able. Activate this ability only before blockers are declared.
+		<kw-A><nospellcheck><key>Drinkcycling <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>1</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>They’re always after his lucky charms.</i-flavor>
+	power: 0
+	toughness: 2
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

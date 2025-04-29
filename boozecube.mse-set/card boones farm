@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 11:17:17
+	time_modified: 2025-04-29 02:40:21
+	name: Boone’s Farm
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto> to your mana pool.
+		<sym-auto>X3</sym-auto>, <sym-auto>T</sym-auto>: Target creature gets +X/+0 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until the end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

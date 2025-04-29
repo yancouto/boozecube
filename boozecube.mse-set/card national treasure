@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 16:53:18
+	time_modified: 2025-04-27 19:07:28
+	name: National Treasure
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym>∞</sym> to your mana pool <i-auto>(in any combination of colors)</i-auto>.
+		Sacrifice <atom-cardname><nospellcheck>National Treasure</nospellcheck></atom-cardname>: Destroy all creatures.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

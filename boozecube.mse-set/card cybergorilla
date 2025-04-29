@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 16:15:30
+	time_modified: 2025-04-27 16:03:45
+	name: Cybergorilla
+	casting_cost: 4L/GL/G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(<sym-auto>L/G</sym-auto> can be paid with <sym>G</sym> or drinking 3.)</i-auto>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: artsamitch
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

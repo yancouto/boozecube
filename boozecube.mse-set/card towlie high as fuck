@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 19:46:56
+	time_modified: 2025-03-29 19:49:16
+	name: Towlie, High as Fuck
+	casting_cost: GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Towel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Play with the top card of your library revealed. You may play lands from the top of your library.
+		You may play an additional land on each of your turns.
+		Whenever you play a land, drink.
+		<i>“I have no idea what’s going on.”</i>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

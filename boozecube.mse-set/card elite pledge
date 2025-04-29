@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:55:34
+	time_modified: 2025-04-27 16:44:47
+	name: Elite Pledge
+	casting_cost: WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Pledge</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the end of each turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Elite Pledge</nospellcheck></atom-cardname> if two or more players drank that turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

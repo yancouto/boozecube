@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 13:49:36
+	time_modified: 2025-04-29 01:49:22
+	name: Stomach Pump
+	casting_cost: 1
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever a spell or ability causes you to drink </sym>X<sym>, put that many charge counters on <atom-cardname><nospellcheck>Stomach Pump</nospellcheck></atom-cardname>.
+		Sacrifice <atom-cardname><nospellcheck>Stomach Pump</nospellcheck></atom-cardname>: Gain life equal to the number of counters on <atom-cardname><nospellcheck>Stomach Pump</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 11
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-27 22:19:38
+	time_modified: 2025-04-29 02:36:20
+	name: Mr. Hankey, the Christmas Poo
+	casting_cost: 3B/GB/G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever a creature enters under your control, drink <sym-auto>X</sym-auto>, where X is its mana value.
+		<sym-auto>B/G</sym-auto>, <sym-auto>T</sym-auto>: Sacrifice a creature, then put another target creature from any graveyard onto the battlefield under your control.
+	flavor_text:
+		<i-flavor>It’s the poo of the antelope, the poo of the giraffe
+		Which crawls up to the earth, and becomes the blades of grass
+		The grass is eaten by the cattle, which comes out the other and
+		To make poo for the humans, and start all over again.</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: It’s the circle...the circle of pooooo
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

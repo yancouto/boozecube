@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 16:34:44
+	time_modified: 2025-04-27 19:19:45
+	name: Peaceful Baazar
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Creatures from opponents enter the battlefield with 8 <kw-A><nospellcheck><key>redemption counters</key></nospellcheck>.<atom-reminder-expert> <i-auto>(Remove one redemption counter from your creatures for each drink you take, or fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
+		Creatures with <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0> can’t attack or block.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

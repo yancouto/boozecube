@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 17:53:55
+	time_modified: 2025-03-22 17:57:17
+	name: Luck of the Bard
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Split second</key></nospellcheck><atom-reminder-expert> <i-auto>(As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)</i-auto></atom-reminder-expert></kw-A>
+		Once during this turn, the next time an effect would make you take a shot or chug a beer, target opponent does it instead.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

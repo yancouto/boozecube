@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 17:24:10
+	time_modified: 2025-04-29 01:40:13
+	name: Scrotumbeard
+	casting_cost: 3R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature Goblin</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Protection from <param-name>Dwarves</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted or dealt damage by Dwarves.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Scrotumbeard</nospellcheck></atom-cardname> enters, destroy target artifact.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

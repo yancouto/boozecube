@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:11:36
+	time_modified: 2025-03-28 18:13:55
+	name: Captain Obvious
+	casting_cost: 2BGU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of your draw step, you put the top card of your library into your hand.
+		When you tap a forest for mana, you add <sym-auto>G</sym-auto> to your mana pool.
+		Whenever an opponent takes damage they lose that much life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-conspiracy
+	stylesheet_version: 2024-06-06
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 18:52:23
+	time_modified: 2025-04-29 02:21:52
+	name: Pledge Ritual
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Conspiracy</word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(Begin the game with this card face up on your command zone)</i-auto>
+		At the end of each end step, if every player has drank this turn, create a 2/2 white Pledge creature token.
+		<sym-auto>1W</sym-auto>, Chug a beer: Put two +1/+1 counters on each Pledge creatures you control and they become <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboys</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(This effect doesn’t end.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

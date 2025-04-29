@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 19:25:39
+	time_modified: 2025-04-29 02:36:54
+	name: Treehugger
+	casting_cost: GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Treehugger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, you may search you library for a Forest card and put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

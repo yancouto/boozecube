@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 11:07:51
+	time_modified: 2025-04-29 02:04:22
+	name: Tiki Bar
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When <atom-cardname><nospellcheck>Tiki Bar</nospellcheck></atom-cardname> enters, drink.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> to your mana pool.
+		Drink 3<sym></sym>, <sym-auto>T</sym-auto>: Add <sym>UU</sym> to your mana pool.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

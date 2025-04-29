@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 16:20:49
+	time_modified: 2025-03-27 16:22:11
+	name: Rumrunner
+	casting_cost: 2L/UL/U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Pirate</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(<sym-auto>L/U</sym-auto> can be paid with <sym>U</sym> or drinking 3.)</i-auto>
+		<kw-A><nospellcheck><key><param-prefix>Island</param-prefix>walk</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked as long as defending player controls an <param-prefix>Island</param-prefix>.)</i-auto></atom-reminder-old></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

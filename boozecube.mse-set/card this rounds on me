@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-20 23:29:41
+	time_modified: 2025-03-20 23:31:29
+	name: This Round’s On Me
+	casting_cost: 3UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Epic</key></nospellcheck><atom-reminder-expert> <i-auto>(For the rest of the game, you can’t cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)</i-auto></atom-reminder-expert></kw-A>
+		Gain 1 rum counter. Then every other player takes 1 shot for each rum counter you have.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

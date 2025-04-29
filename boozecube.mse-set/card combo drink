@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 14:12:47
+	time_modified: 2025-04-29 02:33:11
+	name: Combo Drink
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-name>This artifact</atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Combo Drink</nospellcheck></atom-cardname>: Finish your game beverage, refill it, then finish it again. Untap all your lands.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Alguém</error-spelling:en_US> <error-spelling:en_US>vai</error-spelling:en_US> me <error-spelling:en_US>pegando</error-spelling:en_US> <error-spelling:en_US>uma</error-spelling:en_US> <error-spelling:en_US>breja</error-spelling:en_US> <error-spelling:en_US>que</error-spelling:en_US> <error-spelling:en_US>eu</error-spelling:en_US> <error-spelling:en_US>vou</error-spelling:en_US> <error-spelling:en_US>combar</error-spelling:en_US> <error-spelling:en_US>aqui</error-spelling:en_US>.”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

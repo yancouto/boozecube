@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 17:53:24
+	time_modified: 2025-04-29 02:37:31
+	name: Two Girls
+	casting_cost: 1BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Two Girls</nospellcheck></atom-cardname> enters with one cup counter on it.
+		<sym-auto>3BB</sym-auto>, Remove a cup counter: Target player discards his or her hand. Drink 2 for each card discarded.
+	flavor_text: <i-flavor>You’ll lose your lunch when they have theirs.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

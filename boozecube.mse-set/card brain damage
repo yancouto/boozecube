@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 10:22:54
+	time_modified: 2025-04-17 02:01:02
+	name: Brain Damage
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		You may cast <atom-cardname><nospellcheck>Brain Damage</nospellcheck></atom-cardname> any time you could cast an instant if you drink 8 as an additional cost to cast it.
+		Search your library for up to three creature cards and put them in your graveyard. Shuffle your library afterwards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

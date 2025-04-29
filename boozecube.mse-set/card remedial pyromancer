@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 16:42:05
+	time_modified: 2025-04-27 19:52:12
+	name: Remedial Pyromancer
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Intoxicated</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player.
+	flavor_text: <i-flavor>“I still don’t know what was wrong with that kid. He kept raving about his ‘<error-spelling:en_US>bunghole’</error-spelling:en_US>. Sure liked fire though...” —Chandra <error-spelling:en_US>Nalaar</error-spelling:en_US> </i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

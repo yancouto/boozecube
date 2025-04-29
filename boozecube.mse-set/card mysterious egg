@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 18:32:09
+	time_modified: 2025-04-29 02:20:23
+	name: Mysterious Egg
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Egg</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, roll a d6. On a <sym-auto>6</sym-auto>, sacrifice <atom-cardname><nospellcheck>Mysterious Egg</nospellcheck></atom-cardname> and create a 6/6 green “Hatched Dinosaur” creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

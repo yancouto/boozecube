@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 16:27:30
+	time_modified: 2025-03-21 16:29:58
+	name: URSAL
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: Land
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>URSAL</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> comes into play tapped.
+		At the beginning of each upkeep, if there are no red creatures on the battlefield, sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>URSAL</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>RRR</sym-auto> to your mana pool.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

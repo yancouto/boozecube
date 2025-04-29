@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 19:07:59
+	time_modified: 2025-04-29 02:31:59
+	name: Borat Sagdiyev
+	casting_cost: 2G/UG/U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Protection from <param-name>Jew</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted or dealt damage by Jew.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-legname><nospellcheck>Borat Sagdiyev</nospellcheck></atom-legname> enters, draw two card. High-five!
+	flavor_text:
+		<i-flavor>“Oh <error-spelling:en_US>Mirrodin</error-spelling:en_US>, everyone has metal body parts, like my cousin <error-spelling:en_US>Bilo</error-spelling:en_US>. <error-spelling:en_US>Mirrodin</error-spelling:en_US> people are born with their metal, unlike <error-spelling:en_US>Bilo</error-spelling:en_US>, who got new phallus after he tried to make <error-spelling:en_US>sexytime</error-spelling:en_US> explosion in a bear.”
+		</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Is niiiiiiiiiice.
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

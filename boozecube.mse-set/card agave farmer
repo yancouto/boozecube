@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 19:53:24
+	time_modified: 2025-03-29 19:55:05
+	name: Agave Farmer
+	casting_cost: GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> to you mana pool for each creature with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> that you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

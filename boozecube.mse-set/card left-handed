@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 17:30:41
+	time_modified: 2025-04-27 18:27:39
+	name: Left-Handed
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player taps a permanent they control, if they don’t turn the card 90 degrees counter-clockwise, <atom-cardname><nospellcheck>Left-Handed</nospellcheck></atom-cardname> deals 2 damage to that player.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mão
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

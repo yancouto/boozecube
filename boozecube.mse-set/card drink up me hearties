@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 13:47:45
+	time_modified: 2025-04-27 16:31:05
+	name: Drink Up, Me Hearties
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Kicker—<param-cost>drink 3</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>drink 3 in addition to any other costs</param-cost> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
+		Return target creature to its owner’s hand. If <atom-cardname><nospellcheck>Drink Up, Me Hearties</nospellcheck></atom-cardname> was kicked, instead return target permanent to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

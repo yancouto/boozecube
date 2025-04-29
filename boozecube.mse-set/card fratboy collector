@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 21:42:22
+	time_modified: 2025-03-28 21:43:09
+	name: Fratboy Collector
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: You may cast spells you own from outside the game.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

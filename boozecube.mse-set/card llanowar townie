@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 20:53:13
+	time_modified: 2025-04-27 18:34:41
+	name: Llanowar Townie
+	casting_cost: 5G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>GGG</sym-auto> to your mana pool.
+		<kw-A><nospellcheck><key>Drinkcycling <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>4</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>Llanowar Townie</nospellcheck></atom-cardname>, add <sym-auto>GGGG</sym-auto> to your mana pool if you have finished your drinking beverage this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 14:00:03
+	time_modified: 2025-03-22 14:01:19
+	name: Urza’s Beer Goggles
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>1</sym-auto>: Drink 1. If you do, add one mana of any color to your mana pool.
+	flavor_text:
+		<i-flavor>“I like big butts and I cannot lie.”
+		- <error-spelling:en_US>Ghandi</i-flavor></error-spelling:en_US>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

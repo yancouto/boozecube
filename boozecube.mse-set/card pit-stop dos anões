@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:32:31
+	time_modified: 2025-04-29 02:35:26
+	name: Pit-Stop dos Anões
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a dwarf enters, creatures you control lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

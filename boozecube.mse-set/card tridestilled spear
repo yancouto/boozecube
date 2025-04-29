@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 15:00:53
+	time_modified: 2025-04-01 11:03:01
+	name: Tridestilled Spear
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Trinispear</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can be attached to up to three different creatures simultaneously.
+		Equipped creatures get +2/+2 and <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>. <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto>
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

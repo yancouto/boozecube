@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 17:55:29
+	time_modified: 2025-04-29 02:32:06
+	name: Censorship
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As <atom-cardname><nospellcheck>Censorship</nospellcheck></atom-cardname> enters, choose a word.
+		Whenever a player says the chosen word, <atom-cardname><nospellcheck>Censorship</nospellcheck></atom-cardname> deals 2 damage to that player.
+	flavor_text: <i-flavor>“[REDACTED]”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

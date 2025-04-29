@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 13:37:28
+	time_modified: 2025-03-22 13:42:31
+	name: WikiLore
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		You have no maximum hand size.
+		At the beginning of your upkeep, reveal your hand to target opponent. That opponent may choose a card. If he or she does, shuffle that card into your library, then draw two cards.
+		<i>A <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellbook</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> that anyone can edit.</i>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

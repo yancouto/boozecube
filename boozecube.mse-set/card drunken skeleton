@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 21:14:40
+	time_modified: 2025-04-27 16:38:56
+	name: [?] Drunken Skeleton
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-name>This creature</atom-cardname> attacks every turn if able.
+		Drink <sym-auto>2</sym-auto>: Return <atom-cardname><nospellcheck><sym>?</sym> Drunken Skeleton</nospellcheck></atom-cardname> from the graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

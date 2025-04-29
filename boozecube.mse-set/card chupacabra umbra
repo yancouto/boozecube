@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 16:54:07
+	time_modified: 2025-04-27 10:40:32
+	name: Chupacabra Umbra
+	casting_cost: 1GW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Totem armor</key></nospellcheck><atom-reminder-expert> <i-auto>(If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</i-auto></atom-reminder-expert></kw-A>
+		Enchanted creature has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-0><nospellcheck><key>protection from <param-name>goats.</param-name></key></nospellcheck></kw-0>
+		Whenever you drink, you may gain that much life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

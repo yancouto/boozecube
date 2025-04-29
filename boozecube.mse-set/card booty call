@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-20 18:04:29
+	time_modified: 2025-04-17 01:55:29
+	name: Booty Call
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Looks at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the remaining cards on them bottom of your library in any order.
+		Buyback drink 5 <i-auto>(You may drink 5 as you cast this spell. If you do, put this card into your hand as it resolves.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

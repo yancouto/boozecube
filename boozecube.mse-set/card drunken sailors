@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 13:09:34
+	time_modified: 2025-04-27 16:37:27
+	name: Drunken Sailors
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of each player’s end step, you may put a +1/+1 counter on <atom-cardname><nospellcheck>Drunken Sailors</nospellcheck></atom-cardname> if you didn’t drink this turn.
+		<sym-auto>0</sym-auto>: Remove any number of +1/+1 counters from <atom-cardname><nospellcheck>Drunken Sailors</nospellcheck></atom-cardname>. Target player drinks X</sym><sym>X, where X is the number of counters removed.
+	flavor_text: <i-flavor>What do you do with them?</i-flavor>
+	power: 0
+	toughness: 1
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

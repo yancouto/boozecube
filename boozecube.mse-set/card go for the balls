@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 12:56:47
+	time_modified: 2025-04-27 17:11:39
+	name: Go for the Balls
+	casting_cost: 2BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Dredge <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(If you would draw a card, you may mill <param-number>three</param-number> cards instead. If you do, return this card from your graveyard to your hand.)</i-auto></atom-reminder-expert></kw-A>
+		Destroy target creature. It can’t be regenerated.
+		When you dredge <atom-cardname><nospellcheck>Go for the Balls</nospellcheck></atom-cardname>, take a shot.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 14:59:15
+	time_modified: 2025-04-29 02:30:06
+	name: Art Cop
+	casting_cost: 3U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cop</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Creature with a mediocre counter get -2/-0.
+		Whenever a creature enters, you may criticize it harshly. It you do, put a mediocre counter on that creature.
+	flavor_text: <i-flavor>“Everything is “literally” shit”</i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

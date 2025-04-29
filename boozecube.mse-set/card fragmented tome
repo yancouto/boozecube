@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 14:33:54
+	time_modified: 2025-04-27 16:58:01
+	name: Fragmented Tome
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Split cards you own have <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0>.  <i-auto>(You may cast both halves of them from your hand.)</i-auto>
+		<sym-auto>U</sym-auto>: Search your library fora a split card, reveal it, then put it into your hand. Shuffle. Activate only as a sorcery and only per turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

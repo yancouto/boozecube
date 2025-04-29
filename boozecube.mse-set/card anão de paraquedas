@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 22:47:43
+	time_modified: 2025-03-28 22:49:37
+	name: Anão de Paraquedas
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anão</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>de</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Paraquedas</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>” comes into play, flip it from a height of at least 1m. Sacrifice it unless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Anão</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>de</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Paraquedas</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> lands face up after flipping at least 360<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>º</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

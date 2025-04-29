@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-20 15:27:33
+	time_modified: 2025-04-27 19:22:54
+	extra_data:
+		magic-m15-meld-3in1: meld_image: 
+	name: Pick- Up Line
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Reveal a card in your hand at random. Target player drinks XX where X is its mana value.
+		Draw a card.
+	flavor_text: <i-flavor>“Is that a <error-spelling:en_US>Jitte</error-spelling:en_US> in your pocket or are you just happy to see me?”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

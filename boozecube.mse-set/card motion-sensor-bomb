@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 21:58:47
+	time_modified: 2025-04-29 02:35:01
+	name: Motion-Sensor-Bomb
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Curse</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
+		As <atom-cardname><nospellcheck>Motion-Sensor-Bomb</nospellcheck></atom-cardname> enters, choose one of enchanted player’s hand, that player balances this card on the back of that hand.
+		When <atom-cardname><nospellcheck>Motion-Sensor-Bomb</nospellcheck></atom-cardname> falls off the chosen hand, sacrifice it, then enchanted player loses 3 life and takes a shot.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

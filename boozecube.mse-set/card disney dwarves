@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 17:00:26
+	time_modified: 2025-04-29 02:11:39
+	name: Disney Dwarves
+	casting_cost: 5RR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		<atom-name>This creature</atom-cardname> enters with seven +1/+1 counters on it.
+		Remove a +1/+1 counter: Create a 1/1 red Dwarf creature token.
+	flavor_text: <i-flavor>Grumpy was less than thrilled at his new nickname: <error-spelling:en_US>Prematurey</error-spelling:en_US>.</i-flavor>
+	power: 0
+	toughness: 0
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

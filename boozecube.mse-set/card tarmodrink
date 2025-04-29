@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 19:57:07
+	time_modified: 2025-04-29 01:52:41
+	name: Tarmodrink
+	casting_cost: 4G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <atom-cardname><nospellcheck>Tarmodrink</nospellcheck></atom-cardname>’s power is the number of drinks <i-auto>(combining all instances)</i-auto> you have taken this turn, and its toughness is that number plus 1.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *+1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 20:57:14
+	time_modified: 2025-04-29 02:32:22
+	name: Cockblocking Saurian
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Cockblocking Saurian</nospellcheck></atom-cardname> enters, drink 4 if it is an opponent’s turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

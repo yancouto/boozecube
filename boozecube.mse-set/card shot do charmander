@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 18:13:39
+	time_modified: 2025-04-29 01:42:51
+	name: Shot do Charmander
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This source deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
+		Deal 3 damage to target creature or player.
+		All opponents drink.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

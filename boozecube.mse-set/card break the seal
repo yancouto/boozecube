@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 17:22:41
+	time_modified: 2025-04-17 02:01:46
+	name: Break the Seal
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of your upkeep, drink 2 and put a pee counter on <atom-cardname><nospellcheck>Break the Seal</nospellcheck></atom-cardname>.
+		<sym-auto>0</sym-auto>: Destroy all nonland permanents. Activate this ability only if <atom-cardname><nospellcheck>Break the Seal</nospellcheck></atom-cardname> has at least six pee counters on it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

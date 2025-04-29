@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 19:35:04
+	time_modified: 2025-04-27 19:26:27
+	name: Puke
+	name_2: Rally
+	casting_cost: XR
+	casting_cost_2: XW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Instead of paying mana for <sym-auto>X</sym-auto>, you may drink X.
+		Up to X target creatures can’t block this turn.
+	rule_text_2:
+		Instead of paying mana for <sym-auto>X</sym-auto>, you may drink X.
+		Untap up to X target creatures
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	illustrator_brush_2: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

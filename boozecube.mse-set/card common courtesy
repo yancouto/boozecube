@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 20:48:27
+	time_modified: 2025-04-27 10:52:19
+	name: Common Courtesy
+	casting_cost: 2UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever another player casts a spell without asking your permission while casting it, counter that spell.
+		When another player asks you permission to cast a spell and you refuse, counter that spell, sacrifice <atom-cardname><nospellcheck>Common Courtesy</nospellcheck></atom-cardname> and drink.
+	flavor_text: <i-flavor>“You didn’t say the magic word!”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

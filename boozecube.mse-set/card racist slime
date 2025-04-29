@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		shrink_typeline_text: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		font_cap: 13
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-27 21:17:02
+	time_modified: 2025-04-29 02:35:40
+	name: Racist Slime
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ooze</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Racist Slime</nospellcheck></atom-cardname> enters, choose a creature type.
+		Creatures of the chosen type get -1/-1.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

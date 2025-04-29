@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 16:02:04
+	time_modified: 2025-04-29 02:35:12
+	name: Cocktail
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Cocktail</nospellcheck></atom-cardname> enters, you may take a shot. If you do, return up to two target nonland permanents to their owner’s hand.
+	flavor_text: <i-flavor>What does the bird hates most about baseball?</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Eowl Play
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

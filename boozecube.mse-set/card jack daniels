@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 17:36:37
+	time_modified: 2025-04-27 18:12:34
+	special_text:
+		[+2]: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.
+		</margin:130:0:0>
+	name: Jack Daniels
+	casting_cost: 4BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Jack</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	loyalty_cost_1: +2
+	loyalty_cost_2: -4
+	loyalty_cost_3: -X
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
+	level_3_text:
+		<margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.
+		</margin:130:0:0>
+	illustrator: Old No. 7
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

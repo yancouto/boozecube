@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 11:27:18
+	time_modified: 2025-04-27 19:22:27
+	name: Phyrexian Frat House
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Phyrexian Frat House</nospellcheck></atom-cardname> becomes tapped, drink 2.
+		<sym-auto>T</sym-auto>: Add one mana of any color to your mana pool.
+	flavor_text: <i-flavor>Everyone gets laid at the <error-spelling:en_US>Phy</error-spelling:en_US> house’s annual <error-spelling:en_US>Compleation</error-spelling:en_US> Party. Not everyone leaves with their original body parts.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

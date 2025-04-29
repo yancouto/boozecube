@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-01 13:36:40
+	time_modified: 2025-04-29 01:39:45
+	card_color: green
+	name: Savage Thirst
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Conspiracy</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(Begin the game with this card face up in your command zone and take a shot.)</i-auto>
+		Whenever you finish your game beverage, you create a 3/3 green Beast creature token.
+		<sym-auto>1G</sym-auto>, Drink 2<sym></sym>: Target beast gets +2/+2 until end of turn. 
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

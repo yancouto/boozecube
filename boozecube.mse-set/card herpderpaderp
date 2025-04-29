@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 11:47:58
+	time_modified: 2025-04-27 17:23:06
+	name: Herpderpaderp
+	casting_cost: 2BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>flying</key></nospellcheck></kw-0>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, you may drink 10. If you don’t, you lose the game.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 5
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

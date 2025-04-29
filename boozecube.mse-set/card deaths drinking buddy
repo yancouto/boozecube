@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 17:27:52
+	time_modified: 2025-04-29 02:33:16
+	name: Death’s Drinking Buddy
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-name>This creature</atom-cardname> enters with eleven -1/-1 counters on it.
+		<sym-auto>0</sym-auto>: Drink <sym-auto>X</sym-auto>, where X equals the number of counters on <atom-cardname><nospellcheck>Death’s Drinking Buddy</nospellcheck></atom-cardname>. If you do, remove a -1/-1 counter from <atom-cardname><nospellcheck>Death’s Drinking Buddy</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 12
+	toughness: 12
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

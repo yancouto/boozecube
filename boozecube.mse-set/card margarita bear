@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 22:01:22
+	time_modified: 2025-04-27 18:46:52
+	name: Margarita Bear
+	casting_cost: GW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bear</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		Sacrifice <atom-cardname><nospellcheck>Margarita Bear</nospellcheck></atom-cardname>: Destroy target artifact or enchantment, then drink <sym-auto>X</sym-auto>, where X is its mana value.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

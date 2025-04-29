@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 15:02:53
+	time_modified: 2025-04-27 19:17:26
+	name: Paddle of Hazing
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever a player drinks 2 or more, you may untap equipped creature.
+		If equipped creature is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, it gets +2/+0.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>Thank you sir, may I have another?</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

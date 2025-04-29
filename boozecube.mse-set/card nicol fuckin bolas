@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 15:52:08
+	time_modified: 2025-03-23 16:14:00
+	special_text:
+		[+4]: <margin:130:0:0>Any number or target players each drink 7.</margin:130:0:0>
+		[-3]: <margin:130:0:0>For each opponent, choose a permanent that he or she controls. That player sacrifices it unless he or she takes two shots.</margin:130:0:0>
+		[-14]: <margin:130:0:0>Gain control of all nonland permanents that target player controls.</margin:130:0:0>
+	name: Nicol Fuckin’ Bolas
+	casting_cost: 4UBR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Bolas</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	loyalty_cost_1: +4
+	loyalty_cost_2: -3
+	loyalty_cost_3: -14
+	loyalty: 6
+	level_1_text: <margin:130:0:0>Any number or target players each drink 7.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>For each opponent, choose a permanent that he or she controls. That player sacrifices it unless he or she takes two shots.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Gain control of all nonland permanents that target player controls.</margin:130:0:0>
+	illustrator: Stephen Raffael
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

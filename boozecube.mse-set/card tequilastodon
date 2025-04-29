@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 18:38:58
+	time_modified: 2025-04-29 02:23:34
+	name: Tequilastodon
+	casting_cost: 6GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Tequilastodon</nospellcheck></atom-cardname> enters you may destroy up to 3 noncreature permanents. For each permanent destroyed this way, you drink 3<sym></sym>, its controller drinks 3 and creates a 3/3 green “Drunk Elephant” creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 9
+	toughness: 9
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

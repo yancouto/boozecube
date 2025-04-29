@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 16:48:14
+	time_modified: 2025-04-27 17:16:12
+	name: Guzman, the Jock
+	casting_cost: R/WR/W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Redemption <param-number>100</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature enters with <param-number>100</param-number> redemption counters. Remove one for each drink you take and fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>, <kw-1><nospellcheck><key>Melee</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</i-auto></atom-reminder-expert></kw-1>
+		Whenever <atom-cardname><nospellcheck>Guzman, the Jock</nospellcheck></atom-cardname> blocks a creature, that creature gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		Whenever <atom-cardname><nospellcheck>Guzman, the Jock</nospellcheck></atom-cardname> has no more <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0>, transform it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

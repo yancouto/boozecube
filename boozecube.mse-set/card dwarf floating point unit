@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 13:15:44
+	time_modified: 2025-04-27 16:41:44
+	name: Dwarf Floating Point Unit
+	casting_cost: 1RR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Dwarf</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever you would take damage, instead take half that damage twice <i-auto>(rounding down)</i-auto>.
+		Whenever an opponent would take damage or drink, they take damage or drink half of that value twice instead <i-auto>(rounding up)</i-auto>.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Bebe</error-spelling:en_US> 1,500000000000001 <error-spelling:en_US>aí</error-spelling:en_US>”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:57:03
+	time_modified: 2025-04-27 19:11:44
+	name: Obnoxious Protesters
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Obnoxious Protesters</nospellcheck></atom-cardname> enters, choose a nonland card type. Spells of that card type cost an additional <sym-auto>L/W</sym-auto> to cast. <i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

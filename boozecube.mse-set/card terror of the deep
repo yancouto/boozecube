@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:06:50
+	time_modified: 2025-04-29 01:56:38
+	name: Terror of the Deep
+	casting_cost: 3UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Kraken</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As <atom-cardname><nospellcheck>Terror of the Deep</nospellcheck></atom-cardname> enters, turn all other creatures face down. They gain “<kw-0><nospellcheck><key>Morph—<param-cost>Take a shot”</param-cost>.</key></nospellcheck></kw-0> <i-auto>(They are 2/2 creatures and can be turned face-up by taking a shot.)</i-auto>
+		<atom-cardname><nospellcheck>Terror of the Deep</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of face-down creatures on the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

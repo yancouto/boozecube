@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 21:28:38
+	time_modified: 2025-03-28 21:31:09
+	name: Shepherd of Neglect
+	casting_cost: W/UW/U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Human</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Player’s can’t choose.
+		If an effect prompts a player to “may”, they can’t do it.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Pra</error-spelling:en_US> <error-spelling:en_US>que</error-spelling:en_US> <error-spelling:en_US>esta</error-spelling:en_US> <error-spelling:en_US>indecisão</error-spelling:en_US>? No <error-spelling:en_US>fim</error-spelling:en_US>, <error-spelling:en_US>vamos</error-spelling:en_US> <error-spelling:en_US>todos</error-spelling:en_US> <error-spelling:en_US>ficar</error-spelling:en_US> <error-spelling:en_US>bêbados</error-spelling:en_US> <error-spelling:en_US>de</error-spelling:en_US> <error-spelling:en_US>qualquer</error-spelling:en_US> <error-spelling:en_US>jeito</error-spelling:en_US>.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Beggar’s can’t be choosers
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

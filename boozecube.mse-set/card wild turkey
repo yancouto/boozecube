@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 20:40:31
+	time_modified: 2025-03-29 20:41:15
+	name: Wild Turkey
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Protection from <param-name>black and blue.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything black and blue..)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a> <i-auto>(When this creature deals combat damage to a player, that player drinks.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

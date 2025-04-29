@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 17:21:40
+	time_modified: 2025-04-27 16:46:16
+	name: Equipped Creature
+	casting_cost: 4R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Abilities that say “Equipped creature” also apply to <atom-cardname><nospellcheck>Equipped Creature</nospellcheck></atom-cardname>.
+		Equipment spells cost <sym-auto>2</sym-auto> less to cast.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:49:51
+	time_modified: 2025-04-27 19:51:22
+	name: Regular Ol’ Cat
+	casting_cost: 1WU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Say “Gato”</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		<sym-auto>T</sym-auto>: Target creature gains “<kw-0><nospellcheck><key>Cumulative upkeep—<param-cost>say “Gato””</param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor>“<error-spelling:en_US>GatoGato</error-spelling:en_US>”</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: GATOGATOGATOGATO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

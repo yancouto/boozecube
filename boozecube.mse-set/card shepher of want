@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 8
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-03-28 11:27:56
+	time_modified: 2025-04-29 01:41:37
+	name: Shepher of Want
+	casting_cost: B/RB/R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Human</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		If a players must choose between options, they must choose all the options.
+		If an effect prompts a player to “may”, they must do it.
+	flavor_text: <i-flavor>O <error-spelling:en_US>risco</error-spelling:en_US> <error-spelling:en_US>de</error-spelling:en_US> <error-spelling:en_US>uma</error-spelling:en_US> <error-spelling:en_US>decisão</error-spelling:en_US> <error-spelling:en_US>errada</error-spelling:en_US> <error-spelling:en_US>supera</error-spelling:en_US> o terror <error-spelling:en_US>da</error-spelling:en_US> <error-spelling:en_US>indecisão</error-spelling:en_US>.- <error-spelling:en_US>Dipsy</error-spelling:en_US>, <error-spelling:en_US>Teletubbies</i-flavor></error-spelling:en_US>
+	power: 2
+	toughness: 2
+	illustrator: Beggars must be choostrs
+	illustrator_brush: art
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

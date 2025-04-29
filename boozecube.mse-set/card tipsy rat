@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 21:51:09
+	time_modified: 2025-04-29 02:44:25
+	name: [?] Tipsy Rat
+	casting_cost: 2BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Rat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever a creature dies, draw a card unless each opponent.
+		Drink 3.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 22:06:20
+	time_modified: 2025-04-27 19:02:12
+	name: Mr. Brightside
+	casting_cost: 1WU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Saint</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mr. Brightside</nospellcheck></atom-cardname> dies, return it to the battlefield under target opponent’s control.
+	flavor_text: <i-flavor>“It’s killing me and taking control”</i-flavor>
+	power: 5
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

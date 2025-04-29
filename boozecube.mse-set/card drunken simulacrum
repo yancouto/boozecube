@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-27 16:23:51
+	time_modified: 2025-04-29 02:33:46
+	name: Drunken Simulacrum
+	casting_cost: 4
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Drunken Simulacrum</nospellcheck></atom-cardname> enters, search your library for a land and put it onto the battlefield tapped.
+		When <atom-cardname><nospellcheck>Drunken Simulacrum</nospellcheck></atom-cardname> leaves the battlefield, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

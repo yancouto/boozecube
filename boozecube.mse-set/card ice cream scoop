@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 14:58:02
+	time_modified: 2025-04-29 02:35:05
+	name: Ice Cream Scoop
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Ice Cream Scoop</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Target opponent chugs two beers or takes two shots, then you concede the game.
+	flavor_text: <i-flavor>Ice Cream Scoop. I scream “scoop”. <error-spelling:en_US>Haha</error-spelling:en_US>, get it? Now drink your fucking beer.</i-flavor>
+	illustrator: Your Mom
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

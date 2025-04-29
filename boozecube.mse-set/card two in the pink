@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 19:35:04
+	time_modified: 2025-03-21 20:10:08
+	name: Two in the Pink
+	name_2: One in the Stink
+	casting_cost: 2R
+	casting_cost_2: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Two in the Pink deals 2 damage to each creature. If a creature dealt damage this way dies this turn, its controller drinks 2.
+	rule_text_2: Each opponent discards a card at random, then you drink for each card discarded.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	illustrator_brush_2: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

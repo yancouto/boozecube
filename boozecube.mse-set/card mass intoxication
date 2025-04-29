@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:32:31
+	time_modified: 2025-04-27 18:48:13
+	name: Mass Intoxication
+	casting_cost: 1RR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		All creatures have <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> <i-auto>(They deal damage to players in the form of drinks.)</i-auto>
+		At the beginning of your upkeep, roll a D6. On a 1 or <sym></sym>2, chug a beer and sacrifice <atom-cardname><nospellcheck>Mass Intoxication</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

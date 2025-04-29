@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 16:28:43
+	time_modified: 2025-04-29 02:07:36
+	name: Alpha Sigma Ritual
+	casting_cost: 1WB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Tribal Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of each end step, if you took at least one shot and chugged at least one beer this turn, create a 5/5 black and white Demon <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor>“Rise, Bro”- Blood Shaman Bro</i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

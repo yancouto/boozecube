@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 18:46:07
+	time_modified: 2025-04-27 10:00:05
+	name: Cactus Spirit Guide
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: You may exile <atom-cardname><nospellcheck>Cactus Spirit Guide</nospellcheck></atom-cardname> from your hand to add one mana of any color to your mana pool.
+	flavor_text: <i-flavor>“And suddenly I had an inkling of what it must feel like to be mad.”- <error-spelling:en_US>Aldous</error-spelling:en_US> Huxley, The Door of Perception</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Go ask Alice, when she’s teh feet tall
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

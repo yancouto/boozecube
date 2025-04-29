@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 21:02:17
+	time_modified: 2025-04-27 16:16:25
+	name: Digão, Finisher of Drinks
+	casting_cost: 2GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Finish any number of opponent’s drinking beverages. Your creatures get +3/+3 and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> for each beverage drank this way until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

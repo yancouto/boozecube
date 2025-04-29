@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 15:36:03
+	time_modified: 2025-04-29 02:30:14
+	name: Beer Pong Table
+	casting_cost: 4
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-name>This artifact</atom-cardname> enters with ten cup counters on it.
+		Whenever a player finishes his or her game beverage, you may remove a cup counter from <atom-cardname><nospellcheck>Beer Pong Table</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>Beer Pong Table</nospellcheck></atom-cardname> has no counters on it, sacrifice it. If you do, create ten 1/1 colorless Bottle artifact creature tokens with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 17:05:50
+	time_modified: 2025-03-22 17:08:49
+	name: Castrate
+	casting_cost: 1L/BL/B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(<sym-auto>L/B</sym-auto> can be paid with <sym>B</sym> or drinking 3.)</i-auto>
+		Target creature gets -4/-4 until end of turn.
+	flavor_text: <i-flavor>“You serve <error-spelling:en_US>Phyrexia</error-spelling:en_US>. Your balls will better serve <error-spelling:en_US>Phyrexia</error-spelling:en_US> elsewhere.”</i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

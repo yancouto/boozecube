@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 12:07:07
+	time_modified: 2025-04-27 19:17:38
+	name: Paedophile’s Parish
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Plains-Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto> to your mana pool.)</i-auto>
+		<atom-cardname><nospellcheck>Paedophile’s Parish</nospellcheck></atom-cardname> enters tapped unless you drink 3.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Obzedat</error-spelling:en_US> may shuffle them between districts, but the most unpleasant clergy are always present.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

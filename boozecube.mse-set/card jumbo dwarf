@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 22:53:56
+	time_modified: 2025-04-27 18:21:26
+	name: Jumbo Dwarf
+	casting_cost: 1B/R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As <atom-cardname><nospellcheck>Jumbo Dwarf</nospellcheck></atom-cardname> enters, roll a D6 and it enters with that many +1/+1 counters.
+		At the beginning of your upkeep, roll a D6 and put that many +1/+1 counters on  <atom-cardname><nospellcheck>Jumbo Dwarf</nospellcheck></atom-cardname>.
+		At the beginning of your end step, roll a D6 and remove that many +1/+1 counters from <atom-cardname><nospellcheck>Jumbo Dwarf</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

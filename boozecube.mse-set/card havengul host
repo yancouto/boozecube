@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 11:21:16
+	time_modified: 2025-04-27 17:20:38
+	name: Havengul Host
+	casting_cost: 4BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bartender </word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Intimidate</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)</i-auto></atom-reminder-old></kw-A>
+		<sym>L/B</sym> <sym-auto>L/B</sym-auto>: You may play target creature in a graveyard this turn. <i-auto>(You still pay its costs.)</i-auto>
+		<i-auto>(<sym-auto>L/B</sym-auto> can be paid with <sym>B</sym> or drinking 3.)</i-auto>
+	flavor_text: <i-flavor>His martinis are simply to die for.</i-flavor>
+	power: 5
+	toughness: 4
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

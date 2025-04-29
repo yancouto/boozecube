@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 17:55:04
+	time_modified: 2025-04-01 10:47:30
+	name: Usain Bolt
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Intoxicated</key></nospellcheck></kw-a> <i-auto>(This source deals damage to players in the form of drinks.)</i-auto>
+		<kw-A><nospellcheck><key>Dash <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

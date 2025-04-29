@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 13:53:57
+	time_modified: 2025-04-29 02:41:34
+	name: Hidden Camelback
+	casting_cost: 1
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Equipped creature has <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> <i-auto>(It deals damage to players in the form of drinks.)</i-auto>
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>Easily concealed and filled with booze, the <error-spelling:en_US>Camelback</error-spelling:en_US> provides all-day entertainment at gladiatorial arenas throughout the multiverse.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

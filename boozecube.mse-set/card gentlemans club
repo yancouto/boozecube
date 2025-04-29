@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 12:26:07
+	time_modified: 2025-04-27 17:10:11
+	name: Gentleman’s Club
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>W</sym-auto> to your mana pool.)</i-auto>
+		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.
+	flavor_text: <i-flavor>She was just working her way through necromancy school.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

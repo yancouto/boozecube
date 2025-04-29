@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 13:32:15
+	time_modified: 2025-04-29 02:32:14
+	name: Chimeric Liquor Cabinet
+	casting_cost: X
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-name>This artifact</atom-cardname> enters with X charge counters on it.
+		<sym-auto>1</sym-auto>: Until end you turn, <atom-cardname><nospellcheck>Chimeric Liquor Cabinet</nospellcheck></atom-cardname> becomes an X/X Bottle artifact creature with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 10:46:14
+	time_modified: 2025-03-21 10:49:34
+	name: Overdose
+	casting_cost: XB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Put X +1/+1 counters on target creature. At the beginning of your next upkeep, put twice X -1/-1 counters on that creature.
+	flavor_text:
+		<i-flavor>“I don’t go <error-spelling:en_US>joypopping’</error-spelling:en_US> with <error-spelling:en_US>bubblegummers</error-spelling:en_US>, all of my friends can handle their highs!”
+		- Pulp Fiction</i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

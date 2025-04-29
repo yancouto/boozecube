@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 12:13:12
+	time_modified: 2025-04-27 18:40:09
+	name: Magic World Record Holder
+	casting_cost: 1UR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Any%</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Speedrunner</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Speed <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0> <i-auto>(Every card you own or control has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>split second</key></nospellcheck></kw-0>.)</i-auto>
+		Your turn consist only of the untap step, draw step and combat phase. At the end of that combat phase, end the turn.
+	flavor_text: <i-flavor>To PB pace!!</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	stylesheet: m15-emblem-cajun
+	stylesheet_version: 2024-06-06
+	has_styling: false
+	notes: 
+	time_created: 2025-03-23 15:41:58
+	time_modified: 2025-04-27 10:18:46
+	name: Captain Morgan
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Emblem</word-list-type-en>
+	sub_type: <word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you would drink X<sym></sym>, drink X+2 instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

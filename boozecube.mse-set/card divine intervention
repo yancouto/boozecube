@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 18:05:20
+	time_modified: 2025-04-27 16:28:53
+	name: Divine Intervention
+	casting_cost: WWW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Add one shot to target player’s drink.
+		<kw-A><nospellcheck><key>Flashback—<param-cost> Take a shot</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

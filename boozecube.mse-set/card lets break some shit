@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-20 16:58:40
+	time_modified: 2025-04-27 18:28:48
+	name: Let’s Break Some Shit
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Multikicker—<param-cost>drink 3</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>drink 3 in addition to any other costs</param-cost> any number of times as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
+		Destroy target artifact. You may destroy an additional target artifact for each time <atom-cardname><nospellcheck>Let’s Break Some Shit</nospellcheck></atom-cardname> was kicked.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator:
+		 KOTH SMASH!
+	illustrator_brush: art old
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

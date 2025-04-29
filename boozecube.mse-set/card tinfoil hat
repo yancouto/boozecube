@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 13:46:28
+	time_modified: 2025-03-22 13:47:50
+	name: Tinfoil Hat
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Equipped creature has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and protection form government mind-control rays.
+		<sym-auto>2</sym-auto>: Equipped creature has <kw-a><nospellcheck><key>shroud</key></nospellcheck></kw-a> until end of turn.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-22 15:04:59
+	time_modified: 2025-04-27 17:22:18
+	name: Helm of Belushi
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+		Equipped creature gets +2/+2 and has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
+		Whenever equipped creature deals combat damage to a creature, you may have target player drink 2.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-29 18:25:39
+	time_modified: 2025-04-27 18:54:18
+	name: Michaelangelo, the Rad
+	casting_cost: 2GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Mutant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ninja</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Turtle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When <atom-cardname><nospellcheck>Michaelangelo, the Rad</nospellcheck></atom-cardname> enters, creatures you control gain <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Ninjutsu <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
