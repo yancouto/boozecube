@@ -3,8 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 18:34:28
-	time_modified: 2025-04-17 01:57:26
-	name: Booze Sage [?]
+	time_modified: 2025-05-03 12:23:57
+	name: Booze Sage
 	casting_cost: 2G
 	image: 
 	image_2: 
@@ -18,9 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		Untap
-		<sym-auto>L/G</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Proliferate</key></nospellcheck> <atom-reminder-action> <i-auto>(To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: <sym-auto>L/G</sym-auto>, <sym>Q</sym>: <kw-A><nospellcheck><key>Proliferate</key></nospellcheck> <atom-reminder-action> <i-auto>(To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3
