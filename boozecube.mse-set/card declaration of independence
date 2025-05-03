@@ -5,24 +5,27 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 13:57:14
-	time_modified: 2025-04-27 19:45:59
-	name: [?] Declaration of Independence
-	name_2: ??
+	time_modified: 2025-05-03 11:47:01
+	card_color_2: white, blue, red, artifact, horizontal
+	name: Declaration of Independence
+	name_2: Map to the National Treasure
 	casting_cost: 1
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en>Kindred Artifact</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
+	sub_type_2: <word-list-race-en>Maçon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_3: 
 	sub_type_4: 
 	rule_text: <sym-auto>2</sym-auto>: Put a lemon counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>. Then if there are two or more counters on it, remove those counters and transform it.
+	rule_text_2: <sym-auto>UURRWW</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Put a Legendary Land token named National Treasure with “<sym-auto>T</sym-auto>: Add <sym>∞</sym>” and “Sacrifice this land: Destroy all creatures.” onto the battlefield.
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

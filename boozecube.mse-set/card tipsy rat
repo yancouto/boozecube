@@ -3,8 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 21:51:09
-	time_modified: 2025-04-29 02:44:25
-	name: [?] Tipsy Rat
+	time_modified: 2025-05-03 12:02:53
+	name: Tipsy Rat
 	casting_cost: 2BB
 	image: 
 	image_2: 
@@ -18,9 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		Whenever a creature dies, draw a card unless each opponent.
-		Drink 3.
+	rule_text: Whenever a creature dies, draw a card unless each opponent drinks 4.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

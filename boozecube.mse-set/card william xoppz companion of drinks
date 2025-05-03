@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 21:45:11
-	time_modified: 2025-03-28 21:50:08
+	time_modified: 2025-05-03 12:05:22
 	name: William Xoppz, Companion of Drinks
-	casting_cost: 4WB
+	casting_cost: 2WB
 	image: 
 	image_2: 
 	mainframe_image: 
@@ -14,7 +14,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Fallen</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Angel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

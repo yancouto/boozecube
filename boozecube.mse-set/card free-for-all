@@ -3,8 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 20:57:48
-	time_modified: 2025-04-29 02:28:15
-	name: [?] Free-For-All
+	time_modified: 2025-05-03 11:36:02
+	name: Free-For-All
+	casting_cost: 3WU
 	image: 
 	image_2: 
 	mainframe_image: 
