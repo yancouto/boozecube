@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 12:26:07
-	time_modified: 2025-04-29 13:29:58
+	time_modified: 2025-05-08 16:12:40
 	name: Gentleman’s Club
-	image: 
+	image: image68.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
 		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>She was just working her way through necromancy school.</i-flavor>
 	card_code_text: 

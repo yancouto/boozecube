@@ -1,12 +1,14 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes:
+		Add Fratboy type? 
+
 	time_created: 2025-03-28 18:52:25
-	time_modified: 2025-03-28 18:55:01
+	time_modified: 2025-05-08 14:41:03
 	name: Argothian Sorority Girl
 	casting_cost: 1WW
-	image: 
+	image: image10.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

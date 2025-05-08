@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-21 11:53:23
+	time_modified: 2025-05-08 14:41:37
+	name: Argoth Pizza Place
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-name>This land</atom-cardname> enters tapped.
+		<sym-auto>G</sym-auto>,<sym>T</sym>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> target <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creature or creature with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.  <i-auto>(The next time that creature would be destroyed this turn, it isn’t. Instead tap it.)</i-auto>
+	flavor_text: <i-flavor>The original location was destroyed during the <error-spelling:en_US>Brothers’</error-spelling:en_US> War, but <error-spelling:en_US>Argoth</error-spelling:en_US> Pizza franchises have popped up all over the multiverse. Most attribute its success to a longstanding tradition of free late-night delivery.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

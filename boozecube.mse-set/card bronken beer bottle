@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Enabler 8
 	time_created: 2025-03-22 15:55:03
-	time_modified: 2025-04-17 02:03:21
+	time_modified: 2025-05-08 15:08:26
 	name: Bronken Beer Bottle
 	casting_cost: 1
-	image: 
+	image: image27.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

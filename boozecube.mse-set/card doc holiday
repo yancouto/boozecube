@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 11:54:37
-	time_modified: 2025-04-27 16:29:23
+	time_modified: 2025-05-08 15:27:27
 	name: Doc Holiday
 	casting_cost: 1B
 	image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of your upkeep, reveal the top card of your library and put it in your hand. Drink <sym-auto>XXX</sym-auto>, where X is the card’s converted mana cost.
+	rule_text: At the beginning of your upkeep, reveal the top card of your library and put it in your hand. Drink XXX where X is the card’s converted mana cost.
 	flavor_text:
 		<i-flavor>“I have not yet begun to defile myself.”
 		</i-flavor>

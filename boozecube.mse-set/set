@@ -308,7 +308,7 @@ include_file: card soylent greenhouse
 include_file: card phyrexian frat house
 include_file: card magical christmasland
 include_file: card cantina de los pendejos
-include_file: card argoth pizza
+include_file: card argoth pizza place
 include_file: card gruulapalooza
 include_file: card paedophiles parish
 include_file: card islay
@@ -489,7 +489,7 @@ include_file: card center of attention
 include_file: card drink up me hearties
 include_file: card designated driver
 include_file: card impair cognition
-include_file: card brizei você fez o que msm
+include_file: card brisei você fez o que mesmo
 include_file: card fraternity pact
 include_file: card empty bottle
 include_file: card bottle
@@ -500,13 +500,13 @@ include_file: card pledge
 include_file: card stripper
 include_file: card chandra gone wild
 include_file: card tezzeret master bongshaper
-include_file: card captain morgan
+include_file: card captain morgans rum stash
 include_file: card sorin barkov
 include_file: card chad the pledgemaster
 include_file: card tezzeret master bongshaper.1
 include_file: card nicol fuckin bolas
 include_file: card miojo the unfortunate
-include_file: card captain morgan.1
+include_file: card captain morgan
 include_file: card juan the mind smasher
 include_file: card chandra gone wild.1
 include_file: card sabrinas pact
@@ -625,7 +625,6 @@ include_file: card cybergorilla
 include_file: card glass overseer
 include_file: card rlyeh pony
 include_file: card rumrunner
-include_file: card prismatic lush
 include_file: card drunken simulacrum
 include_file: card chuggernaught
 include_file: card coletor de lixo
@@ -664,7 +663,7 @@ include_file: card wifebeater devil
 include_file: card oracle of disqo
 include_file: card skinny demon
 include_file: card tipsy rat
-include_file: card boody mary
+include_file: card bloody mary
 include_file: card mediocre necromancer
 include_file: card undead security
 include_file: card bartime stalker
@@ -895,6 +894,15 @@ include_file: card demon fratboy
 include_file: card dragon
 include_file: card elf warrior
 include_file: card liquid test
+include_file: card awesomesauce
+include_file: card brain damage.1
+include_file: card necrophilia
+include_file: card noble wingman.1
+include_file: card prismatic lush
+include_file: card sense of entitlement
+include_file: card sucker punch
+include_file: card voltron defender of the universe.1
+include_file: card murica.1
 keyword:
 	keyword: Boozetouch
 	match: boozetouch

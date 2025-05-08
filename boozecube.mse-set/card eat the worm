@@ -1,12 +1,14 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes:
+		Payoff
+
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-04-29 02:15:14
+	time_modified: 2025-05-08 16:09:58
 	name: Eat the Worm
 	casting_cost: 4G
-	image: 
+	image: image58.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

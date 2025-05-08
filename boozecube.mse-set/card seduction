@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 15:24:04
-	time_modified: 2025-04-29 01:40:58
+	time_modified: 2025-05-08 16:58:33
 	name: Seduction
 	casting_cost: U/BU/BU/B
-	image: 
+	image: image144.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, you may exile the top card of that player’s library.
-		You may play cards exiled with <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> as if they were in your hand, treating colored mana symbols in their mana costs as liquid mana symbols of the same color. <i-auto>(For example, 3<sym>GG</sym> would be 3<sym>L/GL/G</sym>. <sym-auto>L/G</sym-auto> can be paid <sym>G</sym> or by drinking 3.)</i-auto>
+		You may play cards exiled with <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> as if they were in your hand, treating colored mana symbols in their mana costs as liquid mana symbols of the same color.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

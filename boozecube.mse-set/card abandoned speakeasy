@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:45:29
-	time_modified: 2025-04-29 13:31:17
+	time_modified: 2025-05-08 14:32:52
 	name: Abandoned Speakeasy
-	image: 
+	image: image4.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +20,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
-		Drink </sym>3<sym>, <sym-auto>T</sym-auto>: Add <sym-auto>BBB</sym-auto>.
+		Drink </sym>3<sym>, <sym-auto>T</sym-auto>: Add <sym-auto>BB</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

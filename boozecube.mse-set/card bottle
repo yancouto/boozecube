@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 14:01:09
-	time_modified: 2025-04-17 01:59:58
+	time_modified: 2025-05-08 14:55:54
 	name: Bottle
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>

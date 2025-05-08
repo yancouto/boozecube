@@ -3,18 +3,18 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 17:29:43
-	time_modified: 2025-03-23 17:31:31
+	time_modified: 2025-05-08 16:57:05
 	name: Right of Parley
 	casting_cost: 2UU
-	image: 
+	image: image139.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type: <word-list-race-en>Pirate</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

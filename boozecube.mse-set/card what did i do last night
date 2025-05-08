@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Add cumulative upkeep?
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-03-26 14:47:38
+	time_modified: 2025-05-08 17:08:59
 	name: What Did I Do Last Night?
 	casting_cost: 2G
-	image: 
+	image: image184.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

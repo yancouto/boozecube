@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 18:14:57
-	time_modified: 2025-03-27 18:18:25
+	time_modified: 2025-05-08 15:06:22
 	name: Brain Rat
 	casting_cost: 3B
 	image: 
@@ -18,6 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: special
 	rule_text:
 		When you draft this card, reveal it. Then note the name of another card in this booster pack. Until the noted card isn’t revealed, each player drafting from this booster reveals their drafted card. When the noted card is revealed, that player takes a shot.
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>

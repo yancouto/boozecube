@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 17:50:23
-	time_modified: 2025-04-17 01:34:32
+	time_modified: 2025-05-08 14:47:34
 	name: Badger Cunning
 	casting_cost: G/UG/UG/U
-	image: 
+	image: image16.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters or enchanted creature attacks, draw a card.
-		Enchanted creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>. At the beginning of your upkeep, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> unless you drink for each card in your hand.
+		Enchanted creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>. 
+		At the beginning of your upkeep, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> unless you drink for each card in your hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
