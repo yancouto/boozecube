@@ -8,7 +8,14 @@ MODEL = "gemma3:4b"
 DIR = "../boozecube.mse-set/"
 OUT = "prompts/"
 
-ct = 0
+FILTER_OUT = [
+    "casting_cost:",
+    "mse_version:",
+    "time_created:",
+    "time_modified:",
+    "image:",
+    "illustrator_brush:",
+]
 
 for file in Path(DIR).iterdir():
     if file.is_file() and file.name.startswith("card "):
@@ -23,6 +30,7 @@ for file in Path(DIR).iterdir():
             line
             for line in card_text.splitlines()[2:]
             if not line.strip().endswith(":")
+            and not any(tag in line for tag in FILTER_OUT)
         )
         card_text = textwrap.dedent(card_text)
         card_text = "card:\n" + textwrap.indent(card_text, "  ")
@@ -32,7 +40,7 @@ for file in Path(DIR).iterdir():
         response = ollama.generate(
             model=MODEL,
             prompt="""
-Generate a prompt for the image of an image for the Magic The Gathering card described below. The prompt should be on a single line, describing the card's art, and should be in the format of a prompt for Stable Diffusion. The art may be detailed or stylish and simple, depending on the card's characteristics.\n\n"""
+Generate a prompt for the image of the Magic The Gathering card described below. The prompt should be on a single line, describing the card's art, and should be in the format of a prompt for Stable Diffusion. The art may be detailed or stylish and simple, depending on the card's characteristics.\n\n"""
             + card_text,
             keep_alive="30m",
         )
