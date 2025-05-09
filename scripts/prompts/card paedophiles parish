@@ -1,1 +1,21 @@
-A haunting, dimly lit swamp-plains landscape dominated by a crumbling, moss-covered stone church with a sickly green hue. Twisted cypress trees drip with an unnatural luminescence, and shadowy figures resembling cloaked clergy can be glimpsed within the decaying structure.  A subtle, swirling mist obscures the lower portions of the image, suggesting decay and a sense of unease.  Art style: Dark fantasy, atmospheric, detailed textures, evocative lighting.
+Here are a few Stable Diffusion prompts based on the "Paedophile's Parish" card description, ranging in style and detail:
+
+**Option 1 (Detailed & Atmospheric):**
+
+"A gothic, crumbling plains-swamp hybrid land card illustration, depicting a dark, muddy area with decaying wooden structures reminiscent of a church, overgrown with sickly green moss and tendrils.  A single, heavily shadowed figure (suggesting a child) is subtly visible within the architecture.  Dim, unsettling light.  Dark fantasy art, intricate detail, ominous atmosphere."
+
+**Option 2 (Stylized & Evocative):**
+
+"Stylized illustration of a swamp-plains land card – 'Paedophile’s Parish'. Twisted, warped wooden architecture with hints of a church, partially submerged in dark water. Subtle, unsettling colors - sickly greens and browns.  Symbolic representation of ritual and corruption.  Dark fantasy, artistic style."
+
+**Option 3 (Simple & Symbolic):**
+
+"A cracked, dark-green plains-swamp land card titled 'Paedophile’s Parish'.  Distorted architecture, a hint of a shadowed figure within.  Dark and foreboding.  Minimalist fantasy art."
+
+**Key Considerations for Stable Diffusion:**
+
+*   **Keywords:** I’ve included terms like “dark fantasy,” “ominous atmosphere,” “stylized,” “minimalist” to guide the AI.
+*   **Details:** The level of detail depends on how much you want to emphasize the card’s elements.
+*   **Negative Prompts:** Consider adding negative prompts to steer the AI *away* from unwanted elements (e.g., "bright colors," "happy," "children smiling").
+
+**Important Note:**  Due to the card’s name, generating an image based on this prompt could potentially lead to problematic or offensive results.  Use caution and adjust the prompt carefully, prioritizing artistic interpretation over literal representation.  You may want to explore alternative phrasing to avoid triggering unwanted outputs.

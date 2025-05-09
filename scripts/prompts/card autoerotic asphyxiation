@@ -1,1 +1,25 @@
-A dark, surreal and unsettling image of a swirling, opalescent aura enveloping a pale, almost translucent humanoid figure in a pose of serene surrender, evoking the feeling of suffocation and hypnotic control, cinematic lighting, highly detailed, oil painting style, Magic The Gathering art.
+Here are a few prompt options for Stable Diffusion, varying in detail and style, based on the "Autoerotic Asphyxiation" card description:
+
+**Option 1 (Detailed & Dramatic):**
+
+"A swirling, opulent aura of deep crimson and bruised purple surrounds a majestic, stylized dragon, its scales shimmering with a sickly sheen. The aura presses inwards, distorting the dragon's form, with a subtle, unsettling smile subtly visible in the dragon’s expression. Dramatic lighting, cinematic, dark fantasy, detailed, intricate, magical effect."
+
+**Option 2 (Stylized & Evocative):**
+
+“An aura of pulsing, suffocating roses and velvet, enveloping a magnificent griffon, its feathers darkening as it struggles against the binding magic.  Stylized, dark romanticism, ethereal, surreal, magical effect, dramatic composition."
+
+**Option 3 (Simple & Conceptual):**
+
+“A suffocating aura of deep red and black wraps around a powerful, armored warrior. The warrior's expression is one of resigned horror.  Dark fantasy, magical effect, dramatic lighting, atmospheric,  enchantment effect.”
+
+**Option 4 (Short & Direct - good for quick iterations):**
+
+"Suffocating aura, crimson and black, enveloping a powerful creature, magical enchantment, dramatic lighting, dark fantasy."
+
+**Notes for using these prompts:**
+
+*   **Negative Prompts:**  Consider adding negative prompts to steer the AI away from unwanted elements (e.g., "bright colors," "happy," "cartoonish").
+*   **Sampling Steps & CFG Scale:** Experiment with these settings to find what produces the best results for your desired aesthetic.
+*   **Seed:**  Use a fixed seed to control the generation and refine the image.
+
+Would you like me to generate a prompt with a specific art style in mind (e.g., Art Nouveau, Steampunk, etc.)?

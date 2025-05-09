@@ -1,1 +1,11 @@
-A weathered, dark grey submarine (Das Boot) emerging from a stormy, swirling ocean, rendered in a gritty, realistic style reminiscent of early 20th-century nautical paintings, with visible water damage and a sense of impending danger, cinematic lighting, dramatic composition.
+Here's a Stable Diffusion prompt based on the "Das Boot" Magic: The Gathering card description, aiming for a detailed and evocative image:
+
+**"A sleek, dark, submarine-like artifact pulsing with blue energy, partially submerged in a stormy, deep ocean. Bioluminescent algae clings to its hull, and spectral figures of drowned sailors appear briefly around it. Dramatic lighting, volumetric fog, detailed textures, art nouveau style, Magic The Gathering card art."**
+
+**Explanation of Choices:**
+
+*   **Detailed & Evocative:** The card's text hints at a dark, dangerous artifact controlling a vessel. The prompt uses evocative language (dark, dangerous, spectral) and imagery (submarine, deep ocean, spectral figures) to capture this.
+*   **"Magic The Gathering Card Art"**: Ensures the output aligns with the style of the card format.
+*   **Styling: False**:  The prompt leans towards realistic/detailed art, rather than a stylized or cartoonish look.
+
+Would you like me to generate a simpler or alternative prompt, perhaps focused on a more stylistic representation?
