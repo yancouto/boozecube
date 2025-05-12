@@ -1,8 +1,16 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-mainframe-dfc
-	stylesheet_version: 2024-09-06
-	has_styling: false
+	stylesheet: m15-split-fusable
+	stylesheet_version: 2024-09-03
+	has_styling: true
+	styling_data:
+		frames: arrows
+		auto_frames: nyx, universes beyond
+		room_images: one image
+		use_fuse_arrows: yes
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-21 19:35:04
 	time_modified: 2025-05-08 17:05:55

@@ -1,28 +1,39 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 6
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
-	time_created: 2025-03-20 18:10:17
-	time_modified: 2025-04-01 13:55:05
-	name: Eric, Drinker Of Worlds
-	casting_cost: XW
-	image: 
+	time_created: 2025-03-29 21:15:00
+	time_modified: 2025-05-12 02:08:41
+	name: Eric, Drinker of Worlds
+	casting_cost: 6B/GB/G
+	image: image327.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Each player drinks X. You gain life equal to the total number of drinks consumed.
-		Draw a card.
-	flavor_text: <i-flavor>“Uh oh, Wizards isn’t giving me as much free shit. Time to check my butt for butt hole ache.” -Every </i>Magic<i> player ever</i-flavor>
-	illustrator_brush: art old
+		<kw-A><nospellcheck><key>Companion — <param-name>Your drinking beverage is always 15%+
+		</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen companion, you may put it into your hand from outside the game for <sym>3</sym> as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		 This spell costs <sym-auto>1</sym-auto> less for each 5% in your drinking beverage
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>Ward—<param-cost>take a shot</param-cost></key></nospellcheck></kw-0>
+		If an effect would cause an opponent to drink, shot or chug, triple the amount.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 19:11:54
-	time_modified: 2025-04-17 01:30:15
+	time_modified: 2025-05-09 19:21:52
 	name: Avacyn, Angle of Hope
 	casting_cost: 5WWW
-	image: 
+	image: image211.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -21,7 +21,7 @@ card:
 	rule_text:
 		Creatures you control are triangles <i-auto>(Each side has length equal to its power, toughness or converted mana cost respectively.)</i-auto>
 		Scalene creatures you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Isoceles</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Isosceles creatures you control have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		Equilateral creatures you control have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 8

@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 16:40:47
-	time_modified: 2025-04-27 18:14:52
+	time_modified: 2025-05-12 02:23:37
 	name: Jackass Dwarf
 	casting_cost: 1RR
-	image: 
+	image: image376.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,7 +19,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, it deals 2 damage to each non-dwarf creature.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
 	flavor_text: <i-flavor>Explosives and ale: a match made heaven.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
 	illustrator_brush: art old

@@ -1,12 +1,14 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 1 card win
+	notes:
+		1 card win
+		art too dark
 	time_created: 2025-03-28 11:16:14
-	time_modified: 2025-04-29 02:30:34
+	time_modified: 2025-05-12 01:50:09
 	name: Bourbon Entity
 	casting_cost: 3BB
-	image: 
+	image: image253.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -2,3 +2,4 @@ boozecube.mse-set.bak
 M15-Magic-Pack-main/*
 output/*
 base_imgs/*.png
+!base_imgs/large_art

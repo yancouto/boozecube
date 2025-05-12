@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 20:43:40
-	time_modified: 2025-04-17 01:23:21
+	time_modified: 2025-05-09 18:49:29
 	name: Amanda, Enemy of the End
 	casting_cost: G
-	image: 
+	image: image110.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-A><nospellcheck><key>Cumulative Upkeep—<param-cost> Drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		<kw-0><nospellcheck><key>Cumulative Upkeep—<param-cost> Drink 2</param-cost></key></nospellcheck></kw-0>
 		This card gets +1/+1 for each age counter.
 		If it has 2 age counters, it has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 		If it has 5 age counters, it has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.

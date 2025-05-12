@@ -3,7 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 16:32:09
-	time_modified: 2025-04-27 18:11:35
+	time_modified: 2025-05-12 02:23:09
+	card_color: white, black, hybrid, vertical
 	name: I’m Batman
 	casting_cost: 1W/BW/B
 	image: 

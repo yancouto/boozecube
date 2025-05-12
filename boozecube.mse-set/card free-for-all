@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 20:57:48
-	time_modified: 2025-05-03 11:36:02
+	time_modified: 2025-05-12 02:12:03
 	name: Free-For-All
 	casting_cost: 3WU
-	image: 
+	image: image343.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile all other non-land permanents.
-		At the beginning of each player’s upkeep, that player chooses a card exiled with <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> at random and puts it on the battlefield.
+		At the beginning of each player’s upkeep, that player chooses a card exiled with <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> at random and puts it onto the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 client = OpenAI()
 
-IN = Path("prompts_gpt/")
+IN = Path("cur_prompts/")
 ORIG = Path("../boozecube.mse-set/")
 interrupted = False
 DALLE = False
@@ -50,6 +50,7 @@ def process_file(file):
             + " Don't show the actual card, just the art.",
             n=1,
             size=size,
+            moderation="low",
             quality="hd" if DALLE else "high",
             **({"response_format": "b64_json"} if DALLE else {"background": "opaque"}),  # type: ignore
         )
@@ -60,6 +61,9 @@ def process_file(file):
         (OUT / (file.name + ".png")).write_bytes(image_bytes)
     except Exception as e:
         print(f"Error generating image for {file.name}: {e}", flush=True)
+        if "moderation_blocked" in str(e):
+            # Let's continue
+            return False
         interrupted = True
         return False
     return True

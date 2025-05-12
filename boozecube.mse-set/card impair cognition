@@ -1,12 +1,23 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		hybrid_name: grey
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-23 13:51:02
-	time_modified: 2025-03-23 13:52:30
+	time_modified: 2025-05-12 02:20:24
+	card_color: blue, black, hybrid, horizontal
 	name: Impair Cognition
 	casting_cost: 2UB
-	image: 
+	image: image367.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

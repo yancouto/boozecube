@@ -2,13 +2,17 @@
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-04-29 02:06:33
-	time_modified: 2025-04-29 02:11:15
+	time_modified: 2025-05-12 02:01:21
 	card_color: white, black, hybrid, horizontal
 	name: Demon Fratboy
-	image: 
+	image: image290.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 22:46:29
-	time_modified: 2025-04-27 17:19:17
+	time_modified: 2025-05-12 02:14:48
 	name: Harsh Comedown
 	casting_cost: 2W
-	image: 
+	image: image356.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Destroy all enchantments. Each player drinks <sym-auto>X</sym-auto>, where X is the number of enchantments destroyed this way.
+	rule_text: Destroy all enchantments. Each player drinks X<sym></sym>, where X is the number of enchantments destroyed this way.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 

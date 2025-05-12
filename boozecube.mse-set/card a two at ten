@@ -1,16 +1,16 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-mainframe-dfc
-	stylesheet_version: 2024-09-06
+	stylesheet: m15-split-fusable
+	stylesheet_version: 2024-09-03
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-04-17 01:16:29
+	time_modified: 2025-05-09 18:52:40
 	name: A Two at Ten
 	name_2: A Ten at Two
 	casting_cost: 1U
 	casting_cost_2: 3G
-	image: 
+	image: image190.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

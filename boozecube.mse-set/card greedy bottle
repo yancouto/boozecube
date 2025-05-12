@@ -1,12 +1,21 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: draft matters
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-27 15:44:04
-	time_modified: 2025-04-27 17:12:46
+	time_modified: 2025-05-12 02:14:01
 	name: Greedy Bottle
 	casting_cost: 2
-	image: 
+	image: image353.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

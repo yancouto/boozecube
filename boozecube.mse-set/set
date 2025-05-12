@@ -30,9 +30,11 @@ styling:
 	magic-m15-adventure:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-aftermath: text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-altered:
 		chop_top: 2
 		chop_bottom: 
+		frames: 
 		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
 		use_guild_mana_symbols: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -116,6 +118,8 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-dfc:
+		dfc_type: transforming
+		front_style: normal
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -124,6 +128,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
+		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-meld-3in1:
@@ -190,6 +195,14 @@ styling:
 	magic-m15-spellbook:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-split-fusable:
+		frames: arrows
+		auto_frames: nyx, universes beyond
+		room_images: one image
+		use_fuse_arrows: yes
+		other_options: spillover image
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-tapped: text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-tapped-FULLART: text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-textless:
@@ -243,11 +256,10 @@ include_file: card unsightly growth
 include_file: card nature buddies
 include_file: card hulksmash
 include_file: card karaoke night
-include_file: card feats os strenght
+include_file: card feats of strenght
 include_file: card familiar hangout
 include_file: card tequila dance
 include_file: card booty call
-include_file: card eric drinker of worlds
 include_file: card wrath of blutarsky
 include_file: card hazing ritual
 include_file: card bid day
@@ -433,7 +445,6 @@ include_file: card divine intervention
 include_file: card school buddies
 include_file: card oh yeah
 include_file: card smackdown
-include_file: card murica
 include_file: card spork
 include_file: card shot do charmander
 include_file: card last call
@@ -536,7 +547,7 @@ include_file: card stoned lich
 include_file: card alcohol poisoning
 include_file: card ruas pact
 include_file: card assemble the strippers
-include_file: card hazmat suitused
+include_file: card hazmat suit used
 include_file: card necropotent
 include_file: card blackout
 include_file: card motion-sensor-bomb
@@ -619,7 +630,6 @@ include_file: card rainbow the clown
 include_file: card start-the-party-man
 include_file: card cervo bonito
 include_file: card auction man
-include_file: card voltron defender of the universe
 include_file: card hobo cop
 include_file: card cybergorilla
 include_file: card glass overseer
@@ -806,7 +816,7 @@ include_file: card drunken master
 include_file: card redneck
 include_file: card nymph maniac
 include_file: card omicron knight
-include_file: card franatic urinator
+include_file: card frantic urinator
 include_file: card equipped creature
 include_file: card scrotumbeard
 include_file: card pizza-delivery guy
@@ -877,7 +887,7 @@ include_file: card mescalito
 include_file: card memetic kitten
 include_file: card pile of shit
 include_file: card introvert bear
-include_file: card eric drinker or worlds
+include_file: card eric drinker of worlds
 include_file: card grim tequilamancer
 include_file: card dealer of the dorms
 include_file: card moonshine
@@ -895,14 +905,13 @@ include_file: card dragon
 include_file: card elf warrior
 include_file: card liquid test
 include_file: card awesomesauce
-include_file: card brain damage.1
 include_file: card necrophilia
 include_file: card noble wingman.1
 include_file: card prismatic lush
 include_file: card sense of entitlement
 include_file: card sucker punch
-include_file: card voltron defender of the universe.1
-include_file: card murica.1
+include_file: card voltron defender of the universe
+include_file: card murica
 keyword:
 	keyword: Boozetouch
 	match: boozetouch

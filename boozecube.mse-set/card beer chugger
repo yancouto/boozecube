@@ -1,10 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes:
-		Whenever a player chugs a beer or finishes their game beverage, put a +1/+1 counter on target Fratboy or Pledge. ? Seria talvez um buff pro floor e um nerf do ceiling, acho ok em 1 drops
-		
-
+	notes: Whenever a player chugs a beer or finishes their game beverage, put a +1/+1 counter on target Fratboy or Pledge. ? Seria talvez um buff pro floor e um nerf do ceiling, acho ok em 1 drops
 	time_created: 2025-03-28 22:30:20
 	time_modified: 2025-05-08 14:50:19
 	name: Beer Chugger

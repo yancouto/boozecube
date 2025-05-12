@@ -1,9 +1,17 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 9
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-29 19:07:59
-	time_modified: 2025-05-08 14:55:03
+	time_modified: 2025-05-12 01:57:39
 	name: Borat Sagdiyev
 	casting_cost: 2G/UG/U
 	image: image25.png
@@ -21,9 +29,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Protection from <param-name>Jew</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted or dealt damage by Jew.)</i-auto></atom-reminder-expert></kw-A>
 		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, draw two card. High-five!
-	flavor_text:
-		<i-flavor>“On <error-spelling:en_US>Mirrodin</error-spelling:en_US>, everyone has metal body parts, like my cousin <error-spelling:en_US>Bilo</error-spelling:en_US>. <error-spelling:en_US>Mirrodin</error-spelling:en_US> people are born with their metal, unlike <error-spelling:en_US>Bilo</error-spelling:en_US>, who got new phallus after he tried to make <error-spelling:en_US>sexytime</error-spelling:en_US> explosion in a bear.”
-		</i-flavor>
+	flavor_text: <i-flavor>“On <error-spelling:en_US>Mirrodin</error-spelling:en_US>, everyone has metal body parts, like my cousin <error-spelling:en_US>Bilo</error-spelling:en_US>. <error-spelling:en_US>Mirrodin</error-spelling:en_US> people are born with their metal, unlike <error-spelling:en_US>Bilo</error-spelling:en_US>, who got new phallus after he tried to make <error-spelling:en_US>sexytime</error-spelling:en_US> explosion in a bear.”</i-flavor>
 	power: 2
 	toughness: 4
 	illustrator: Is niiiiiiiiiice.

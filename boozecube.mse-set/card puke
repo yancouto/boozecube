@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-mainframe-dfc
-	stylesheet_version: 2024-09-06
+	stylesheet: m15-split-fusable
+	stylesheet_version: 2024-09-03
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 19:35:04

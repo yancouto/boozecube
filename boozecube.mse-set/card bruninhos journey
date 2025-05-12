@@ -13,7 +13,7 @@ card:
 		custom_chapter_icons: 
 		move_separators: 
 		move_textbox_bottoms: 
-		extended_art: no
+		extended_art: yes
 		watermark: 
 		legend_crown: special
 		insignia: none
@@ -26,13 +26,13 @@ card:
 		auxiliary_font: 
 	notes: 
 	time_created: 2025-03-21 19:16:36
-	time_modified: 2025-04-27 09:56:26
+	time_modified: 2025-05-12 01:53:33
 	extra_data:
 		magic-m15-meld-3in1: meld_image: 
 	special_text: 
 	name: Bruninho’s Journey
 	casting_cost: 1GGWW
-	image: 
+	image: image258.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
