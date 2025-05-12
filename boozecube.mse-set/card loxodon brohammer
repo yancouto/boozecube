@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 21:20:27
-	time_modified: 2025-04-29 02:35:20
+	time_modified: 2025-05-12 02:40:04
 	name: Loxodon Brohammer
 	casting_cost: 1WWW
-	image: 
+	image: image404.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, each player drinks <sym-auto>X</sym-auto>, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>white</param-one_word></key></nospellcheck><atom-reminder-action> <i-auto>(Each <param-one_word><sym>W</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>white</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, each player drinks X<sym></sym>, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>white</param-one_word></key></nospellcheck>.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>W</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>white</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 5

@@ -4,20 +4,24 @@ card:
 	stylesheet_version: 2024-09-01
 	has_styling: true
 	styling_data:
+		combined_chop: 
+		shift_loyalty_costs: 
+		opacity: 
 		override_levels: automatic
-		other_options: un-indent nonloyalty abilities
+		other_options: 
+		default_image_size: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-04-27 18:56:03
+	time_modified: 2025-05-12 02:43:20
 	special_text:
 		Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
 		[+1]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
 		[-13]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname>’s controller loses the game.</margin:130:0:0>
 	name: Miojo, the Unfortunate
 	casting_cost: 1W/BW/B
-	image: 
+	image: image396.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -39,7 +43,7 @@ card:
 	loyalty_cost_2: +1
 	loyalty_cost_3: -13
 	loyalty: 3
-	level_1_text: Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
+	level_1_text: <margin:130:0:0>Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.</margin:130:0:0>
 	level_2_text: <margin:130:0:0><atom-name>This planeswalker</atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><atom-name>This planeswalker</atom-cardname>’s controller loses the game.</margin:130:0:0>
 	level_4_text: 

@@ -2,16 +2,24 @@
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: arrows
+		auto_frames: nyx, universes beyond
+		room_images: one image
+		use_fuse_arrows: yes
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-04-27 18:32:55
+	time_modified: 2025-05-12 02:36:17
 	name: Liquor in the Front
 	name_2: Poker in the Rear
 	casting_cost: 3U
 	casting_cost_2: 1R
-	image: 
-	image_2: 
+	image: image394.png
+	image_2: image_23.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>

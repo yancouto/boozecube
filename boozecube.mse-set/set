@@ -225,7 +225,7 @@ styling:
 	magic-windy-ultima:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-include_file: card pick- up line
+include_file: card pick-up line
 include_file: card afternoon delight
 include_file: card i love you man
 include_file: card anal probe
@@ -780,7 +780,6 @@ include_file: card margarita bear
 include_file: card archon of light beer
 include_file: card mr. brightside
 include_file: card diminutive brohemian
-include_file: card noble wingman
 include_file: card tui deviant student
 include_file: card it that parties
 include_file: card beer chugger
@@ -893,7 +892,7 @@ include_file: card dealer of the dorms
 include_file: card moonshine
 include_file: card kinetic power keg
 include_file: card _
-include_file: card land russa
+include_file: card land russia
 include_file: card savage thirst
 include_file: card goblin
 include_file: card fratboy
@@ -906,7 +905,7 @@ include_file: card elf warrior
 include_file: card liquid test
 include_file: card awesomesauce
 include_file: card necrophilia
-include_file: card noble wingman.1
+include_file: card noble wingman
 include_file: card prismatic lush
 include_file: card sense of entitlement
 include_file: card sucker punch
