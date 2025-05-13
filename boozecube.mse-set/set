@@ -127,8 +127,7 @@ styling:
 	magic-m15-grayscale:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	magic-m15-invocation:
-		overlay: 
+	magic-m15-invocation: overlay: 
 	magic-m15-jinx:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -149,6 +148,7 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-planeswalker:
+		opacity: 180
 		override_levels: three abilities
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
