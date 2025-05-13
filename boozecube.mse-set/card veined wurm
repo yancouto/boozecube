@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 21:39:13
-	time_modified: 2025-04-29 13:47:23
+	time_modified: 2025-05-12 22:24:28
 	name: Veined Wurm
 	casting_cost: 4BG
 	image: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>
-		When Veined Wurm dies, you may drink 10. If you do, return it from the graveyard to your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may drink 10. If you do, return it from the graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 4

@@ -21,10 +21,21 @@ styling:
 		textboxes: three
 		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-kasu-eldrazi_750:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-kasu-legend_750:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-GoodBad:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-Kaladesh:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-adventure:
@@ -74,6 +85,15 @@ styling:
 	magic-m15-emblem-cajun:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-emblem-name-cut:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-udelude:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-expedition:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-extra:
 		text_box_mana_symbols: magic-mana-small-extra-m15.mse-symbol-font
 		pt_box_symbols: magic-pt-symbols-extra.mse-symbol-font
@@ -89,6 +109,9 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-future:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-future-clear:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -103,6 +126,8 @@ styling:
 		overlay: 
 	magic-m15-grayscale:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-invocation:
 		overlay: 
 	magic-m15-jinx:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -161,6 +186,9 @@ styling:
 	magic-m15-pokemon:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-punk-show:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-saga:
 		chapter_textboxes: four
 		snap_chapter_to_box: 1,2,3,4,5
@@ -173,7 +201,28 @@ styling:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-scroll:
+		text_box_mana_symbols: magic-mana-scroll.mse-symbol-font
+		overlay: 
+	magic-m15-scroll-demon:
+		text_box_mana_symbols: magic-mana-scroll-demon.mse-symbol-font
+		overlay: 
+	magic-m15-scroll-demon-planeswalker:
+		text_box_mana_symbols: magic-mana-scroll-demon.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-assassins-creed-memory-corridor:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-showcase-bloomburrow-borderless-anime:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-bloomburrow-woodland:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-capenna-art-deco:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -185,6 +234,22 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-dominaria-stained-glass:
+		legend_crown: if legendary
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-dungeon-module:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-duskmourn-paranormal:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-eldraine-tales:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
+		text_box_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
 	magic-m15-showcase-innistrad-double-feature:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -200,7 +265,7 @@ styling:
 		auto_frames: nyx, universes beyond
 		room_images: one image
 		use_fuse_arrows: yes
-		other_options: spillover image
+		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-tapped: text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -209,10 +274,19 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-textless-land: overlay: 
+	magic-m15-token-invention:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-treasure-maps:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-ttk-frames:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-monarch-emblem:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-monarch-emblem-with-name:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-scifi:
@@ -684,7 +758,7 @@ include_file: card bourbon entity
 include_file: card barkeep the damned
 include_file: card havengul host
 include_file: card forceling
-include_file: card shepher of want
+include_file: card shepherd of want
 include_file: card herpderpaderp
 include_file: card doc holiday
 include_file: card the motherfuckin scorpion god

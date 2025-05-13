@@ -3,10 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 17:54:16
-	time_modified: 2025-04-29 02:04:54
+	time_modified: 2025-05-12 22:18:09
+	card_color: blue, black, hybrid, horizontal
 	name: Timber Shiverer
 	casting_cost: 1UB
-	image: 
+	image: image534.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -2,16 +2,24 @@
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: arrows
+		auto_frames: nyx, universes beyond
+		room_images: one image
+		use_fuse_arrows: yes
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-04-29 01:39:21
+	time_modified: 2025-05-12 21:46:16
 	name: Salt
 	name_2: Lime
 	casting_cost: 1W
 	casting_cost_2: 5G
-	image: 
-	image_2: 
+	image: image494.png
+	image_2: image_25.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>

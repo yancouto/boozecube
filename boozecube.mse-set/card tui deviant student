@@ -2,17 +2,24 @@
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
-	has_styling: false
+	has_styling: true
+	styling_data:
+		dfc_type: transforming
+		front_style: normal
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns, clear front, clear back
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-28 22:11:52
-	time_modified: 2025-05-09 20:14:15
+	time_modified: 2025-05-12 22:22:56
 	special_text: 
 	card_color_2: white, red, multicolor, horizontal
 	name: Tui, Deviant Student 
 	name_2: Tui, Drunken Master
 	casting_cost: R/W
-	image: 
-	image_2: 
+	image: image551.png
+	image_2: image_27.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>

@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-04-29 02:35:26
+	time_modified: 2025-05-12 21:21:02
 	name: Pit-Stop dos Anões
 	casting_cost: 2R
-	image: 
+	image: image452.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever a dwarf enters, creatures you control lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Whenever a Dwarf enters, creatures you control lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

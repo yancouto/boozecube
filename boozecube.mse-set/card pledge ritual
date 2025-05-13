@@ -1,13 +1,21 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-conspiracy
-	stylesheet_version: 2024-06-06
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: conspiracy
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-21 18:52:23
-	time_modified: 2025-04-29 02:21:52
+	time_modified: 2025-05-12 21:48:02
+	card_color: white
 	name: Pledge Ritual
-	image: 
+	image: image460.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,9 +25,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<i-auto>(Begin the game with this card face up on your command zone)</i-auto>
+		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
 		At the end of each end step, if every player has drank this turn, create a 2/2 white Pledge creature token.
-		<sym-auto>1W</sym-auto>, Chug a beer: Put two +1/+1 counters on each Pledge creatures you control and they become <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboys</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(This effect doesn’t end.)</i-auto>
+		<sym-auto>1W</sym-auto>, Chug a beer: Put two +1/+1 counters on each Pledge creature you control and they become <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboys</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(This effect doesn’t end.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

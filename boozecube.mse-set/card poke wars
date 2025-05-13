@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 18:19:28
-	time_modified: 2025-03-22 18:20:37
+	time_modified: 2025-05-12 21:29:35
 	name: Poke Wars
 	casting_cost: R
-	image: 
+	image: image461.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Deal 1 damage to opponent, that player drinks. Any player may pay <sym-auto>1</sym-auto> to copy this spell and choose new target
+	rule_text: Deal 1 damage to opponent, that player drinks. Any player may pay <sym-auto>1</sym-auto> to copy this spell and choose a new target.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

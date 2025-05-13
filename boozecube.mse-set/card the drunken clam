@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:16:07
-	time_modified: 2025-04-29 01:59:59
+	time_modified: 2025-05-12 22:16:15
 	name: The Drunken Clam
-	image: 
+	image: image539.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -13,7 +13,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

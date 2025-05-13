@@ -16,7 +16,7 @@ card:
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-05-12 02:43:20
 	special_text:
-		Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.
+		<margin:130:0:0>Any player may activate <atom-cardname><nospellcheck>this planeswalker</nospellcheck></atom-cardname>’s loyalty abilities on their turn.</margin:130:0:0>
 		[+1]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname>’s controller draws a card and loses 1 life.</margin:130:0:0>
 		[-13]: <margin:130:0:0><atom-name>This planeswalker</atom-cardname>’s controller loses the game.</margin:130:0:0>
 	name: Miojo, the Unfortunate

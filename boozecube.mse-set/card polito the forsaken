@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 21:27:36
-	time_modified: 2025-04-27 17:55:56
+	time_modified: 2025-05-12 21:30:44
 	name: Polito, the Forsaken
 	casting_cost: 3WB
-	image: 
+	image: image463.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,7 +22,7 @@ card:
 		<kw-A><nospellcheck><key>Redemption <param-number>40</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature enters with <param-number>40</param-number> redemption counters. Remove one for each drink you take and fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, destroy target creature an opponent controls.
 		<atom-name>This creature</atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> as long as you control exactly two other creatures.
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has no more <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0>, sacrifice it. You then gain 5 life.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has no more <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0>, sacrifice it, then gain 5 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

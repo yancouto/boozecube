@@ -1,4 +1,7 @@
+import os, sys
 from pathlib import Path
+
+os.chdir(sys.path[0])
 
 set_txt = Path("../boozecube.mse-set/set").read_text(encoding="utf-8")
 

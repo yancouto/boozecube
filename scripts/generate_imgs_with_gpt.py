@@ -38,6 +38,7 @@ def process_file(file):
         ("super_type: <word-list-type-en>Token" in original)
         or ("super_type: <word-list-type-en>Emblem" in original)
         or ("super_type: <word-list-type-en>Trap" in original)
+        or ("super_type: <word-list-type-en>Planeswalker" in original)
         or ("sub_type: <word-list-enchantment>Saga" in original)
     ):
         size = "1024x1792" if DALLE else "1024x1536"

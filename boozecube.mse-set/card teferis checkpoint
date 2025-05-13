@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 12:12:13
-	time_modified: 2025-04-29 01:54:49
+	time_modified: 2025-05-12 22:11:06
 	name: Teferi’s Checkpoint
 	casting_cost: 1W/U
 	image: 
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As long as you control an Island, creatures attacking you are <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
+		As long as you control an Island, creatures attacking you have <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
 		As long as you control a Plains, whenever an <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creature attacks you, detain it. <i-auto>(Until your next turn, the creature can’t attack or block and its activated abilities can’t be activated.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old

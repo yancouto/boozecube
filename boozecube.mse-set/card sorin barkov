@@ -5,14 +5,14 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-04-29 01:47:19
+	time_modified: 2025-05-12 21:54:29
 	special_text:
 		[+2]: <margin:130:0:0>Target player drinks 2 and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Target player drinks 10.</margin:130:0:0>
 		[-7]: <margin:130:0:0>During your next turn, target player drinks for you.</margin:130:0:0>
 	name: Sorin Barkov
 	casting_cost: 2WWBB
-	image: 
+	image: image511.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
