@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 15:55:46
-	time_modified: 2025-04-27 18:26:47
-	name: Lance the Enhanced
+	time_modified: 2025-05-12 22:56:36
+	name: Lance, the Enhanced
 	casting_cost: UUU
-	image: 
+	image: image588.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-name>This creature</atom-cardname> is unblockable.
-		You may sneak <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> into play at any time without paying for it, but if an opponent catches you right away, sacrifice it and drink 10.
+		You may sneak <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> into play at any time without paying for it, but if an opponent catches you right away, sacrifice it and drink 10.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
