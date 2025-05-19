@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 17:36:37
-	time_modified: 2025-04-27 18:12:34
+	time_modified: 2025-05-19 17:07:25
 	special_text:
 		[+2]: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
@@ -13,7 +13,7 @@ card:
 		</margin:130:0:0>
 	name: Jack Daniels
 	casting_cost: 4BB
-	image: 
+	image: image610.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

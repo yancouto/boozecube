@@ -12,14 +12,14 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-04-29 02:19:39
+	time_modified: 2025-05-19 17:14:56
 	special_text:
 		[+X]: <margin:130:0:0>Drink XX. If you do, untap up to X target lands.</margin:130:0:0>
 		[+Y]: <margin:130:0:0>Drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>YYY</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. If you do, put Y 1/1 green Worm creature tokens.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Any number of target opponents drink for each creature you control.</margin:130:0:0>
 	name: Juan, the Mind Smasher
 	casting_cost: 2GG
-	image: 
+	image: image627.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

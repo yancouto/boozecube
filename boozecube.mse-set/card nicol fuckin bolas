@@ -5,14 +5,14 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-03-23 16:14:00
+	time_modified: 2025-05-19 17:41:22
 	special_text:
 		[+4]: <margin:130:0:0>Any number or target players each drink 7.</margin:130:0:0>
 		[-3]: <margin:130:0:0>For each opponent, choose a permanent that he or she controls. That player sacrifices it unless he or she takes two shots.</margin:130:0:0>
 		[-14]: <margin:130:0:0>Gain control of all nonland permanents that target player controls.</margin:130:0:0>
 	name: Nicol Fuckin’ Bolas
 	casting_cost: 4UBR
-	image: 
+	image: image675.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
