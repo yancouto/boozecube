@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-28 13:15:00
-	time_modified: 2025-05-12 01:53:55
+	time_modified: 2025-05-19 13:11:10
 	name: Buccaner Barter
 	casting_cost: 3U
 	image: image260.png
@@ -26,6 +26,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: special
 	rule_text:
 		Draft this card face up.
 		During any auction, before bids are placed, you may instead win the card if you drink 8.

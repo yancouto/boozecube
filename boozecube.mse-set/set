@@ -469,7 +469,7 @@ include_file: card jack-in-the-box
 include_file: card jagerbomb
 include_file: card fragmented tome
 include_file: card entirely normal chair
-include_file: card brethalyzer
+include_file: card breathalyzer
 include_file: card gravity bong
 include_file: card cocktail of the gods
 include_file: card prism
@@ -490,7 +490,7 @@ include_file: card boobiest of traps
 include_file: card baravieras archive
 include_file: card tapped keg
 include_file: card stupid spoiled whore video playset
-include_file: card bronken beer bottle
+include_file: card broken beer bottle
 include_file: card castrate
 include_file: card dumb luck
 include_file: card will of force
@@ -755,7 +755,7 @@ include_file: card chocula-clan vampire
 include_file: card mr. hankey the christmas poo
 include_file: card kleber bambam
 include_file: card bourbon entity
-include_file: card barkeep the damned
+include_file: card barkeep of the damned
 include_file: card havengul host
 include_file: card forceling
 include_file: card shepherd of want
@@ -985,6 +985,7 @@ include_file: card sense of entitlement
 include_file: card sucker punch
 include_file: card voltron defender of the universe
 include_file: card murica
+include_file: card bottle.1
 keyword:
 	keyword: Boozetouch
 	match: boozetouch

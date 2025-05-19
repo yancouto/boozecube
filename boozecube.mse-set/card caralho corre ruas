@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 21:27:21
+	time_modified: 2025-05-19 12:56:22
 	card_color: red, green, hybrid, vertical
 	name: "Caralho! Corre, Ruas!"
 	casting_cost: 2RRGG
@@ -21,7 +21,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of your upkeep you may say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Caralho</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>! <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Corre</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ruas</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>! <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>é</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> o...” and name a creature card. If you do, search your library for the name card, put it in play, then shuffle. That creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Remove it from the game at end of turn.
+	rule_text: At the beginning of your upkeep you may say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Caralho</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>! <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Corre</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ruas</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>! <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>é</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> o...” and name a creature card. If you do, search your library for a card with that name, put it on the battlefield, then shuffle. That creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile it at end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

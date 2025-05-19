@@ -2,11 +2,11 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2025-03-22 15:39:09
-	time_modified: 2025-05-19 13:06:04
-	name: Black Label
-	casting_cost: 0
-	image: image229.png
+	time_created: 2025-03-22 14:39:05
+	time_modified: 2025-05-19 13:09:55
+	name: Breathalyzer
+	casting_cost: 5
+	image: image255.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,9 +18,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <sym-auto>T</sym-auto>, Sacrifice Black Label: Target player takes a shot.
+	rule_text: <sym-auto>3</sym-auto>: Target attacking creature deals no combat damage this turn and does not untap during its controller’s next untap step. Activate this ability only if that creature’s controller has drank this turn.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: Keep Walking
+	illustrator_brush: art old
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

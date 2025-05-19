@@ -3,8 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 16:19:23
-	time_modified: 2025-05-09 18:51:33
+	time_modified: 2025-05-19 12:56:46
 	border_color: rgb(0,0,0)
+	card_color: black
 	name: 28 Turns Later
 	image: image179.png
 	image_2: 

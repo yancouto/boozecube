@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 16:45:35
-	time_modified: 2025-05-09 18:53:03
+	time_modified: 2025-05-19 12:58:36
 	name: Acerto de Contas
 	casting_cost: 2W
 	image: image193.png
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of your upkeep, each player drinks </sym>for each card <sym>in their own graveyard.
+	rule_text: At the beginning of your upkeep, each player drinks </sym>for each card <sym>in their graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old
 	card_code_text: 
