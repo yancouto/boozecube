@@ -1,7 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-emblem
-	stylesheet_version: 2024-06-06
+	stylesheet: monarch-emblem-with-name
+	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:41:58
