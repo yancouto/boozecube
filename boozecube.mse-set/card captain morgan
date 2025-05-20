@@ -5,14 +5,14 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-05-19 17:05:19
+	time_modified: 2025-05-20 11:01:38
 	special_text:
 		[+2]: <margin:130:0:0>Target player draws a card and drinks.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a 4/3 blue Pirate Ship token with islandhome and “<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player”.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Target player gets an emblem with “Whenever you would drink X<sym></sym>, drink X+2 instead”.</margin:130:0:0>
 	name: Captain Morgan
 	casting_cost: 3UU
-	image: image607.png
+	image: image189.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
