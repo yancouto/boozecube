@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 20:04:29
-	time_modified: 2025-05-08 16:52:48
+	time_modified: 2025-05-20 11:37:24
 	name: Parched Baloth
 	casting_cost: 2GG
 	image: image121.png
@@ -19,8 +19,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, target player finishes the contents of his or her game beverage.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, finish the contents of your game beverage.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, target player finishes the contents of his or her drinking beverage.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, finish the contents of your drinking beverage.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

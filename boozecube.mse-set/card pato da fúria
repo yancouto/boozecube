@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 22:35:57
-	time_modified: 2025-05-12 02:50:14
+	time_modified: 2025-05-20 11:56:27
 	name: Pato da Fúria
 	casting_cost: 1WU
 	image: image438.png
@@ -24,6 +24,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 4
+	illustrator: "Quack"
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

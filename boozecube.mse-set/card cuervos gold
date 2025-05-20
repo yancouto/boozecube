@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 12:12:13
-	time_modified: 2025-05-19 19:55:08
+	time_modified: 2025-05-20 11:38:02
 	name: Cuervo’s Gold
 	casting_cost: 2G
 	image: image676.png
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Whenever a player finishes his or her game beverage, you may put a change counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		Whenever a player finishes their drinking beverage, you may put a change counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
 		Remove three charge counters from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Put a permanent card from your hand onto the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator_brush: art old

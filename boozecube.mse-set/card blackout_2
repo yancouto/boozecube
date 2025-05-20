@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 10:36:49
-	time_modified: 2025-05-10 11:18:38
+	time_modified: 2025-05-20 11:37:07
 	name: Blackout_2
 	casting_cost: BBB
 	image: image231.png
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Each player loses half of their life, then discards half of their hand, then sacrifices half of the creature they controls, then finishes half of their game beverage.
+		Each player loses half of their life, then discards half of their hand, then sacrifices half of the creature they controls, then finishes half of their drinking beverage.
 		Round up each time.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

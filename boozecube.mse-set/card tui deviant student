@@ -12,8 +12,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-28 22:11:52
-	time_modified: 2025-05-12 22:22:56
+	time_modified: 2025-05-20 13:20:20
 	special_text: 
+	card_color: white, red, hybrid, horizontal
 	card_color_2: white, red, multicolor, horizontal
 	name: Tui, Deviant Student 
 	name_2: Tui, Drunken Master
