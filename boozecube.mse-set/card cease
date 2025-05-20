@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-05-09 18:02:43
+	time_modified: 2025-05-20 10:54:13
 	name: Cease
 	name_2: Desist
 	casting_cost: 2W
 	casting_cost_2: U
-	image: image189.png
-	image_2: 
+	image: image683.png
+	image_2: image_210.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>

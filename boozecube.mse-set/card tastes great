@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-05-12 22:10:21
+	time_modified: 2025-05-20 10:54:53
 	name: Tastes Great
 	name_2: Less Filling
 	casting_cost: B
 	casting_cost_2: 1W
-	image: image500.png
-	image_2: 
+	image: image684.png
+	image_2: image_211.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>

@@ -3,7 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 12:40:38
-	time_modified: 2025-05-12 21:45:06
+	time_modified: 2025-05-20 10:59:38
+	card_color: blue, black, hybrid, horizontal
 	name: Rô, the Oracle of Half-Truths
 	casting_cost: 2UB
 	image: image490.png

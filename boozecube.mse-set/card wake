@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-05-12 22:25:48
+	time_modified: 2025-05-20 10:57:22
 	name: Wake
 	name_2: Bake
 	casting_cost: 1U
 	casting_cost_2: 1B
-	image: image561.png
-	image_2: image_28.png
+	image: image687.png
+	image_2: image_215.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>

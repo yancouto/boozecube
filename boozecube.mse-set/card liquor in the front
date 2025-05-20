@@ -13,13 +13,13 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-05-12 02:36:17
+	time_modified: 2025-05-20 10:57:49
 	name: Liquor in the Front
 	name_2: Poker in the Rear
 	casting_cost: 3U
 	casting_cost_2: 1R
 	image: image394.png
-	image_2: image_23.png
+	image_2: image_216.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>

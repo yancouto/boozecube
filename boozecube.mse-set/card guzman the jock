@@ -1,10 +1,13 @@
 ﻿mse_version: 2.5.6
 card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: 
+	notes: Falta o outro lado
 	time_created: 2025-03-29 16:48:14
-	time_modified: 2025-05-12 02:14:34
+	time_modified: 2025-05-20 10:19:34
 	name: Guzman, the Jock
+	name_2: [?]
 	casting_cost: R/WR/W
 	image: image355.png
 	image_2: 

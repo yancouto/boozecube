@@ -1,13 +1,13 @@
 ﻿mse_version: 2.5.6
 card:
-	stylesheet: m15-emblem-cajun
-	stylesheet_version: 2024-06-06
+	stylesheet: monarch-emblem-with-name
+	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:41:58
-	time_modified: 2025-05-08 15:12:18
+	time_modified: 2025-05-20 10:50:27
 	name: Captain Morgan’s Rum Stash
-	image: 
+	image: image678.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

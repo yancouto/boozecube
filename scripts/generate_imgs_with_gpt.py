@@ -5,15 +5,16 @@ import signal
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 client = OpenAI()
+ignore_cards_with_img = True
 
-IN = Path("cur_prompts/")
+IN = Path("prompts_gpt/")
 ORIG = Path("../boozecube.mse-set/")
 interrupted = False
 DALLE = False
 if DALLE:
     OUT = Path("out_gpt_dalle3/")
 else:
-    OUT = Path("out_gpt_gpt-image/")
+    OUT = Path("../base_imgs/large_art/")
 
 OUT.mkdir(parents=True, exist_ok=True)
 
@@ -34,6 +35,8 @@ def process_file(file):
     # Horizontal by default
     size = "1792x1024" if DALLE else "1536x1024"
     original = (ORIG / file.name).read_text(encoding="utf-8")
+    if ignore_cards_with_img and "image: i" in original:
+        return False
     if (
         ("super_type: <word-list-type-en>Token" in original)
         or ("super_type: <word-list-type-en>Emblem" in original)

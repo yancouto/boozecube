@@ -5,13 +5,13 @@ card:
 	has_styling: false
 	notes: Melhorar arte?
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-05-12 02:04:40
+	time_modified: 2025-05-20 10:58:37
 	name: Drunk
 	name_2: Disorderly
 	casting_cost: XR
 	casting_cost_2: 1G
-	image: image304.png
-	image_2: 
+	image: image688.png
+	image_2: image_217.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
