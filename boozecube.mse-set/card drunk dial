@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 16:29:54
-	time_modified: 2025-05-12 02:04:52
+	time_modified: 2025-05-20 14:44:40
 	name: Drunk Dial
 	casting_cost: 3R
 	image: image305.png
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Target opponent reveals the top of the seven cards of his or her library. Choose one of them at random. If it’s a permanent, you may put it on the battlefield under your control. If you do, drink <sym></sym>X, where X is its mana value. Shuffle the remaining cards into their owner’s library.
+	rule_text: Target opponent reveals the top of the seven cards of their library. Choose one of them at random. If it’s a permanent, you may put it on the battlefield under your control. If you do, drink <sym-auto>X</sym-auto>, where X is its mana value. Shuffle the remaining cards into their owner’s library.
 	flavor_text: <i-flavor>It doesn’t matter whether or not they understand your incoherent slurring. After all, you won’t remember calling them anyway.</i-flavor>
 	watermark: none
 	card_code_text: 

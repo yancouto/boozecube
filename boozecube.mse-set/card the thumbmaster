@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 22:52:18
+	time_modified: 2025-05-20 14:44:31
 	name: The Thumbmaster
 	casting_cost: WWW
 	image: image581.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		Once per turn, you may put your thumb on the edge of the table and keep it there.
-		Until you move your thumb, any other player may also place his or her thumb on the table and keep it there. When all but one player has a thumb on the table, the remaining player loses 1 life and drinks.
+		Until you move your thumb, any other player may also place their thumb on the table and keep it there. When all but one player has a thumb on the table, the remaining player loses 1 life and drinks.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	illustrator_brush: art old

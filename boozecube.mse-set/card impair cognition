@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-23 13:51:02
-	time_modified: 2025-05-12 02:20:24
+	time_modified: 2025-05-20 14:44:46
 	card_color: blue, black, hybrid, horizontal
 	name: Impair Cognition
 	casting_cost: 2UB
@@ -30,7 +30,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Each opponent chooses a number of cards in his or her hand, drinks 3 for each card chosen this way and discard the rest.
+		Each opponent chooses a number of cards in their hand, drinks 3 for each card chosen this way and discard the rest.
 		Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
