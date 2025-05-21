@@ -10,12 +10,12 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: art too dark
+	notes: 
 	time_created: 2025-03-21 19:02:41
-	time_modified: 2025-05-12 21:48:06
+	time_modified: 2025-05-21 11:26:18
 	card_color: black
 	name: Reaper’s Cup
-	image: image456.png
+	image: image690.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
