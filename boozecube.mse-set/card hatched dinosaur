@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-27 19:04:05
-	time_modified: 2025-05-12 02:14:56
+	time_modified: 2025-05-27 15:29:29
 	card_color: green
 	name: Hatched Dinosaur
 	image: image357.png
@@ -19,6 +19,8 @@ card:
 	sub_type_4: 
 	rule_text: <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

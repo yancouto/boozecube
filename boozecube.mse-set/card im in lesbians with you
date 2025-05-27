@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 17:42:59
-	time_modified: 2025-05-12 22:46:11
+	time_modified: 2025-05-27 15:30:54
 	name: I’m in Lesbians With You
 	casting_cost: W
 	image: image576.png
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Prevent all combat damage that would be dealt this turn. Any player that attacks you this turn must hug you.
+	rule_text: Prevent all combat damage that would be dealt this turn. Any player that attacked you this turn must hug you.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

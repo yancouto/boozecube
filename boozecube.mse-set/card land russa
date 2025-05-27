@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes:
+		Tem que arrumar o nome pra ser em Russo, ou só colocar o nome de alguma montanha russa que tenha bebida kk
+
+	time_created: 2025-04-01 13:20:34
+	time_modified: 2025-05-27 15:19:27
+	name: Land Russa
+	image: image386.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Mountain </word-list-land><atom-sep> </atom-sep><word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym>T</sym>: Add <sym-auto>R</sym-auto>.
+		<sym>T</sym>: Target player drinks.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

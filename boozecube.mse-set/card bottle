@@ -7,7 +7,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: Talvez duas imagens diferentes pra bottle 0/1 e pra 1/1 seja melhor, se tiver as duas ao mesmo tempo na mesa ia dar confusão
 	time_created: 2025-03-23 14:01:09
 	time_modified: 2025-05-12 01:47:29
 	name: Bottle
