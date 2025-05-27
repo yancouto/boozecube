@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,27 +7,26 @@ card:
 	name: Forceling
 	casting_cost: 3BB
 	image: image64.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Shapeshifter</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
-		<sym-auto>B</sym-auto>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
-		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets +1/-1 until end of turn.
-		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets -1/+1 until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> has <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> has <key><kw-a><nospellcheck>deathtouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> has <key><kw-0><nospellcheck>intimidate</key></nospellcheck></kw-0> until end of turn.
+		<sym-auto>B</sym-auto>: <key><kw-0><nospellcheck>Regenerate</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname>.
+		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> gets +1/-1 until end of turn.
+		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>Forceling</nospellcheck></atom-cardname> gets -1/+1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

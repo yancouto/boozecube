@@ -1,27 +1,25 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 13:00:05
-	time_modified: 2025-05-12 02:08:49
+	time_modified: 2025-05-27 20:29:34
 	name: Excellent
 	casting_cost: 1BB
 	image: image328.png
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Search your library for three nonland cards and reveal them. Target opponent chooses one of them and puts it in your graveyard, then put the remaining cards in your hand. You lose life equal to total mana value of the cards placed in your hand. Then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: The Simpons
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Search your library for three nonland cards and reveal them. Target opponent chooses one of them and puts it in your graveyard, then put the remaining cards in your hand. You lose life equal to total mana value of the cards placed in your hand. Shuffle your library afterwards.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: The Simpons
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

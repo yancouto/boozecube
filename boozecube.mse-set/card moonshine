@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,22 @@ card:
 	name: Moonshine
 	casting_cost: 6GG
 	image: image418.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Elemental</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		Creatures you control have <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>. <i-auto>(When they deal combat damage to a player, that player drinks.)</i-auto>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>reach</key></nospellcheck></kw-a>
+		Creatures you control have <key><kw-0><nospellcheck>boozetouch</key></nospellcheck></kw-0>. <i-auto>(When they deal combat damage to a player, that player drinks.)</i-auto>
 	flavor_text: <i-flavor>“Lemme hear you squeal like a <error-spelling:en_US>tusker</error-spelling:en_US>!”</i-flavor>
 	power: 8
 	toughness: 8
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

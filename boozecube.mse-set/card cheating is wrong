@@ -1,28 +1,27 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 10:19:19
-	time_modified: 2025-05-19 13:14:42
+	time_modified: 2025-05-27 18:57:22
 	name: Cheating is Wrong
 	casting_cost: 1B
 	image: image270.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rarity: special
+	rarity: common
 	rule_text:
-		Search your library for a Swamp card, put it in your hand, then shuffle your library and hand.
-		Any opponent may make you reveal your hand. If they do, and you have a swamp card in hand, they take 2 shots. Otherwise you take 4.
+		Search your library for a “Swamp” card, put it in your hand, then shuffle your library and hand.
+		Any opponent may make you reveal your hand. If they do, and you have a Swamp in hand, they take 2 shots. Otherwise you take 4.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

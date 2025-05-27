@@ -1,27 +1,26 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 21:16:08
-	time_modified: 2025-05-12 22:45:54
+	time_modified: 2025-05-27 19:40:19
 	name: Disciple of the Keg
 	casting_cost: 2W
 	image: image575.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: <kw-A><nospellcheck><key>Chugtouch</key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, they chug a beer.)</i-auto></atom-reminder-expert></kw-A>
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Fratboy</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text: <kw-A><nospellcheck><key>Chugtouch</key></nospellcheck><atom-reminder-expert> <i-auto>()</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-auto></atom-reminder-expert></kw-A></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

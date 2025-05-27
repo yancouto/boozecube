@@ -1,16 +1,14 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2024-10-01
+game_version: 2020-04-25
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2020-09-04
 set_info:
 	title: Boozecube
 	set_language: en
 	symbol: 
 	masterpiece_symbol: 
-	CARDNAME_replacement: card's type
 	automatic_reminder_text: old, expert, pseudo, action, lower case
-	default_flavor_bar: thick bar
 	mana_symbol_options: 
 styling:
 	magic-DayNight:
@@ -148,7 +146,7 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-planeswalker:
-		opacity: 180
+		opacity: 255
 		override_levels: three abilities
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -261,9 +259,6 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-split-fusable:
-		frames: arrows
-		auto_frames: nyx, universes beyond
-		room_images: one image
 		use_fuse_arrows: yes
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -348,7 +343,7 @@ include_file: card harsh comedown
 include_file: card drunkiate
 include_file: card lost shaker of salt
 include_file: card rain of typos
-include_file: card en vino veritas
+include_file: card in vino veritas
 include_file: card fun police
 include_file: card its 500 somewhere
 include_file: card bear in mind
@@ -378,7 +373,7 @@ include_file: card dead drunk
 include_file: card cheating is wrong
 include_file: card brain damage
 include_file: card demon buddies
-include_file: card blackout_2
+include_file: card half with nothing
 include_file: card mind swap
 include_file: card quatro
 include_file: card overdose
@@ -675,7 +670,7 @@ include_file: card rolê andarilho
 include_file: card da mattas pact
 include_file: card my little hangover
 include_file: card circle of protection booze
-include_file: card acerto de contas
+include_file: card settle the score
 include_file: card toe of the camel
 include_file: card prohibition
 include_file: card alcohol ward

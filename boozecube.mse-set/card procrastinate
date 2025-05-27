@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,21 @@ card:
 	name: Procrastinate
 	casting_cost: XU
 	image: image466.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Instant</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
-		Exile target spell and put X+1 time counters on it. It gains suspend. <i-auto>(At the beginning of its owner’s upkeep, remove a time counter from it. When the last is removed, the player plays it without paying its mana cost. If it’s a creature, it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.)</i-auto> 
+		Exile target spell and put X+1 time counters on it. It gains suspend. <i-auto>(At the beginning of its owner’s upkeep, remove a time counter from it. When the last is removed, the player plays it without paying its mana cost. If it’s a creature, it has <key><kw-a><nospellcheck>haste</key></nospellcheck></kw-a>.)</i-auto> 
 		Whenever a time counter is removed from the suspended spell, its owner drinks X<sym></sym>, where X is the number of counters remaining.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: Why do now what you can put off until later?
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	illustrator: Why do now what you can put off until later?
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

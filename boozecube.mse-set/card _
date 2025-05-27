@@ -1,27 +1,26 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-01 12:44:14
-	time_modified: 2025-05-19 17:36:37
+	time_modified: 2025-05-27 17:27:44
 	name: _
 	casting_cost: 2GG
 	image: image666.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Once per turn, per opponent, when an opponent asks a question, put a +1/+1 counter on this creature, and it gains <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text: Once per turn, per opponent, when an opponent asks a question, put a +1/+1 counter on this creature, and it gains <key><kw-0><nospellcheck>boozetouch</key></nospellcheck></kw-0> and <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

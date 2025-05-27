@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -6,22 +6,20 @@ card:
 	time_modified: 2025-05-19 17:02:11
 	name: Tavern of Heroes
 	image: image604.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Land</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft> </soft><word-list-land></word-list-land>
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>
-		<sym-auto>1</sym-auto>: <atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> becomes a 1/3 artifact creature with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn. It’s still a land.
+		<sym-auto>1</sym-auto>: <atom-cardname><nospellcheck>Tavern of Heroes</nospellcheck></atom-cardname> becomes a 1/3 artifact creature with <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a> until end of turn. It’s still a land.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

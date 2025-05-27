@@ -1,30 +1,28 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 21:31:53
-	time_modified: 2025-05-08 15:17:20
+	time_modified: 2025-05-27 19:01:54
 	name: Cirrhosis Demon
 	casting_cost: 5BB
 	image: image39.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Demon</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		<sym-auto>1B</sym-auto>: Target player loses 2 life and you gain 2 life. Activate this ability only when target player drinks and only once per drink.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck>b<key>oozetouch</key></nospellcheck></kw-a>
+		Whenever a player drinks, you may pay <sym>1B</sym>. If you do, that player loses 2 life and you gain 2 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 6
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

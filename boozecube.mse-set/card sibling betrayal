@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,19 @@ card:
 	name: Sibling Betrayal
 	casting_cost: 3B/GB/G
 	image: image146.png
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Target creature an opponent controls gains <key><kw-a><nospellcheck>deathtouch</key></nospellcheck></kw-a> until end of turn, then it fights another target creature an opponent controls.
+	flavor_text: <i-flavor>“I know it was you, <error-spelling:en_US>Fredo</error-spelling:en_US>. You broke my heart. You broke my heart!”</i-flavor>
+	card_code_text: 
+	illustrator: Never go against the Family
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Target creature an opponent controls gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn, then it fights another target creature an opponent controls.
-	flavor_text: <i-flavor>“I know it was you, <error-spelling:en_US>Fredo</error-spelling:en_US>. You broke my heart. You broke my heart!”</i-flavor>
-	illustrator: Never go against the Family
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,26 +7,24 @@ card:
 	name: Old-School Businessmen
 	casting_cost: 2RR
 	image: image649.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</key></param-cost></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
 		<atom-name>This creature</atom-cardname> gets +1/+1 for each age counter on it.
 	flavor_text:
 		<i-flavor>“They say as soon you have to cut down on your drinking, you have a drinking problem.”
 		-Don Draper</i-flavor>
 	power: 3
 	toughness: 3
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,22 @@ card:
 	name: Chuckles
 	casting_cost: 2G/U
 	image: image672.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Ape</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Ape</word-list-race> <word-list-class>Pirate</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<atom-name>This creature</atom-cardname> can only be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		<atom-name>This creature</atom-cardname> can only be blocked by creatures with <key><kw-a><nospellcheck>flying</key></nospellcheck></kw-a> or <key><kw-a><nospellcheck>reach</key></nospellcheck></kw-a>.
 		2 <sym-auto>G/U</sym-auto>, <sym-auto>Q</sym-auto>: For each counter on target permanent, add another counter of the same type.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

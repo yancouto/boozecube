@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: true
 	styling_data:
@@ -13,24 +13,14 @@ card:
 	time_created: 2025-03-29 17:29:36
 	time_modified: 2025-05-12 22:34:43
 	extra_data:
-		magic-m15-altered:
-			vorthos_box: 
+		magic-m15-altered: vorthos_box: 
 	name: Yan, the Returned King
 	casting_cost: L/WL/UL/BL/RL/G
 	image: image560.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Noble</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<sym-auto>R</sym-auto>: All creatures gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>R</sym-auto>: All creatures gain <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a> and <key><kw-a><nospellcheck>haste</key></nospellcheck></kw-a> until end of turn.
 		<sym-auto>1G</sym-auto>: Put a +1/+1 counter on target creature.
 		<sym-auto>2W</sym-auto>: Target player gains 5 life
 		<sym-auto>3U</sym-auto>: Target player draws a card.
@@ -39,5 +29,13 @@ card:
 	power: 3
 	toughness: 3
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

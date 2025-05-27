@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,25 +7,24 @@ card:
 	name: Festivibro
 	casting_cost: 2W
 	image: image331.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Fratboy </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dwarf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Fratboy</word-list-race> <word-list-class>Dwarf</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<atom-name>This creature</atom-cardname> enters with five pint counters on it.
-		Whenever another creature enters, its controller may remove a pint counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and put a +1/+1 counter on that creature.
-		When there are no pint counters on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> each player chugs a beer, then put five pint counters on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		Whenever another creature enters, its controller may remove a pint counter from <atom-cardname><nospellcheck>Festivibro</nospellcheck></atom-cardname> and put a +1/+1 counter on that creature.
+		When there are no pint counters on <atom-cardname><nospellcheck>Festivibro</nospellcheck></atom-cardname> each player chugs a beer, then put five pint counters on <atom-cardname><nospellcheck>Festivibro</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: Toma uma gelada!
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	illustrator: Toma uma gelada!
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

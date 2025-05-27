@@ -1,27 +1,25 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 17:09:09
-	time_modified: 2025-05-09 19:23:18
+	time_modified: 2025-05-27 17:57:04
 	name: Bar Fight
 	casting_cost: 2RR
 	image: image218.png
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: After this phase, there is an additional combat phase followed by an additional main phase. You may choose to untap any number of creatures you control. For each creature that you untap this way, drink.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: THE INTERNET
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: You have an extra attack step this turn. You may choose to untap any number of creatures you control. For each creature that you untap this way, drink.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: THE INTERNET
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

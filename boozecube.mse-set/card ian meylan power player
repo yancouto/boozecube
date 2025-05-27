@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: Fazer ser/parecer o keychan
@@ -8,17 +8,8 @@ card:
 	name: Ian Meylan, Power Player
 	casting_cost: 3RG
 	image: image372.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Psychiatrist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Psychiatrist</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		Creature spells you cast cost <sym-auto>3</sym-auto> less to cast.
@@ -26,7 +17,15 @@ card:
 	flavor_text: <i-flavor>“<error-spelling:en_US>Tô</error-spelling:en_US> <error-spelling:en_US>de</error-spelling:en_US> <error-spelling:en_US>pau</error-spelling:en_US> <error-spelling:en_US>duro</error-spelling:en_US>”</i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: Unknown
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	illustrator: Unknown
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

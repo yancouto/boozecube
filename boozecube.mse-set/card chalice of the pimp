@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: Da até pra entrar com 2X counters
@@ -7,21 +7,20 @@ card:
 	name: Chalice of the Pimp
 	casting_cost: X
 	image: image34.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Artifact</word-list-type>
 	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> enters with X charge counters on it.
 		Whenever a player casts a spell, counter it unless that player drinks X.
 	flavor_text: <i-flavor><error-spelling:en_US>Pimpin’</error-spelling:en_US> ain’t easy, even in the void.</i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

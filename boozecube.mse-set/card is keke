@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,20 @@ card:
 	name: ... Is Keke
 	casting_cost: 2U
 	image: image679.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>permanent</param-name></key></nospellcheck></kw-a>
-		Enchanted permanent loses all card types and abilities, and becomes a blue <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keke</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature with base power and toughness 1/1.
+		<kw-a><nospellcheck><key>Enchant <param-name>permanent</key></param-name></nospellcheck></kw-a>
+		Enchanted permanent loses all card types and abilities, and becomes a blue <error-spelling:en_US:/magic.mse-game/magic-words>Keke</error-spelling:en_US:/magic.mse-game/magic-words> creature with base power and toughness 1/1.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

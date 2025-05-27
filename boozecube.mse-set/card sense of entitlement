@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,18 +7,16 @@ card:
 	name: Sense of Entitlement
 	casting_cost: XW
 	image: image9
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Each player drinks X. You gain life equal to the total number of drinks consumed.
 		Draw a card.
 	flavor_text: <i-flavor>“Uh oh, Wizards isn’t giving me as much free shit. Time to check my butt for <error-spelling:en_US>butthole</error-spelling:en_US> ache.” — Every </i><b>Magic</b><i> player ever.</i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
 	copyright: 
+	image_2: 
 	copyright_2: 
 	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

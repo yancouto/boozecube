@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,21 @@ card:
 	name: Hazmat Suit (used)
 	casting_cost: 3B
 	image: image358.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has +2/+1 and <kw-1><nospellcheck><key>menace</key></nospellcheck>.<atom-reminder-core> <i-auto>(That creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</key></param-name></nospellcheck></kw-a>
+		Enchanted creature has +2/+1 and <key><kw-1><nospellcheck>menace</key></nospellcheck>.<atom-reminder-core> <i-auto>(It can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
 		Whenever a player’s skin or fingernail touches enchanted creature, that player loses 2 life and drinks.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

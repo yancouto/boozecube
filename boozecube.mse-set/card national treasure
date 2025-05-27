@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes:
@@ -9,22 +9,21 @@ card:
 	time_modified: 2025-05-12 02:47:08
 	name: National Treasure
 	image: image424.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Land</word-list-type>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft> </soft><word-list-land></word-list-land>
 	rarity: special
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym>∞</sym> <i-auto>(in any combination of colors)</i-auto>.
-		Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Destroy all creatures.
+		Sacrifice <atom-cardname><nospellcheck>National Treasure</nospellcheck></atom-cardname>: Destroy all creatures.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

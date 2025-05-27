@@ -1,33 +1,30 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	stylesheet: m15-split-fusable
-	stylesheet_version: 2024-09-03
+	stylesheet_version: 2018-06-01
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 19:35:04
 	time_modified: 2025-05-20 10:57:22
 	name: Wake
-	name_2: Bake
 	casting_cost: 1U
-	casting_cost_2: 1B
 	image: image687.png
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Draw three cards, then put two cards from your hand on top of your library in any order.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	name_2: Bake
+	casting_cost_2: 1B
 	image_2: image_215.png
+	super_type_2: <word-list-type>Instant</word-list-type>
+	sub_type_2: <word-list-spell></word-list-spell>
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: Add <sym-auto>B</sym-auto> and drink 2. You may add up to another <sym>BBBB</sym> this way <i-auto>(You drink 2 for each <sym>B</sym> added.)</i-auto>
+	flavor_text_2: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en>Instant</word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: <word-list-spell></word-list-spell>
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Draw three cards, then put two cards from your hand on top of your library in any order.
-	rule_text_2: Add <sym-auto>B</sym-auto> and drink 2. You may add up to another <sym>BBBB</sym> this way <i-auto>(You drink 2 for each <sym>B</sym> added.)</i-auto>
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	illustrator_brush: art old
-	illustrator_brush_2: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,22 @@ card:
 	name: Tough Guy
 	casting_cost: 1G
 	image: image548.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race></word-list-race>
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, <kw-A><nospellcheck><key>clash</key></nospellcheck> with target opponent. If you win, that opponent drinks.<atom-reminder-action> <i-auto>(Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of your upkeep, <key><kw-A><nospellcheck>clash</key></nospellcheck> with target opponent. If you win, that opponent drinks.<atom-reminder-action> <i-auto>(Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

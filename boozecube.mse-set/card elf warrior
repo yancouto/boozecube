@@ -1,7 +1,7 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2020-05-10
 	has_styling: false
 	notes: 
 	time_created: 2025-04-29 02:20:47
@@ -9,18 +9,18 @@ card:
 	card_color: green
 	name: Elf Warrior
 	image: image322.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Elf</word-list-race> <word-list-class>Warrior</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	sub_type_2: 
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

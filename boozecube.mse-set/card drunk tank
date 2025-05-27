@@ -1,28 +1,26 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:19:07
-	time_modified: 2025-05-12 02:05:08
+	time_modified: 2025-05-27 19:53:59
 	name: Drunk Tank
 	image: image307.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rule_text:
+		You may choose not to untap <atom-cardname><nospellcheck>Drunk Tank</nospellcheck></atom-cardname> during your untap step. If you do, drink.
+		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
+		<sym-auto>T</sym-auto>: Target creature doesn’t untap as normal while <atom-cardname><nospellcheck>Drunk Tank</nospellcheck></atom-cardname> remains tapped.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Land</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text:
-		You may choose not to untap <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> during your untap step. If you choose not to untap it, drink.
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
-		<sym-auto>T</sym-auto>: Target creature doesn’t untap as normal while <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> remains tapped.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

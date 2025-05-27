@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,21 @@ card:
 	name: Lindsay Lohan’s Wild Ride
 	casting_cost: 2R
 	image: image619.png
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</key></param-cost></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		At the beginning of your precombat main phase, flip a coin. If you win the flip, add R for each age counter on <atom-cardname><nospellcheck>Lindsay Lohan’s Wild Ride</nospellcheck></atom-cardname>. If you lose the flip, add an additional age counter.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Drunk Driving
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text:
-		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
-		At the beginning of your precombat main phase, flip a coin. If you win the flip, add R for each age counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>. If you lose the flip, add an additional age counter.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: Drunk Driving
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: true
 	styling_data:
@@ -15,24 +15,23 @@ card:
 	name: The Motherfuckin Scorpion God
 	casting_cost: 1BBRR
 	image: image541.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>God</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>God</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		Whenever a creature with a -1/-1 counter on it dies, its controller takes a shot.
 		<sym-auto>1BR</sym-auto>: Put -1/-1 counter on target creature. Drink 2.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, take a shot, and return it to its owner’s hand at the end of your next turn.
+		When <atom-cardname><nospellcheck>The Motherfuckin Scorpion God</nospellcheck></atom-cardname> dies, take a shot, and return it to its owner’s hand at the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

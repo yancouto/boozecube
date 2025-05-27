@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,22 @@ card:
 	name: Terror of the Deep
 	casting_cost: 3UU
 	image: image529.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Kraken</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Kraken</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		As <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, turn all other creatures face down. They gain “<kw-0><nospellcheck><key>Morph—<param-cost>Take a shot”</param-cost>.</key></nospellcheck></kw-0> <i-auto>(They are 2/2 creatures and can be turned face-up by taking a shot.)</i-auto>
+		As <atom-cardname><nospellcheck>Terror of the Deep</nospellcheck></atom-cardname> enters, turn all other creatures face down. They gain “<key><kw-0><nospellcheck>Morph—<param-cost>Take a shot”</key></param-cost>.</nospellcheck></kw-0> <i-auto>(They are 2/2 creatures and can be turned face-up by taking a shot.)</i-auto>
 		<atom-name>This creature</atom-cardname>’s power and toughness are each equal to the number of face-down creatures on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: *
 	toughness: *
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

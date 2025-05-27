@@ -1,26 +1,25 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 16:29:54
-	time_modified: 2025-05-20 14:44:40
+	time_modified: 2025-05-27 19:51:59
 	name: Drunk Dial
-	casting_cost: 3R
+	casting_cost: 2R
 	image: image305.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Target opponent reveals the top of the seven cards of their library. Choose one of them at random. If it’s a permanent, you may put it on the battlefield under your control. If you do, drink <sym-auto>X</sym-auto>, where X is its mana value. Shuffle the remaining cards into their owner’s library.
+	rule_text: Target opponent reveals the top card of their library. If it’s a permanent, you may put it on the battlefield under your control. If you do, drink </sym>X<sym>, where X is its mana value.
 	flavor_text: <i-flavor>It doesn’t matter whether or not they understand your incoherent slurring. After all, you won’t remember calling them anyway.</i-flavor>
 	watermark: none
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -6,24 +6,23 @@ card:
 	time_modified: 2025-05-19 17:32:48
 	name: Local Game Store
 	image: image662.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Land</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Land</word-list-type>
 	sub_type: <word-list-land></word-list-land>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
-		<sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>, <sym-auto>T</sym-auto>: Choose a permanent target opponent controls, then he or she chooses a permanent you control. Exchange control of those permanents.
+		<sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Local Game Store</nospellcheck></atom-cardname>, <sym-auto>T</sym-auto>: Choose a permanent target opponent controls, then he or she chooses a permanent you control. Exchange control of those permanents.
 	flavor_text:
 		<i-flavor>“I’ll trade you two dual lands for a <error-spelling:en_US>Shivan</error-spelling:en_US> Dragon.”
 		“Throw in that Serra Angel and you’ve got a deal”
 		— Often-heard conversation in 1994</i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

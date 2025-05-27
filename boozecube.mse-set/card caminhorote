@@ -1,32 +1,31 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 12:57:00
-	time_modified: 2025-05-12 01:54:43
+	time_modified: 2025-05-27 18:40:51
 	name: Caminhorote
 	casting_cost: 3RR
 	image: image261.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Artifact</word-list-type>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Intoxicated</key></nospellcheck></kw-a> 
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck>i<key>ntoxicated</key></nospellcheck></kw-a> 
 		<atom-name>This artifact</atom-cardname> can’t block.
-		At the beginning of your end step, create a 1/1 colorless Bottle artifact with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
-		<kw-A><nospellcheck><key>DrunkenCrew <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures with intoxicated or boozetouch you control with total power <param-number>3</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		At the beginning of your end step, create a 1/1 colorless Bottle artifact with <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a>.
+		<key><kw-A><nospellcheck>DrunkenCrew <param-number>3</key></param-number></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures with intoxicated or boozetouch you control with total power <param-number>3</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8
-	illustrator: VRUM VRUM
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	illustrator: VRUM VRUM
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

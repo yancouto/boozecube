@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,21 @@ card:
 	name: Shot Do Calabouço
 	casting_cost: BRG
 	image: image502.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell>Arcane</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell>Arcane</word-list-spell><soft> </soft><word-list-spell></word-list-spell>
 	rule_text:
 		As an additional cost to cast this spell, take a shot.
 		Reveal the top card of your library. If it’s a permanent, you may put it onto the battlefield.
-		You can cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> from your graveyard.
+		You can cast <atom-cardname><nospellcheck>Shot Do Calabouço</nospellcheck></atom-cardname> from your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

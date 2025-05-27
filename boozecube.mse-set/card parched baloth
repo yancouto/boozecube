@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,22 @@ card:
 	name: Parched Baloth
 	casting_cost: 2GG
 	image: image121.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, target player finishes the contents of their drinking beverage.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, finish the contents of your drinking beverage.
+		When <atom-cardname><nospellcheck>Parched Baloth</nospellcheck></atom-cardname> enters, target player finishes the contents of their drinking beverage.
+		When <atom-cardname><nospellcheck>Parched Baloth</nospellcheck></atom-cardname> leaves the battlefield, finish the contents of your drinking beverage.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

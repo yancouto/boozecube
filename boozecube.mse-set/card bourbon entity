@@ -1,31 +1,29 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
-	notes: 1 card win
+	notes: 
 	time_created: 2025-03-28 11:16:14
-	time_modified: 2025-05-12 01:50:09
+	time_modified: 2025-05-27 18:29:16
 	name: Bourbon Entity
-	casting_cost: 3BB
+	casting_cost: 4BB
 	image: image253.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Horror</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may drink X. If you do, put X +1/+1 counters on Bourbon Entity.
-		Remove a +1/+1 counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Gain 1 life.
-		Remove two +1/+1 counters from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Target player loses 1 life. Activate this only as a sorcery.
+		When <atom-cardname><nospellcheck>Bourbon Entity</nospellcheck></atom-cardname> enters, you may drink X. If you do, put X +1/+1 counters on Bourbon Entity.
+		Remove a +1/+1 counter from <atom-cardname><nospellcheck>Bourbon Entity</nospellcheck></atom-cardname>: Gain 1 life.
+		Remove two +1/+1 counters from <atom-cardname><nospellcheck>Bourbon Entity</nospellcheck></atom-cardname>: Target player loses 1 life. Activate this only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

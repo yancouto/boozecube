@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,20 @@ card:
 	name: Memetic Kitten
 	casting_cost: G
 	image: image105.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage, drink X<sym></sym>, where X is the amount of damage dealt.
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Cat</word-list-race> <word-list-class>Beast</word-list-class><soft> </soft><word-list-class></word-list-class>
+	rule_text: Whenever <atom-cardname><nospellcheck>Memetic Kitten</nospellcheck></atom-cardname> deals combat damage, drink X<sym></sym>, where X is the amount of damage dealt.
 	flavor_text: <i-flavor>I <error-spelling:en_US>iz</error-spelling:en_US> in <error-spelling:en_US>ur</error-spelling:en_US> deck, <error-spelling:en_US>tappin</error-spelling:en_US> <error-spelling:en_US>ur</error-spelling:en_US> <error-spelling:en_US>manaz</i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 2
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

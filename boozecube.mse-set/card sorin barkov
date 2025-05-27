@@ -1,36 +1,36 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2020-03-19
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-05-12 21:54:29
+	name: Sorin Barkov
+	casting_cost: 2WWBB
+	image: image511.png
+	super_type: <word-list-type>Planeswalker</word-list-type>
+	sub_type: <word-list-planeswalker>Sorin</word-list-planeswalker><soft> </soft><word-list-planeswalker></word-list-planeswalker>
+	loyalty_cost_1: +2
+	level_1_text: <margin:130:0:0>Target player drinks 2 and you gain 2 life.</margin:130:0:0>
+	loyalty_cost_2: -3
+	level_2_text: <margin:130:0:0>Target player drinks 10.</margin:130:0:0>
+	loyalty_cost_3: -7
+	level_3_text: <margin:130:0:0>During your next turn, target player drinks for you.</margin:130:0:0>
+	loyalty: 4
+	card_code_text: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
 	special_text:
 		[+2]: <margin:130:0:0>Target player drinks 2 and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Target player drinks 10.</margin:130:0:0>
 		[-7]: <margin:130:0:0>During your next turn, target player drinks for you.</margin:130:0:0>
-	name: Sorin Barkov
-	casting_cost: 2WWBB
-	image: image511.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Planeswalker</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-planeswalker>Sorin</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	loyalty_cost_1: +2
-	loyalty_cost_2: -3
-	loyalty_cost_3: -7
-	loyalty: 4
-	level_1_text: <margin:130:0:0>Target player drinks 2 and you gain 2 life.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Target player drinks 10.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>During your next turn, target player drinks for you.</margin:130:0:0>
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+

@@ -1,28 +1,26 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 14:36:26
-	time_modified: 2025-05-12 02:08:14
+	time_modified: 2025-05-27 20:26:09
 	name: Entirely Normal Chair
 	image: image325.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Artifact</word-list-type>
 	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
 		During your turn, if this card is in your hand, you may hide it on the battlefield.
-		<sym-auto>0</sym-auto>: Return <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> to its owner hand. only an opponent may activate this ability, and only if they see the <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
-		<sym-auto>2</sym-auto>, sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Destroy target attacking creature.
+		<sym-auto>0</sym-auto>: Return <atom-cardname><nospellcheck>Entirely Normal Chair</nospellcheck></atom-cardname> to its owner hand. Only an opponent may activate this ability, and only if they see the <atom-cardname><nospellcheck>Entirely Normal Chair</nospellcheck></atom-cardname>.
+		<sym-auto>2</sym-auto>, sacrifice <atom-cardname><nospellcheck>Entirely Normal Chair</nospellcheck></atom-cardname>: Destroy target attacking creature.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

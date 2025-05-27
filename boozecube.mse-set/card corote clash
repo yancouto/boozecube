@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,22 @@ card:
 	name: Corote Clash
 	casting_cost: R
 	image: image278.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
 		You and target opponent each flip a coin:
-		- If a player gets tails, <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals 1 damage to that player.
+		- If a player gets tails, <atom-cardname><nospellcheck>Corote Clash</nospellcheck></atom-cardname> deals 1 damage to that player.
 		- If a player gets heads, that player drinks 1.
 		Repeat this process until both players coins come up heads on the same flip.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

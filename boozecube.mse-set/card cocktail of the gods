@@ -1,26 +1,24 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 14:43:08
-	time_modified: 2025-05-19 16:57:20
+	time_modified: 2025-05-27 19:05:32
 	name: Cocktail of the Gods
 	casting_cost: 5
 	image: image594.png
+	super_type: <word-list-type>Artifact</word-list-type>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text: If you would lose the game, you may chug a beer or take a shot instead. If you do, exile <atom-cardname><nospellcheck>Cocktail of the Gods</nospellcheck></atom-cardname> and sacrifice all nonland permanents you control, then shuffle your hand and graveyard into your library. Draw five cards, set your life total to twenty, and remove any poison counters you have.
+	flavor_text: <i-flavor>In its swirling depths, you can see entire universes being born and dying. Then again, you’re pretty fucked up, so it might just be carbonation.</i-flavor>
+	card_code_text: 
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: If you would lose the game, you may chug a beer or take a shot instead. If you do, exile <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> and sacrifice all nonland permanents you control and shuffle your hand and graveyard into your library. Draw five cards, set your life total to twenty, and remove any poison counters you have.
-	flavor_text: <i-flavor>In its swirling depths, you can see entire universes being born and dying. Then again, you’re pretty fucked up, so it might just be carbonation.</i-flavor>
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

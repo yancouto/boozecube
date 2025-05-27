@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: true
 	styling_data:
@@ -10,30 +10,28 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 21:15:00
-	time_modified: 2025-05-12 02:08:41
+	time_modified: 2025-05-27 20:28:41
 	name: Eric, Drinker of Worlds
 	casting_cost: 6B/GB/G
 	image: image327.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Shaman</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<kw-A><nospellcheck><key>Companion — <param-name>Your drinking beverage is always 15%+
-		</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen companion, you may put it into your hand from outside the game for <sym>3</sym> as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
-		 This spell costs <sym-auto>1</sym-auto> less for each 5% in your drinking beverage
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>Ward—<param-cost>take a shot</param-cost></key></nospellcheck></kw-0>
+		<kw-A><nospellcheck><key>Companion — <param-name>Your drinking beverage is always 15%+</key></param-name></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen companion, you may cast it once from outside the game.)</i-auto></atom-reminder-expert></kw-A>
+		This spell costs <sym-auto>1</sym-auto> less for each 5% in your drinking beverage.
+		<key><kw-a><nospellcheck>Trample</key></nospellcheck></kw-a>, <key><kw-0><nospellcheck>Ward—<param-cost> take a shot</key></param-cost></nospellcheck></kw-0>
 		If an effect would cause an opponent to drink, shot or chug, triple the amount.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 7
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

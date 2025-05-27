@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,22 @@ card:
 	name: The Bowl
 	casting_cost: B/R
 	image: image537.png
+	super_type: <word-list-type>Artifact</word-list-type>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		At the beginning of each player’s upkeep, that player rolls a six sided dice. Put weight counters on <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname> equal to the rolled number.
+		<sym-auto>3</sym-auto>: Roll a six sided dice. Put weight counters on <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname> equal to the rolled number. Any player may activate this ability.
+		Whenever <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname> has 20 or more weight counters on it, the active player takes a shot and remove all counters from <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: sa
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text:
-		At the beginning of each player’s upkeep, that player rolls a six sided dice. Put weight counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> equal to the rolled number.
-		<sym-auto>3</sym-auto>: Roll a six sided dice. Put weight counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> equal to the rolled number. Any player may activate this ability.
-		Whenever <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> has 20 or more weight counters on it, the active player takes a shot and remove all counters from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: sa
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

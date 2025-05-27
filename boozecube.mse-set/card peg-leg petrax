@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,22 @@ card:
 	name: Peg-Leg Petrax
 	casting_cost: 2U/RU/R
 	image: image441.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Dwarf </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Dwarf</word-list-race> <word-list-class>Pirate</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<kw-A><nospellcheck><key>Multikicker <param-cost><sym-auto>U/R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>U/R</sym-auto></param-mana> any number of times as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose target player, then choose another target player for each time it was kicked. Each player targeted drinks <sym></sym>X, where X is the number of instants and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in your graveyard.
+		<kw-A><nospellcheck><key>Multikicker <param-cost>U/R</key></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>U/R</sym-auto></param-mana> any number of times as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Peg-Leg Petrax</nospellcheck></atom-cardname> enters, choose target player, then choose another target player for each time it was kicked. Each player targeted drinks <sym></sym>X, where X is the number of instants and <error-spelling:en_US:/magic.mse-game/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/magic-words> in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

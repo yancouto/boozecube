@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -6,21 +6,20 @@ card:
 	time_modified: 2025-05-08 16:47:45
 	name: Maze of Escher
 	image: image104.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Land</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Land</word-list-type>
 	sub_type: <word-list-land></word-list-land>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
 		Drink, <sym-auto>T</sym-auto>: Target attacking creature deals no combat damage this turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,23 @@ card:
 	name: Mead-Hall Captain
 	casting_cost: 3RR
 	image: image103.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Dwarf</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<kw-0><nospellcheck><key>Intoxicated</key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, put three 1/1 red Dwarf creature tokens.
-		<sym-auto>1R</sym-auto>, Sacrifice a Dwarf: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 2 damage to target creature or player.
+		When <atom-cardname><nospellcheck>Mead-Hall Captain</nospellcheck></atom-cardname> enters, put three 1/1 red Dwarf creature tokens.
+		<sym-auto>1R</sym-auto>, Sacrifice a Dwarf: <atom-cardname><nospellcheck>Mead-Hall Captain</nospellcheck></atom-cardname> deals 2 damage to target creature or player.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

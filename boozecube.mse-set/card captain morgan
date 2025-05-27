@@ -1,44 +1,42 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2020-03-19
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-05-20 11:01:38
-	special_text:
-		[+2]: <margin:130:0:0>Target player draws a card and drinks.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Create a 4/3 blue Pirate Ship token with islandhome and “<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player”.</margin:130:0:0>
-		[-5]: <margin:130:0:0>Target player gets an emblem with “Whenever you would drink X<sym></sym>, drink X+2 instead”.</margin:130:0:0>
 	name: Captain Morgan
 	casting_cost: 3UU
 	image: image189.png
+	super_type: <word-list-type>Planeswalker</word-list-type>
+	sub_type: <word-list-planeswalker>Morgan</word-list-planeswalker><soft> </soft><word-list-planeswalker></word-list-planeswalker>
+	loyalty_cost_1: +2
+	level_1_text: <margin:130:0:0>Target player draws a card and drinks.</margin:130:0:0>
+	loyalty_cost_2: -2
+	level_2_text: <margin:130:0:0>Create a 4/3 blue Pirate Ship token with islandhome and “<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player”.</margin:130:0:0>
+	loyalty_cost_3: -5
+	level_3_text: <margin:130:0:0>Target player gets an emblem with “Whenever you would drink X<sym></sym>, drink X+2 instead”.</margin:130:0:0>
+	loyalty: 4
+	card_code_text: 
+	illustrator: 
+	copyright: 
 	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Planeswalker</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-planeswalker>Morgan</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	super_type_2: <word-list-type></word-list-type>
 	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
 	sub_type_3: 
-	sub_type_4: 
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	flavor_text_4: <i-flavor></i-flavor>
-	loyalty_cost_1: +2
-	loyalty_cost_2: -2
-	loyalty_cost_3: -5
-	loyalty: 4
-	level_1_text: <margin:130:0:0>Target player draws a card and drinks.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Create a 4/3 blue Pirate Ship token with islandhome and “<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player”.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Target player gets an emblem with “Whenever you would drink X<sym></sym>, drink X+2 instead”.</margin:130:0:0>
-	illustrator: 
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+	special_text:
+		[+2]: <margin:130:0:0>Target player draws a card and drinks.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create a 4/3 blue Pirate Ship token with islandhome and “<sym-auto>T</sym-auto>: Deal 1 damage to target creature or player”.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Target player gets an emblem with “Whenever you would drink X<sym></sym>, drink X+2 instead”.</margin:130:0:0>
+

@@ -1,27 +1,26 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:37:14
-	time_modified: 2025-05-08 15:10:52
+	time_modified: 2025-05-27 18:42:02
 	name: Cantina de los Pendejos
 	image: image29.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Land</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft> </soft><word-list-land></word-list-land>
 	rule_text:
-		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
+		<atom-cardname><nospellcheck>Cantina de los Pendejos</nospellcheck></atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

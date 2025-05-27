@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: true
 	styling_data:
@@ -16,22 +16,22 @@ card:
 	card_color: black
 	name: Reaper’s Cup
 	image: image690.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Conspiracy</word-list-type-en>
+	super_type: <word-list-type>Conspiracy</word-list-type>
 	sub_type: 
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
 		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
-		At the start of the game, place an empty cup next to <atom-cardname><nospellcheck>this</nospellcheck></atom-cardname>.
+		At the start of the game, place an empty cup next to <atom-cardname><nospellcheck>Reaper’s Cup</nospellcheck></atom-cardname>.
 		Whenever a nontoken creature dies, its controller pours 1 drink into the cup.
 		Take a shot: Target player finishes the content of the cup.
 		<sym-auto>1BB</sym-auto>: If  the cup is empty, each player sacrifices a creature.
 		If at any time the cup is full, you lose the game.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	sub_type_2: 
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

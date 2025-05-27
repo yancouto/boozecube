@@ -1,31 +1,39 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: draft matters
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-27 18:01:10
 	time_modified: 2025-05-09 18:55:54
 	name: Archdemon of Pourliano
 	casting_cost: 2BB
 	image: image203.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Demon</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: special
 	rule_text:
 		Draft this card face up.
-		As long as <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Archdemon</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pourliano</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is face up during the draft, you can’t look at booster packs and must draft cards at random. After you draft 3 cards this way, turn this card face down.
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		As long as <error-spelling:en_US:/magic.mse-game/magic-words>Archdemon</error-spelling:en_US:/magic.mse-game/magic-words> of <error-spelling:en_US:/magic.mse-game/magic-words>Pourliano</error-spelling:en_US:/magic.mse-game/magic-words> is face up during the draft, you can’t look at booster packs and must draft cards at random. After you draft 3 cards this way, turn this card face down.
+		<key><kw-a><nospellcheck>Flying</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>Boozetouch</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

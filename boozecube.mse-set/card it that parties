@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,21 @@ card:
 	name: It That Parties
 	casting_cost: 2WW
 	image: image374.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Eldrazi</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Drone</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Pledge tokens you control get +1/+1 and are <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboys</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in addition to their other creature types.
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Eldrazi</word-list-race> <word-list-class>Drone</word-list-class> <word-list-class>Fratboy</word-list-class><soft> </soft><word-list-class></word-list-class>
+	rule_text: Pledge tokens you control get +1/+1 and are <error-spelling:en_US:/magic.mse-game/magic-words>Fratboys</error-spelling:en_US:/magic.mse-game/magic-words> in addition to their other creature types.
 	flavor_text: <i-flavor>He thinks “Annihilator 6” means downing a six-pack.</i-flavor>
 	power: 4
 	toughness: 4
-	illustrator: Cool hedron, bro
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	illustrator: Cool hedron, bro
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

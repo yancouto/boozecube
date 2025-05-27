@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,20 @@ card:
 	name: Horde of 80s Cartoons
 	casting_cost: 3UU
 	image: image587.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: <sym-auto>0</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> becomes  a copy or target creature and gains this ability. Drink X<sym></sym>, where X is the copied creature’s mana value.
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Shapeshifter</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text: <sym-auto>0</sym-auto>: <atom-cardname><nospellcheck>Horde of 80s Cartoons</nospellcheck></atom-cardname> becomes  a copy or target creature and gains this ability. Drink X<sym></sym>, where X is the copied creature’s mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,22 @@ card:
 	name: Olivia
 	casting_cost: 2BR
 	image: image431.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Olive</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Artifact Creature</word-list-type>
+	sub_type: <word-list-race>Olive</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<sym-auto>1R</sym-auto>, drink 1<sym></sym>: Deal 1 damage to target creature. It becomes a bottle. Put +1/+1 in <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
-		<sym-auto>3BB</sym-auto>: Gain control of target bottle while you control <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. Drink equal to its mana value.
+		<sym-auto>1R</sym-auto>, drink 1<sym></sym>: Deal 1 damage to target creature. It becomes a bottle. Put +1/+1 in <atom-cardname><nospellcheck>Olivia</nospellcheck></atom-cardname>.
+		<sym-auto>3BB</sym-auto>: Gain control of target bottle while you control <atom-cardname><nospellcheck>Olivia</nospellcheck></atom-cardname>. Drink equal to its mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

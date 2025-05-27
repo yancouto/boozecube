@@ -1,26 +1,25 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 15:46:43
-	time_modified: 2025-05-10 11:20:11
+	time_modified: 2025-05-27 18:18:09
 	name: Boobiest of Traps
 	casting_cost: 2
 	image: image236.png
+	super_type: <word-list-type>Artifact</word-list-type>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text: <sym-auto>T</sym-auto>, Take a shot or chug a beer: Shuffle a random Booby Trap card in target player’s library.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: They never expect the booby
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: <sym-auto>T</sym-auto>, Take a shot or Chug a Beer: Add a random Booby Trap card on top of target players library, then they shuffle their library.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: They never expect the booby
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

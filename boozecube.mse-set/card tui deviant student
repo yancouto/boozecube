@@ -1,7 +1,7 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	stylesheet: m15-mainframe-dfc
-	stylesheet_version: 2024-09-06
+	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
 		dfc_type: transforming
@@ -13,36 +13,35 @@ card:
 	notes: 
 	time_created: 2025-03-28 22:11:52
 	time_modified: 2025-05-20 13:20:20
-	special_text: 
 	card_color: white, red, hybrid, horizontal
-	card_color_2: white, red, multicolor, horizontal
 	name: Tui, Deviant Student 
-	name_2: Tui, Drunken Master
 	casting_cost: R/W
 	image: image551.png
-	image_2: image_27.png
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Student</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fighter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Student</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		At the beginning of each upkeep, drink for each <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> has 5 or more <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counters, transform it.
-		<sym-auto>T</sym-auto>: Put <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. 
+		At the beginning of each upkeep, drink for each <key>training</key> counter on <atom-legname><nospellcheck>Tui</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>Tui</nospellcheck></atom-legname> has 5 or more <key>training</key> counters, transform it.
+		<sym-auto>T</sym-auto>: Put <key>training</key> counter on <atom-legname><nospellcheck>Tui</nospellcheck></atom-legname>. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	card_code_text: 
+	copyright: 
+	card_color_2: white, red, multicolor, horizontal
+	name_2: Tui, Drunken Master
+	image_2: image_27.png
+	super_type_2: <word-list-type>Legendary Creature</word-list-type>
+	sub_type_2: <word-list-race>Human</word-list-race> <word-list-class>Fighter</word-list-class><soft> </soft><word-list-class></word-list-class>
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
 	rule_text_2:
 		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
 		<atom-name>This</atom-cardname> has +7/+7 as long as you have drank 5+, taken a shot or chugged a beer this turn
-	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
-	power: 1
 	power_2: 3
-	toughness: 3
 	toughness_2: 3
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+	special_text: 

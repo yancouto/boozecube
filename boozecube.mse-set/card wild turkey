@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,22 @@ card:
 	name: Wild Turkey
 	casting_cost: G
 	image: image657.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Bird</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<kw-A><nospellcheck><key>Protection from <param-name>black and blue</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything black and blue.)</i-auto></atom-reminder-expert></kw-A>
-		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Protection from <param-name>black and blue</key></param-name></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything black and blue.)</i-auto></atom-reminder-expert></kw-A>
+		<key><kw-a><nospellcheck>Boozetouch</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

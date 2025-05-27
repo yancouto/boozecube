@@ -1,25 +1,24 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 22:42:27
-	time_modified: 2025-05-09 21:03:32
+	time_modified: 2025-05-27 18:09:38
 	name: Bind Into Booze
 	casting_cost: W
 	image: image206.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text: Exile target nonland permanent until its controller takes a shot or chugs a beer. <i-auto>(They can’t take a shot because of this card.)</i-auto>
+	rule_text: Exile target nonland permanent until its controller takes a shot or chugs a beer. <i-auto>(They can’t take a shot or chug a beer because of this card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

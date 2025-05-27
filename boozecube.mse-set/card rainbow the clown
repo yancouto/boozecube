@@ -1,43 +1,42 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	stylesheet: m15-mainframe-dfc
-	stylesheet_version: 2024-09-06
+	stylesheet_version: 2020-09-04
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 15:59:33
 	time_modified: 2025-04-27 19:44:33
 	card_color: multicolor
-	card_color_2: artifact
 	name: Rainbow, the Clown
-	name_2: Mr. Mime
 	casting_cost: 3
 	card_symbol: none
 	image: image2.png
-	image_2: image_21.png
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Clown</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Clown</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Clown</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<atom-name>This creature</atom-cardname> is all colors used to pay its mana cost. Its power and toughness are equal to its number of colors.
 		<sym-auto>1</sym-auto>: Target spell or permanent becomes the color of the mana used to pay for this ability in addition to its other colors.
 		Whenever this creature is white, blue, red, black and green, transform it and it becomes colorless.
-	rule_text_2:
-		<kw-0><nospellcheck><key>Protection from <param-name>colorless, wither, boozetouch</param-name></key></nospellcheck></kw-0>
-		<sym-auto>C</sym-auto>, drink <sym></sym>2: Target spell or permanent becomes colorless.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, all colorless spells and permanents become all colors in their mana costs.
 	flavor_text: <i-flavor>La la love makes the world go round!</i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
 	power: *
-	power_2: 5
 	toughness: *
-	toughness_2: 5
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	card_color_2: artifact
+	name_2: Mr. Mime
+	image_2: image_21.png
+	super_type_2: <word-list-type>Legendary Creature</word-list-type>
+	sub_type_2: <word-list-race>Human</word-list-race> <word-list-class>Clown</word-list-class><soft> </soft><word-list-class></word-list-class>
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2:
+		<kw-0><nospellcheck><key>Protection from <param-name>colorless, wither, boozetouch</key></param-name></nospellcheck></kw-0>
+		<sym-auto>C</sym-auto>, drink <sym></sym>2: Target spell or permanent becomes colorless.
+		When <atom-cardname><nospellcheck>Mr. Mime</nospellcheck></atom-cardname> dies, all colorless spells and permanents become all colors in their mana costs.
+	flavor_text_2: <i-flavor></i-flavor>
+	power_2: 5
+	toughness_2: 5
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

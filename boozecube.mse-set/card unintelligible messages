@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,19 @@ card:
 	name: Unintelligible Messages
 	casting_cost: 2RR
 	image: image554.png
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Put a creature from your hand onto the battlefield. That creature gains <key><kw-a><nospellcheck>haste</key></nospellcheck></kw-a> and <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a>. Exile it at the beginning of the next end step.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Hwey</error-spelling:en_US> <error-spelling:en_US>Elsape</error-spelling:en_US>3<error-spelling:en_US>th</error-spelling:en_US>...<error-spelling:en_US>wahat</error-spelling:en_US>[s up!!!!?! <error-spelling:en_US>Iam</error-spelling:en_US> <error-spelling:en_US>sofu</error-spelling:en_US>98<error-spelling:en_US>cking</error-spelling:en_US> <error-spelling:en_US>wastged</error-spelling:en_US> right <error-spelling:en_US>onw</error-spelling:en_US>. <error-spelling:en_US>REm</error-spelling:en_US>3<error-spelling:en_US>nr</error-spelling:en_US> when we <error-spelling:en_US>laiberaed</error-spelling:en_US> <error-spelling:en_US>Karn</error-spelling:en_US>? <error-spelling:en_US>taht</error-spelling:en_US> was <error-spelling:en_US>fudciking</error-spelling:en_US> <error-spelling:en_US>awesomme</error-spelling:en_US>..”</i-flavor>
+	card_code_text: 
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rarity: common
-	rule_text: Put a creature from your hand onto the battlefield. That creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>. Exile it at the beginning of the next end step.
-	flavor_text: <i-flavor>“<error-spelling:en_US>Hwey</error-spelling:en_US> <error-spelling:en_US>Elsape</error-spelling:en_US>3<error-spelling:en_US>th</error-spelling:en_US>...<error-spelling:en_US>wahat</error-spelling:en_US>[s up!!!!?! <error-spelling:en_US>Iam</error-spelling:en_US> <error-spelling:en_US>sofu</error-spelling:en_US>98<error-spelling:en_US>cking</error-spelling:en_US> <error-spelling:en_US>wastged</error-spelling:en_US> right <error-spelling:en_US>onw</error-spelling:en_US>. <error-spelling:en_US>REm</error-spelling:en_US>3<error-spelling:en_US>nr</error-spelling:en_US> when we <error-spelling:en_US>laiberaed</error-spelling:en_US> <error-spelling:en_US>Karn</error-spelling:en_US>? <error-spelling:en_US>taht</error-spelling:en_US> was <error-spelling:en_US>fudciking</error-spelling:en_US> <error-spelling:en_US>awesomme</error-spelling:en_US>..”</i-flavor>
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

@@ -1,31 +1,38 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: draft matters
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-27 18:14:57
-	time_modified: 2025-05-12 01:49:21
+	time_modified: 2025-05-27 18:30:30
 	name: Brain Rat
 	casting_cost: 3B
 	image: image252.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Rat</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: special
 	rule_text:
 		When you draft this card, reveal it. Then note the name of another card in this booster pack. Until the noted card isn’t revealed, each player drafting from this booster reveals their drafted card. When the noted card is revealed, that player takes a shot.
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<key><kw-a><nospellcheck>Menace</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

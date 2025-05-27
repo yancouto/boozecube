@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,20 @@ card:
 	name: Last Call
 	casting_cost: RRR
 	image: image387.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
+	super_type: <word-list-type>Instant</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
 	rule_text:
-		Add <sym-auto>RRRRRR</sym-auto>. You may use this mana only to cast instants or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
-		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 6</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		Add <sym-auto>RRRRRR</sym-auto>. You may use this mana only to cast instants or <error-spelling:en_US:/magic.mse-game/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/magic-words>.
+		<key><kw-A><nospellcheck>Flashback—<param-cost>drink 6</key></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

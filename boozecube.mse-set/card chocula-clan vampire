@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,22 @@ card:
 	name: Chocula-Clan Vampire
 	casting_cost: 3B
 	image: image36.png
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Vampire</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Vampire</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<kw-A><nospellcheck><key>Undying</key></nospellcheck> <atom-reminder-expert> <i-auto>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, drink 4.
+		When <atom-cardname><nospellcheck>Chocula-Clan Vampire</nospellcheck></atom-cardname> enters, drink 4.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
-	illustrator_brush: art old
 	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

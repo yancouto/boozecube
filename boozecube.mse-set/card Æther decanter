@@ -1,29 +1,27 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 15:08:39
-	time_modified: 2025-05-19 19:47:31
+	time_modified: 2025-05-27 17:35:29
 	name: Æther Decanter
-	casting_cost: 1
+	casting_cost: 0
 	image: image606.png
+	super_type: <word-list-type>Artifact</word-list-type>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		At the beginning of your upkeep, you may put a charge counter on <error-spelling:en_US:/magic.mse-game/magic-words>Æther</error-spelling:en_US:/magic.mse-game/magic-words> Decanter.
+		At the beginning of each player’s end step, drink </sym>X<sym>, where X is the number of charge counters on <error-spelling:en_US:/magic.mse-game/magic-words>Æther</error-spelling:en_US:/magic.mse-game/magic-words> Decanter.
+		<sym-auto>T</sym-auto>: You may put a creature card with mana value equal to the number of charge counters on <error-spelling:en_US:/magic.mse-game/magic-words>Æther</error-spelling:en_US:/magic.mse-game/magic-words> Decanter from your hand onto the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text:
-		At the beginning of your upkeep, you may put a charge counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Æther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Decanter.
-		At the beginning of each player’s end step, drink </sym>X<sym>, where X is the number of charge counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Æther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Decanter.
-		<sym-auto>T</sym-auto>: You may put a creature card with mana value equal to the number of charge counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Æther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Decanter from your hand onto the battlefield.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 

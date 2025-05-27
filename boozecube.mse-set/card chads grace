@@ -1,28 +1,26 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
-	notes: 1 card win
+	notes: 
 	time_created: 2025-03-26 17:06:48
-	time_modified: 2025-05-12 01:55:57
+	time_modified: 2025-05-27 18:50:10
 	name: Chad’s Grace
 	casting_cost: 2WW
 	image: image268.png
+	super_type: <word-list-type>Tribal Enchantment</word-list-type>
+	sub_type: <word-list-race>Fratboy</word-list-race><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		Chug a beer: Create a 2/2 white Pledge creature token. Activate only once per turn.
+		Whenever you chug a beer, creatures you control get +2/+2 and <key><kw-a><nospellcheck>indestructible</key></nospellcheck></kw-a> until end of turn. 
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
 	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Tribal Enchantment</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rule_text:
-		Chug a beer: Create a 2/2 white Pledge creature token.
-		Whenever you chug a beer, creatures you control get +2/+2 and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. 
-	flavor_text: <i-flavor></i-flavor>
-	illustrator_brush: art old
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
