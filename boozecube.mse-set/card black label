@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: Trocar por uma foto do black label/black lotus igual era
 	time_created: 2025-03-22 15:39:09
-	time_modified: 2025-05-27 21:03:57
+	time_modified: 2025-05-27 22:05:00
 	name: Black Label
 	casting_cost: 0
 	image: image701.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>T</sym-auto>, Sacrifice Black Label: Target player takes a shot.
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Target player takes a shot.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Keep Walking
 	card_code_text: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 17:55:33
-	time_modified: 2025-05-20 11:37:45
+	time_modified: 2025-05-27 22:02:48
 	name: Beelzebooze
 	casting_cost: 3BR
 	image: image19.png
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Beelzebooze</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> can only attack alone.
-		If <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Beelzebooze</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks and is not blocked, defending player finishes the contents of their drinking beverage.
+		<atom-name>This creature</atom-cardname> can only attack alone.
+		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks and is not blocked, defending player finishes the contents of their drinking beverage.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 5

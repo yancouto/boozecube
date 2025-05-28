@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 12:23:24
-	time_modified: 2025-05-08 14:48:27
+	time_modified: 2025-05-27 22:02:20
 	name: Barter in Booze
 	casting_cost: 3BB
 	image: image18.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may take a shot and discard a black card rather than pay Barter in Booze’s mana cost.
+		You may take a shot and discard a black card rather than pay <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>’s mana cost.
 		Each player sacrifices two creatures.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

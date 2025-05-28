@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 21:56:27
-	time_modified: 2025-05-21 11:24:18
+	time_modified: 2025-05-27 22:24:14
 	name: Blackout
 	casting_cost: 2BR
 	image: image689.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning each player’s upkeep, he or she flips a coin. If the player loses the flip, they sacrifice a creature unless they take a shot or chug a beer.
+		At the beginning each player’s upkeep, they flip a coin. If they lose the flip, they sacrifice a creature unless they take a shot or chug a beer.
 		At the beginning of your end step, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> if there are no creatures on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

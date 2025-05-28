@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 19:03:28
-	time_modified: 2025-05-08 14:51:59
+	time_modified: 2025-05-27 22:03:03
 	name: Belushi, Crusher of Cans
 	casting_cost: 5WW
 	image: image22.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
 		Other creatures you control have <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
 		Whenever a player drinks, gain 1 life.
 	flavor_text: <i-flavor>Was it over when the Germans bombed Pearl Harbor? Hell no!</i-flavor>

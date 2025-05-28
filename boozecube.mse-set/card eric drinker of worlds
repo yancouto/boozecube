@@ -8,9 +8,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: Ward take 3 shots é DEMAIS, nerfar
 	time_created: 2025-03-29 21:15:00
-	time_modified: 2025-05-27 20:28:41
+	time_modified: 2025-05-27 22:26:10
 	name: Eric, Drinker of Worlds
 	casting_cost: 6B/GB/G
 	image: image327.png
@@ -26,7 +26,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Companion — <param-name>Your drinking beverage is always 15%+</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen companion, you may put it into your hand from outside the game for <sym>3</sym> as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 		This spell costs <sym-auto>1</sym-auto> less for each 5% in your drinking beverage.
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>Ward—<param-cost> take a shot</param-cost></key></nospellcheck></kw-0>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward—<param-cost> take a shot</param-cost></key></nospellcheck></kw-0>
 		If an effect would cause an opponent to drink, shot or chug, triple the amount.
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
