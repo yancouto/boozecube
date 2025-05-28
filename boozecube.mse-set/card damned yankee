@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Damned Yankee
 	casting_cost: 1B
 	image: image48.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Skeleton</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		<sym-auto>B</sym-auto>: <key><kw-1><nospellcheck>Regenerate</key></nospellcheck> <atom-cardname><nospellcheck>Damned Yankee</nospellcheck></atom-cardname>.<atom-reminder-action> <i-auto>(The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</i-auto></atom-reminder-action></kw-1>
+		<sym-auto>B</sym-auto>: <kw-1><nospellcheck><key>Regenerate</key></nospellcheck> <atom-cardname><nospellcheck>Damned Yankee</nospellcheck></atom-cardname>.<atom-reminder-action> <i-auto>(The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,18 +7,20 @@ card:
 	name: Deck Measuring Contest
 	casting_cost: 1UR
 	image: image286.png
-	super_type: <word-list-type>Enchantment</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text: At the beginning of your end step, the player with the biggest deck <i-auto>(in height)</i-auto> draws a card for each smaller deck, then <atom-cardname><nospellcheck>Deck Measuring Contest</nospellcheck></atom-cardname> deals 1 damage to the player with the smallest deck for each card drawn this way.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Tamanho</error-spelling:en_US> <error-spelling:en_US>comercial</error-spelling:en_US>” — <error-spelling:en_US>Delfino</error-spelling:en_US>, <error-spelling:en_US>Giovana</i-flavor></error-spelling:en_US>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,19 +7,21 @@ card:
 	name: Chandra’s Night Out
 	casting_cost: RRR
 	image: image35.png
-	super_type: <word-list-type>Sorcery</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Untap all creatures and gain control of them until end of turn. They gain <kw-a><nospellcheck>haste</nospellcheck></kw-a> and <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> until end of turn. <i-auto>(They deal damage to players in the form of drinks.)</i-auto>
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	illustrator: TONIGHT’S GONNA BE A GOOD NIGHT...
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: Untap all creatures and gain control of them until end of turn. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn. <i-auto>(They deal damage to players in the form of drinks.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: TONIGHT’S GONNA BE A GOOD NIGHT...
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,20 +7,22 @@ card:
 	name: Llanowar Dealer
 	casting_cost: 2GG
 	image: image629.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Elf</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rule_text: <sym-auto>G</sym-auto>: <key><kw-0><nospellcheck>Regenerate</key></nospellcheck></kw-0> another target creature that you control. It doesn’t untap during your next untap step unless you drink 2.
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: <sym-auto>G</sym-auto>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> another target creature that you control. It doesn’t untap during your next untap step unless you drink 2.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

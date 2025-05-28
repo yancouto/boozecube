@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -8,20 +8,22 @@ card:
 	name: Ruas’s Wrath
 	casting_cost: WWBB
 	image: image485.png
-	super_type: <word-list-type>Sorcery</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		Destroy all creatures.
 		For each creature destroyed this way, its controller drinks X<sym></sym>, where X is the number of creatures destroyed.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

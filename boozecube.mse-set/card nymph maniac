@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,26 @@ card:
 	name: Nymph Maniac
 	casting_cost: 1R
 	image: image115.png
-	super_type: <word-list-type>Enchantment Creature</word-list-type>
-	sub_type: <word-list-race>Nymph</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nymph</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-A><nospellcheck><key>Bestow <param-cost>3R</key></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)</i-auto></atom-reminder-expert></kw-A>
-		<key><kw-a><nospellcheck>First strike</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a>
-		<key><kw-a><nospellcheck>Enchant <param-name>creature gets +6/+1, has first strike and intoxicated</param-name></nospellcheck></kw-a>.</key>
+		<kw-A><nospellcheck><key>Bestow <param-cost><sym-auto>3R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature gets +6/+1, has first strike and intoxicated.</param-name></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 1
-	card_code_text: 
 	illustrator: Stephen Raffael
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

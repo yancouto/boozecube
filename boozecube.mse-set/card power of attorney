@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,25 +7,27 @@ card:
 	name: Power of Attorney
 	casting_cost: 1BB
 	image: image644.png
-	super_type: <word-list-type>Enchantment</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<atom-name>This enchantment</atom-cardname> enters with three bill counters on it.
 		At the beginning of your upkeep, put a bill counter on <atom-cardname><nospellcheck>Power of Attorney</nospellcheck></atom-cardname>, then draw a card and drink <sym></sym>X, where X is the number of bill counters.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

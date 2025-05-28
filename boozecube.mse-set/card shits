@@ -1,7 +1,7 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	stylesheet: m15-split-fusable
-	stylesheet_version: 2018-06-01
+	stylesheet_version: 2024-09-03
 	has_styling: true
 	styling_data:
 		use_fuse_arrows: yes
@@ -12,25 +12,27 @@ card:
 	time_created: 2025-03-21 19:35:04
 	time_modified: 2025-05-20 10:56:02
 	name: Shits
-	casting_cost: 1G
-	image: image685.png
-	super_type: <word-list-type>Instant</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Put a +1/+1 counter on target creature. It gains <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a> and <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
 	name_2: Giggles
+	casting_cost: 1G
 	casting_cost_2: 3B
+	image: image685.png
 	image_2: image_213.png
-	super_type_2: <word-list-type>Sorcery</word-list-type>
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: <word-list-spell></word-list-spell>
 	sub_type_3: 
+	rule_text: Put a +1/+1 counter on target creature. It gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2:
 		As an additional cost, drink X.
 		Remove X counters from target permanent.
+	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,18 +7,20 @@ card:
 	name: Victim of Party
 	casting_cost: BB
 	image: image558.png
-	super_type: <word-list-type>Instant</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Destroy target non-Bottle non-<error-spelling:en_US:/magic.mse-game/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/magic-words> creature.
-	flavor_text: <i-flavor>“Do not touch an <error-spelling:en_US>engov</error-spelling:en_US>. Not yet. I want to watch this so called ‘party <error-spelling:en_US>boy’</error-spelling:en_US> last PT” — <error-spelling:en_US>Orloff</error-spelling:en_US> <error-spelling:en_US>Voldaren</i-flavor></error-spelling:en_US>
-	card_code_text: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: Destroy target non-Bottle non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature.
+	flavor_text: <i-flavor>“Do not touch an <error-spelling:en_US>engov</error-spelling:en_US>. Not yet. I want to watch this so called ‘party <error-spelling:en_US>boy’</error-spelling:en_US> last PT” — <error-spelling:en_US>Orloff</error-spelling:en_US> <error-spelling:en_US>Voldaren</i-flavor></error-spelling:en_US>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

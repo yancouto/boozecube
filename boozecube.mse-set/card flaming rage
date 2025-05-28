@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: true
 	styling_data:
@@ -16,19 +16,21 @@ card:
 	card_color: red
 	name: Flaming Rage
 	image: image336.png
-	super_type: <word-list-type>Conspiracy</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Conspiracy</word-list-type-en>
 	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
 		At the end of each turn, if a source you own made an opponent drink 5 or more <i-auto>(combining all instances)</i-auto>, deal 2 damage to that player or creature he/she controls.
-		<sym-auto>1R</sym-auto>: Target creature gets <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>1R</sym-auto>: Target creature gets <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	sub_type_2: 
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,25 @@ card:
 	name: Jesus Christ
 	casting_cost: WW
 	image: image88.png
-	super_type: <word-list-type>Legendary Creature</word-list-type>
-	sub_type: <word-list-race>Jew</word-list-race> <word-list-class>Carpenter</word-list-class><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Jew</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Carpenter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		If <atom-cardname><nospellcheck>Jesus Christ</nospellcheck></atom-cardname> would die, exile him instead. If <atom-cardname><nospellcheck>Jesus Christ</nospellcheck></atom-cardname> is exiled in this manner, return him to the battlefield at the beginning of the next end step.
 		Whenever <atom-cardname><nospellcheck>Jesus Christ</nospellcheck></atom-cardname> is sacrificed, you may gain two life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 4
-	card_code_text: 
 	illustrator: Family Guy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

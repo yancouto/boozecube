@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Fart Elemental
 	casting_cost: 3GG
 	image: image653.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Elemental</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <key><kw-1><nospellcheck>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>()</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>XGG</sym-auto>: <atom-cardname><nospellcheck>Fart Elemental</nospellcheck></atom-cardname> deals X damage to each creature with <key><kw-a><nospellcheck>flying</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>XGG</sym-auto>: <atom-cardname><nospellcheck>Fart Elemental</nospellcheck></atom-cardname> deals X damage to each creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“Break the wind, break what rides it.” — Troll proverb</i-flavor>
 	power: 2
 	toughness: 7
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

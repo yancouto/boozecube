@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,23 @@ card:
 	name: Milwaukee’s Beast
 	casting_cost: G
 	image: image633.png
-	super_type: <word-list-type>Enchantment</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.</key>
-		Enchanted creatures gets +2/+0 and has <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature.</param-name></key></nospellcheck></kw-a>
+		Enchanted creatures gets +2/+0 and has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Milwaukee’s Beast</nospellcheck></atom-cardname> is put into the graveyard from the battlefield, return it to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

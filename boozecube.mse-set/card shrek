@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Shrek
 	casting_cost: 3RG
 	image: image145.png
-	super_type: <word-list-type>Legendary Creature</word-list-type>
-	sub_type: <word-list-race>Ogre</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ogre</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
 		Whenever a player casts a noncreature spell, that player chooses one — Shrek deals 5 damage to that player or that player takes a shot. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

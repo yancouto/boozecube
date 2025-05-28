@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Edward Fortyhands
 	casting_cost: 4
 	image: image598.png
-	super_type: <word-list-type>Artifact Creature</word-list-type>
-	sub_type: <word-list-race>Construct</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<atom-name>This creature</atom-cardname> enters with two 40oz counters on it. <atom-cardname><nospellcheck>Edward Fortyhands</nospellcheck></atom-cardname> is <key><kw-a><nospellcheck>indestructible</key></nospellcheck></kw-a> as long as there are no 40oz counters on it.
+		<atom-name>This creature</atom-cardname> enters with two 40oz counters on it. <atom-cardname><nospellcheck>Edward Fortyhands</nospellcheck></atom-cardname> is <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as there are no 40oz counters on it.
 		Chug a beer: Remove a counter from <atom-cardname><nospellcheck>Edward Fortyhands</nospellcheck></atom-cardname>. <i-auto>(Any type of counter may be removed.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 2
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

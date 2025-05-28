@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,23 @@ card:
 	name: Drunk Riot
 	casting_cost: 2R
 	image: image306.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text:
-		During your turn, creatures you control have +1/+0, <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a> and <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a>.
-		Drink </sym>5<sym>: Sacrifice <atom-cardname><nospellcheck>Drunk Riot</nospellcheck></atom-cardname>.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	illustrator: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		During your turn, creatures you control have +1/+0, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
+		Drink </sym>5<sym>: Sacrifice <atom-cardname><nospellcheck>Drunk Riot</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

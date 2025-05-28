@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,19 +7,21 @@ card:
 	name: Voltron, Defender of the Universe
 	casting_cost: 6
 	image: image12
-	super_type: <word-list-type>Legendary Artifact Creature</word-list-type>
-	sub_type: <word-list-race>Golem</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Golem</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
 		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>6</sym-auto>: <atom-legname><nospellcheck>Voltron</nospellcheck></atom-legname> gains <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a> and loses <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>6</sym-auto>: <atom-legname><nospellcheck>Voltron</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and loses <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 9
 	toughness: 9
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

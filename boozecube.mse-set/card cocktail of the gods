@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,18 +7,20 @@ card:
 	name: Cocktail of the Gods
 	casting_cost: 5
 	image: image594.png
-	super_type: <word-list-type>Artifact</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text: If you would lose the game, you may chug a beer or take a shot instead. If you do, exile <atom-cardname><nospellcheck>Cocktail of the Gods</nospellcheck></atom-cardname> and sacrifice all nonland permanents you control, then shuffle your hand and graveyard into your library. Draw five cards, set your life total to twenty, and remove any poison counters you have.
 	flavor_text: <i-flavor>In its swirling depths, you can see entire universes being born and dying. Then again, you’re pretty fucked up, so it might just be carbonation.</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

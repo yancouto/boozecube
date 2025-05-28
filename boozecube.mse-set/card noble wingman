@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,16 +7,18 @@ card:
 	name: Noble Wingman
 	casting_cost: 1W
 	image: image8
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Fratboy</word-list-class><soft> </soft><word-list-class></word-list-class>
-	rule_text: Chug a beer: <error-spelling:en_US:/magic.mse-game/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/magic-words> creatures you control are <key><kw-a><nospellcheck>indestructible</key></nospellcheck></kw-a> until end of turn.
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Chug a beer: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control are <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“Don’t worry, bro. I got this.”</i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

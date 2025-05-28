@@ -1,7 +1,7 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2020-05-10
+	stylesheet_version: 2025-01-11
 	has_styling: false
 	notes: 
 	time_created: 2025-04-27 17:06:35
@@ -9,18 +9,20 @@ card:
 	card_color: white
 	name: Fratboy
 	image: image340.png
-	super_type: <word-list-type>Token Creature</word-list-type>
-	sub_type: <word-list-race>Fratboy</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	power: 1
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,7 +1,7 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2020-05-10
+	stylesheet_version: 2025-01-11
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -13,18 +13,20 @@ card:
 	card_color: white, black, hybrid, horizontal
 	name: Demon Fratboy
 	image: image290.png
-	super_type: <word-list-type>Token Creature</word-list-type>
-	sub_type: <word-list-race>Demon</word-list-race> <word-list-class>Fratboy</word-list-class><soft> </soft><word-list-class></word-list-class>
-	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <key><kw-1><nospellcheck>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>()</i-auto></atom-reminder-core></kw-1>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	sub_type_2: 
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

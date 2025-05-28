@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,24 +7,26 @@ card:
 	name: Pudim’s Pact
 	casting_cost: 2GG
 	image: image467.png
-	super_type: <word-list-type>Enchantment</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		At the beginning of your upkeep, choose one that hasn’t been chosen —<soft-line>
-		- </soft-line>Each creature you control may <key><kw-0><nospellcheck>fight</key></nospellcheck></kw-0> another target creature you don’t control.
-		- Until end of turn, creatures you control get +3/+3 and gain <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a>.
+		- </soft-line>Each creature you control may <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> another target creature you don’t control.
+		- Until end of turn, creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 		- Search your library for up to two creatures and put them in your hand, then shuffle.
 		- Take 4 shots.
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
 	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: true
 	styling_data:
@@ -16,19 +16,21 @@ card:
 	card_color: blue
 	name: Midnight Negotiations
 	image: image389.png
-	super_type: <word-list-type>Conspiracy</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Conspiracy</word-list-type-en>
 	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
 		Pay 5 life, exile 1 card from your hand, drink 5<sym></sym>: Counter target spell.
 		<sym-auto>U</sym-auto>, Drink 2<sym></sym>, exile a card from your hand: Target spell can’t be countered.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	sub_type_2: 
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

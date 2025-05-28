@@ -1,23 +1,25 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	stylesheet: monarch-emblem-with-name
-	stylesheet_version: 2018-02-22
+	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 15:41:58
 	time_modified: 2025-05-20 10:50:27
 	name: Captain Morgan’s Rum Stash
 	image: image678.png
-	super_type: <word-list-type>Emblem</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Emblem</word-list-type-en>
 	sub_type: <word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text: Whenever you would drink X<sym></sym>, drink X+2 instead.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	sub_type_2: 
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

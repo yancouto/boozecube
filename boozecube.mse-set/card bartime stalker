@@ -1,28 +1,30 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 22:13:28
-	time_modified: 2025-05-09 19:23:35
+	time_modified: 2025-05-27 20:57:39
 	name: Bartime Stalker
 	casting_cost: 2B
-	image: image219.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Vampire</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image: image698.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Pay 1 life: Target creature loses <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		Pay 1 life: Target creature loses <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>She lurks in the alleyways outside bars, waiting to prey on the drunks who stumble out.</i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

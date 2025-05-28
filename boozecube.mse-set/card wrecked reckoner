@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: true
 	styling_data:
@@ -15,23 +15,25 @@ card:
 	name: Wrecked Reckoner
 	casting_cost: R/WR/WR/W
 	image: image571.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Minotaur</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Minotaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
 		Whenever <atom-cardname><nospellcheck>Wrecked Reckoner</nospellcheck></atom-cardname> is dealt damage, it deals that much damage to target creature or player.
-		<sym-auto>R/W</sym-auto>: <atom-cardname><nospellcheck>Wrecked Reckoner</nospellcheck></atom-cardname> gains <key><kw-a><nospellcheck>first strike</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>R/W</sym-auto>: <atom-cardname><nospellcheck>Wrecked Reckoner</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“Imagine a tactical genius that also just drunk his weight in <error-spelling:en_US>dwarven</error-spelling:en_US> ale. That’s him.” —Mr. <error-spelling:en_US>Hankey</i-flavor></error-spelling:en_US>
 	power: 3
 	toughness: 3
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

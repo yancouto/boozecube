@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -6,21 +6,23 @@ card:
 	time_modified: 2025-05-12 21:46:39
 	name: Santiago de Tequila
 	image: image496.png
-	super_type: <word-list-type>Land</word-list-type>
-	sub_type: <word-list-land>Forest</word-list-land> <word-list-land>Drinkland</word-list-land><soft> </soft><word-list-land></word-list-land>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 		<sym-auto>T</sym-auto>: Target player drinks.
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
 	illustrator: sasasasa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

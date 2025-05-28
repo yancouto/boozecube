@@ -1,14 +1,21 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 15:34:17
-	time_modified: 2025-05-27 17:39:11
+	time_modified: 2025-05-27 20:57:02
 	name: Ale Ko’u Kai
 	casting_cost: 6U
-	image: image198.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Avatar</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image: image696.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text: <sym-auto>X</sym-auto>: Choose a new target for target spell or ability that targets a single player and requires him or her to drink X.
 	flavor_text:
 		<i-flavor>According to an online dictionary of questionable accuracy, his name is <error-spelling:en_US>Hawai’ian</error-spelling:en_US> for “swallow my cum.”
@@ -16,13 +23,8 @@ card:
 	power: 5
 	toughness: 7
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Dead Hookers
 	casting_cost: 4B
 	image: image608.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Zombie</word-list-race> <word-list-class>Prostitute</word-list-class><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Prostitute</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Wither</key></nospellcheck><atom-reminder-expert> <i-auto>(This deals damage to creatures in the form of -1/-1 counters.)</i-auto></atom-reminder-expert></kw-A>
-		<key><kw-1><nospellcheck>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>()</i-auto></atom-reminder-core></kw-1>
+		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>As if they didn’t carry enough diseases when they were alive...</i-flavor>
 	power: 4
 	toughness: 3
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

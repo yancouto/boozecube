@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,25 @@ card:
 	name: Ironclaw Hoolingan
 	casting_cost: RG
 	image: image83.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Orc</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Orc</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <key><kw-1><nospellcheck>intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
 		<sym-auto>R</sym-auto>: <atom-cardname><nospellcheck>Ironclaw Hoolingan</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	card_code_text: 
 	illustrator: Soccer isn’t called "football"
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: true
 	styling_data:
@@ -16,23 +16,25 @@ card:
 	name: El Drazi
 	casting_cost: 11
 	image: image321.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Eldrazi</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Eldrazi</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		When you cast <atom-cardname><nospellcheck>El Drazi</nospellcheck></atom-cardname>, each opponent takes two shots.
-		<kw-a><nospellcheck>Menace</nospellcheck></kw-a>
-		<soft-line><kw-A><nospellcheck>Tequilator <param-number>2</param-number></nospellcheck> </soft-line><atom-reminder-expert> <i-auto>()</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<soft-line><kw-A><nospellcheck><key>Tequilator <param-number>2</param-number></key></nospellcheck> </soft-line><atom-reminder-expert> <i-auto>(When this creature creature attacks, defending player takes <param-number>two</param-number> shots.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 8
 	toughness: 8
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: Não tar com o Emoji de imagem quebra o ciclo
@@ -7,18 +7,20 @@ card:
 	name: Malicious Shenanigans
 	casting_cost: 1B
 	image: image407.png
-	super_type: <word-list-type>Instant</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text: Choose one — Put a -1/-1 counter on target creature; or return target creature in your graveyard to your hand; or draw a card for each shot that’s been taken this turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

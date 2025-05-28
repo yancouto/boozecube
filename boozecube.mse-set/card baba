@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Baba
 	casting_cost: 1W
 	image: image223.png
-	super_type: <word-list-type>Legendary Creature</word-list-type>
-	sub_type: <word-list-race>Ewe</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Ewe</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<error-spelling:en_US:/magic.mse-game/magic-words>Baba</error-spelling:en_US:/magic.mse-game/magic-words> is not stop <i-auto>(unblockable)</i-auto>.
-		At the beginning of your upkeep, if — “enchantments you control” is 2+ and “lands in your graveyard” is 2+ and “cards in your exile” is≥2+ and        <error-spelling:en_US:/magic.mse-game/magic-words>Baba</error-spelling:en_US:/magic.mse-game/magic-words> has <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> then you is win! <i-auto>(You win the game.)</i-auto>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Baba</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is not stop <i-auto>(unblockable)</i-auto>.
+		At the beginning of your upkeep, if — “enchantments you control” is 2+ and “lands in your graveyard” is 2+ and “cards in your exile” is≥2+ and        <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Baba</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> then you is win! <i-auto>(You win the game.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -6,21 +6,23 @@ card:
 	time_modified: 2025-05-27 19:07:51
 	name: Corner Pub
 	image: image43.png
-	super_type: <word-list-type>Land</word-list-type>
-	sub_type: <word-list-land>Drinkland</word-list-land><soft> </soft><word-list-land></word-list-land>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<atom-name>This land</atom-cardname> enters with three tab counters to it.
 		<sym-auto>T</sym-auto>, Remove a tab counter from <atom-cardname><nospellcheck>Corner Pub</nospellcheck></atom-cardname>: Add one mana of any color.
 		Drink </sym>8<sym>, <sym-auto>T</sym-auto>: Put three tab counters on <atom-cardname><nospellcheck>Corner Pub</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

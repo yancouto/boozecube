@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,20 +7,22 @@ card:
 	name: Projectile Vomit
 	casting_cost: 1R
 	image: image132.png
-	super_type: <word-list-type>Instant</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<atom-name>This spell</atom-cardname> deals 2 damage to target creature or player.
 		Whenever an opponent drinks 3 or more, you may pay <sym-auto>R</sym-auto>. If you do, return <atom-cardname><nospellcheck>Projectile Vomit</nospellcheck></atom-cardname> from the graveyard to your hand.
 	flavor_text: <i-flavor>“Guys, I fucked up.”</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

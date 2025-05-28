@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,23 @@ card:
 	name: Modo Rica
 	casting_cost: RG
 	image: image417.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text:
-		<sym-auto>R/G</sym-auto>: <key><kw-A><nospellcheck>Clash</key></nospellcheck> with all opponents.<atom-reminder-action> <i-auto>(Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto></atom-reminder-action></kw-A>
-		The player who wins reveals cards from the top or their library until a creature is revealed. That player puts that card into their hand, drinks equal to its mana value, then shuffles all other cards into their library. Activate only as a sorcery and only once each turn. 
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	illustrator: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<sym-auto>R/G</sym-auto>: <kw-A><nospellcheck><key>Clash</key></nospellcheck> with all opponents.<atom-reminder-action> <i-auto>(Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto></atom-reminder-action></kw-A>
+		The player who wins reveals cards from the top or their library until a creature is revealed. That player puts that card into their hand, drinks equal to its mana value, then shuffles all other cards into their library. Activate only as a sorcery and only once each turn. 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

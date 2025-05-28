@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,25 @@ card:
 	name: Llanowar Townie
 	casting_cost: 5G
 	image: image630.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Elf</word-list-race> <word-list-class>Citizen</word-list-class><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>GGG</sym-auto>.
-		<key><kw-A><nospellcheck>Drinkcycling <param-number>4</key></param-number></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>4</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
-		When you <error-spelling:en_US:/magic.mse-game/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/magic-words> <atom-cardname><nospellcheck>Llanowar Townie</nospellcheck></atom-cardname>, add <sym>GGGG</sym> if you have finished your drinking beverage this turn.
+		<kw-A><nospellcheck><key>Drinkcycling <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>4</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>Llanowar Townie</nospellcheck></atom-cardname>, add <sym>GGGG</sym> if you have finished your drinking beverage this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

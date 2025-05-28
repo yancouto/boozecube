@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,18 +7,20 @@ card:
 	name: Wicked Party
 	casting_cost: 4B
 	image: image565.png
-	super_type: <word-list-type>Instant</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Creatures target player controls get +2/-2, and gain <key><kw-a><nospellcheck>deathtouch</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a>, and <key><kw-a><nospellcheck>indestructible</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor>After a few drinks, you think you’re charming. After ten, you think you’re invincible. After twenty, you think trowing frozen waffles at people is a good idea.</i-flavor>
-	card_code_text: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: Creatures target player controls get +2/-2, and gain <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>After a few drinks, you think you’re charming. After ten, you think you’re invincible. After twenty, you think trowing frozen waffles at people is a good idea.</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

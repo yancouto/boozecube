@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,17 +7,19 @@ card:
 	name: Necrophilia
 	casting_cost: 1B
 	image: image7
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>dead creature</key></param-name></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>dead creature</param-name></key></nospellcheck></kw-a>
 		Return enchanted creature card to the battlefield under your control and attach Necrophilia to it. Drink </sym>X<sym>, where X is its converted mana cost.
 		When Necrophilia leaves the battlefield, that creature’s controller sacrifices it.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

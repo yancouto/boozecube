@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: The Captain Was Here
 	casting_cost: 1UU
 	image: image164.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
-	rule_text:
-		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Drink 1</key></param-cost></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
-		<key><kw-a><nospellcheck>Enchant <param-name>creature</key></param-name></nospellcheck></kw-a>
-		You control enchanted creature.
-	flavor_text: <i-flavor>Got a little Captain in you?</i-flavor>
-	card_code_text: 
-	illustrator: Rum. It’s what’s for dinner
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Drink 1</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		You control enchanted creature.
+	flavor_text: <i-flavor>Got a little Captain in you?</i-flavor>
+	illustrator: Rum. It’s what’s for dinner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

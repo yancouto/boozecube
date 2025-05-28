@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,8 +7,15 @@ card:
 	name: Jack-in-the-Box
 	casting_cost: 0
 	image: image375.png
-	super_type: <word-list-type>Artifact</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Roll a D6.
 		<b>1</b>| Chug a beer.
@@ -19,13 +26,8 @@ card:
 		<b>6</b>| Add <sym-auto>G</sym-auto> to you mana pool. Drink.
 	flavor_text: <i-flavor>“What’s in the box?”- Brad</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,8 +1,8 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2020-04-25
+game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2020-09-04
+stylesheet_version: 2024-09-23
 set_info:
 	title: Boozecube
 	set_language: en
@@ -16,7 +16,7 @@ styling:
 		overlay: 
 	magic-genevensis-10-saga:
 		center_name: no
-		textboxes: three
+		textboxes: seven
 		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
 	magic-kasu-eldrazi_750:

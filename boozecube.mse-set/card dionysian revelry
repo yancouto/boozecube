@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,21 +7,23 @@ card:
 	name: Dionysian Revelry
 	casting_cost: 3G
 	image: image623.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text:
-		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</key></param-cost></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
-		Artifacts, creatures and other enchantments have cumulative upkeep drink 1.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	illustrator: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		Artifacts, creatures and other enchantments have cumulative upkeep drink 1.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

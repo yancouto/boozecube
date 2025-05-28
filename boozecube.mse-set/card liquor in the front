@@ -1,7 +1,7 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	stylesheet: m15-split-fusable
-	stylesheet_version: 2018-06-01
+	stylesheet_version: 2024-09-03
 	has_styling: true
 	styling_data:
 		use_fuse_arrows: yes
@@ -12,23 +12,25 @@ card:
 	time_created: 2025-03-21 19:35:04
 	time_modified: 2025-05-20 10:57:49
 	name: Liquor in the Front
-	casting_cost: 3U
-	image: image394.png
-	super_type: <word-list-type>Instant</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Creatures you control gain <key><kw-a><nospellcheck>flying</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
 	name_2: Poker in the Rear
+	casting_cost: 3U
 	casting_cost_2: 1R
+	image: image394.png
 	image_2: image_216.png
-	super_type_2: <word-list-type>Instant</word-list-type>
-	sub_type_2: <word-list-spell></word-list-spell>
-	sub_type_3: 
-	rule_text_2: Discard an <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> creature. If you do, draw three cards.
-	flavor_text_2: <i-flavor></i-flavor>
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	rule_text: Creatures you control gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: Discard an <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creature. If you do, draw three cards.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

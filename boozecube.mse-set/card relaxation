@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Relaxation
 	casting_cost: 5
 	image: image473.png
-	super_type: <word-list-type>Artifact Creature</word-list-type>
-	sub_type: <word-list-race>Bottle</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bottle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<atom-name>This creature</atom-cardname>’s power and toughness are equal to the number of bottles on the battlefield.
-		<sym-auto>T</sym-auto>: Create two 1/1 colorless Bottle artifact creature tokens with <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a>. Drink </sym>X<sym>, where X is the number bottles you control.
+		<sym-auto>T</sym-auto>: Create two 1/1 colorless Bottle artifact creature tokens with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>. Drink </sym>X<sym>, where X is the number bottles you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: *
 	toughness: *
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

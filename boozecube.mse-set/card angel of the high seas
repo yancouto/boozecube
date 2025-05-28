@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Angel of the High Seas
 	casting_cost: 4WU
 	image: image9.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Angel</word-list-race> <word-list-class>Pirate</word-list-class><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <key><kw-A><nospellcheck>protection from <param-name>artifacts and enchantments</key></param-name></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts and enchantments.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-A><nospellcheck><key>protection from <param-name>artifacts and enchantments</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts and enchantments.)</i-auto></atom-reminder-expert></kw-A>
 		<sym-auto>T</sym-auto>: Return target artifact or enchantment in your graveyard to your hand, then drink </sym>X<sym>, where X is its converted mana cost. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,28 +1,30 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-27 18:08:45
+	time_modified: 2025-05-27 21:02:53
 	name: Big Blind
 	casting_cost: R
-	image: image188.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment> <word-list-enchantment>Curse</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	image: image700.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Curse</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>player</key></param-name></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		At the beginning of enchanted player’s end step, he or she puts a bet counter on <atom-cardname><nospellcheck>Big Blind</nospellcheck></atom-cardname> and attaches it to the previous player in turn order.
 		At the beginning of each player’s upkeep, enchanted player drink </sym>X<sym>, where X is the number of bet counters on <atom-cardname><nospellcheck>Big Blind</nospellcheck></atom-cardname>. 
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
 	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

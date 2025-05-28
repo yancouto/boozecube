@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,20 +7,22 @@ card:
 	name: Plainswalker
 	casting_cost: G
 	image: image428.png
-	super_type: <word-list-type>Instant</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text:
-		Destroy target planeswalker. <key><kw-0><nospellcheck><param-prefix>Its controller creates a 2/2 green elk creature token with <kw-1>plains</param-prefix>walk</key></nospellcheck></kw-0>. <i-auto>(That creature can’t be blocked as long as defending player controls a plains.)</i-auto>
-		<error-spelling:en_US:/magic.mse-game/magic-words>Drinkcycle</error-spelling:en_US:/magic.mse-game/magic-words> 3 <i-auto>(Discard this card, drink <sym-auto>3</sym-auto>, draw a card)</i-auto>
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		Destroy target planeswalker. <kw-0><nospellcheck><key><param-prefix>Its controller creates a 2/2 green elk creature token with <kw-1>plains</param-prefix>walk</key></nospellcheck></kw-0>. <i-auto>(That creature can’t be blocked as long as defending player controls a plains.)</i-auto>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 3 <i-auto>(Discard this card, drink <sym-auto>3</sym-auto>, draw a card)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

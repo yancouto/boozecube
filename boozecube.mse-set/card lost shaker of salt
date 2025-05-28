@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,20 +7,22 @@ card:
 	name: Lost Shaker Of Salt
 	casting_cost: XU
 	image: image402.png
-	super_type: <word-list-type>Sorcery</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-1><nospellcheck><key>Scry <param-number>X</key></param-number></nospellcheck>, then draw a card.<atom-reminder-core> <i-auto>(To scry <param-number>X</param-number>, look at the top <param-number>X</param-number> cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
+		<kw-1><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck>, then draw a card.<atom-reminder-core> <i-auto>(To scry <param-number>X</param-number>, look at the top <param-number>X</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
 		Target player drinks X.
 	flavor_text: <i-flavor>“Some people say that there’s a <error-spelling:en_US>merfolk</error-spelling:en_US> to blame, but you know it’s your own damn fault.”</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

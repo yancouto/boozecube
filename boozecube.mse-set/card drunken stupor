@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -8,20 +8,22 @@ card:
 	name: Drunken Stupor
 	casting_cost: 1GW
 	image: image312.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text:
-		At the beginning of your upkeep, you may drink 3. If you do, gain 3 life and your creatures can’t attack this turn.
-		Sacrifice <atom-cardname><nospellcheck>Drunken Stupor</nospellcheck></atom-cardname>: Creatures you control get +2/+2 and <key><kw-a><nospellcheck>trample</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		At the beginning of your upkeep, you may drink 3. If you do, gain 3 life and your creatures can’t attack this turn.
+		Sacrifice <atom-cardname><nospellcheck>Drunken Stupor</nospellcheck></atom-cardname>: Creatures you control get +2/+2 and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

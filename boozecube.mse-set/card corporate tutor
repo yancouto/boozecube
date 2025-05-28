@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: Double demonic tutor 1 mana
@@ -7,20 +7,22 @@ card:
 	name: Corporate Tutor
 	casting_cost: B
 	image: image44.png
-	super_type: <word-list-type>Sorcery</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-1><nospellcheck><key>Kicker—<param-cost>Take a shot</key></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>take a shot in addition to any other costs</param-cost> as you cast this spell.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-1><nospellcheck><key>Kicker—<param-cost>Take a shot</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>take a shot in addition to any other costs</param-cost> as you cast this spell.)</i-auto></atom-reminder-expert></kw-1>
 		Search your library for card and put it into your hand, then drink 10. If <atom-cardname><nospellcheck>Corporate Tutor</nospellcheck></atom-cardname> was kicked, you may search for two cards instead. Then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

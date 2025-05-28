@@ -1,7 +1,7 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	stylesheet: m15-split-fusable
-	stylesheet_version: 2018-06-01
+	stylesheet_version: 2024-09-03
 	has_styling: true
 	styling_data:
 		use_fuse_arrows: yes
@@ -12,24 +12,26 @@ card:
 	time_created: 2025-03-21 19:35:04
 	time_modified: 2025-05-20 10:55:18
 	name: Two in the Pink
-	casting_cost: 2R
-	image: image174.png
-	super_type: <word-list-type>Sorcery</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Deal 2 damage to each creature. If a creature dealt damage this way dies this turn, its controller drinks 2.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
 	name_2: One in the Stink
+	casting_cost: 2R
 	casting_cost_2: 2B
+	image: image174.png
 	image_2: image_212.png
-	super_type_2: <word-list-type>Sorcery</word-list-type>
-	sub_type_2: <word-list-spell></word-list-spell>
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	rule_text_2: Each opponent discards a card at random, then you drink for each card discarded.
-	flavor_text_2: <i-flavor></i-flavor>
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: <word-list-spell></word-list-spell>
+	sub_type_3: 
+	rule_text: Deal 2 damage to each creature. If a creature dealt damage this way dies this turn, its controller drinks 2.
+	rule_text_2: Each opponent discards a card at random, then you drink for each card discarded.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Dumb Luck
 	casting_cost: 1L/W
 	image: image314.png
-	super_type: <word-list-type>Instant</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text:
-		<i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
-		Target permanent has <key><kw-0><nospellcheck>protection from <param-name>the color or card type of your choice until end of turn</param-name></nospellcheck></kw-0>.</key>
-		Each player drinks.
-	flavor_text: <i-flavor>Sometimes, the gods protect the stupid.</i-flavor>
-	card_code_text: 
-	illustrator: May the Old Ones bless you and eat you
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
+		Target permanent has <kw-0><nospellcheck><key>protection from <param-name>the color or card type of your choice until end of turn.</param-name></key></nospellcheck></kw-0>
+		Each player drinks.
+	flavor_text: <i-flavor>Sometimes, the gods protect the stupid.</i-flavor>
+	illustrator: May the Old Ones bless you and eat you
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

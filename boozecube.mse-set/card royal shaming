@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Royal Shaming
 	casting_cost: 1W
 	image: image580.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
-	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</key></param-name></nospellcheck></kw-a>
-		Enchanted creature can’t attack or block unless its controller drinks X<sym></sym>, where X is equal to its power.
-		<key><kw-A><nospellcheck>Drinkcycling <param-number>1</key></param-number></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>1</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	illustrator: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature can’t attack or block unless its controller drinks X<sym></sym>, where X is equal to its power.
+		<kw-A><nospellcheck><key>Drinkcycling <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>1</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

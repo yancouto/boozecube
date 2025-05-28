@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: true
 	styling_data:
@@ -15,22 +15,24 @@ card:
 	name: Life of the Party
 	casting_cost: 2R/GR/G
 	image: image97.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Elemental</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
-		Other <key><kw-a><nospellcheck>intoxicated</key></nospellcheck></kw-a> creatures you control are <key><kw-a><nospellcheck>indestructible</key></nospellcheck></kw-a>.
+		Other <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creatures you control are <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>Once a party takes on a life of its own, there’s often no stopping it. You might as well just hang on and enjoy the ride.</i-flavor>
 	power: 3
 	toughness: 3
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

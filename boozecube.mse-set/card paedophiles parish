@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -6,20 +6,22 @@ card:
 	time_modified: 2025-05-08 16:52:22
 	name: Paedophile’s Parish
 	image: image119.png
-	super_type: <word-list-type>Land</word-list-type>
-	sub_type: <word-list-land>Plains-Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Plains-Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
 		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>The <error-spelling:en_US>Obzedat</error-spelling:en_US> may shuffle them between districts, but the most unpleasant clergy are always present.</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

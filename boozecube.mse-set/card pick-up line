@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -9,21 +9,23 @@ card:
 	name: Pick-Up Line
 	casting_cost: R
 	image: image444.png
-	super_type: <word-list-type>Sorcery</word-list-type>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
 	rarity: common
 	rule_text:
 		Reveal a card in your hand at random. Target player drinks XX where X is its mana value.
 		Draw a card.
 	flavor_text: <i-flavor>“Is that a <error-spelling:en_US>Jitte</error-spelling:en_US> in your pocket or are you just happy to see me?”</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

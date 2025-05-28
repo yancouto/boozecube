@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Frat Splicer
 	casting_cost: 2W
 	image: image339.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Fratboy</word-list-race> <word-list-class>Bottle</word-list-class> <word-list-class>Artifact</word-list-class><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fratboy</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bottle</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Artifact</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		Bottle creatures you control have <key><kw-a><nospellcheck>first strike</key></nospellcheck></kw-a>.
+		Bottle creatures you control have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
 		Chug a beer: Create a 3/3 “Empty Bottle” artifact creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Chupacabra Umbra
 	casting_cost: 1GW
 	image: image639.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</key></param-name></nospellcheck></kw-a>
-		<key><kw-A><nospellcheck>Totem armor</key></nospellcheck><atom-reminder-expert> <i-auto>(If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</i-auto></atom-reminder-expert></kw-A>
-		Enchanted creature has <key><kw-a><nospellcheck>vigilance</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>lifelink</key></nospellcheck></kw-a>, and <key><kw-0><nospellcheck>protection from <param-name>goats and ewes</param-name></nospellcheck></kw-0>.</key>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Totem armor</key></nospellcheck><atom-reminder-expert> <i-auto>(If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</i-auto></atom-reminder-expert></kw-A>
+		Enchanted creature has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-0><nospellcheck><key>protection from <param-name>goats and ewes.</param-name></key></nospellcheck></kw-0>
 		Whenever you drink, you may gain that much life.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

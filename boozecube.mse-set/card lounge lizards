@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Lounge Lizards
 	casting_cost: 5G
 	image: image99.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Lizard</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <key><kw-a><nospellcheck>boozetouch</key></nospellcheck></kw-a>
-		<sym-auto>1G</sym-auto>: <key><kw-A><nospellcheck>Regenerate</key></nospellcheck> Lounge Lizards.<atom-reminder-action> <i-auto>(The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</i-auto></atom-reminder-action></kw-A>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
+		<sym-auto>1G</sym-auto>: <kw-A><nospellcheck><key>Regenerate</key></nospellcheck> Lounge Lizards.<atom-reminder-action> <i-auto>(The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

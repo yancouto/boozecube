@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,22 +7,24 @@ card:
 	name: Chuggernaught
 	casting_cost: 4
 	image: image37.png
-	super_type: <word-list-type>Artifact Creature</word-list-type>
-	sub_type: <word-list-race>Bottle</word-list-race> <word-list-class>Juggernaut</word-list-class><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bottle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Juggernaut</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>, <key><kw-1><nospellcheck>intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
 		<atom-name>This creature</atom-cardname> attacks each turn if able.</atom-cardname><atom-name>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 3
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

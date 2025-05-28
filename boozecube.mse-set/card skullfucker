@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,25 @@ card:
 	name: Skullfucker
 	casting_cost: 5
 	image: image149.png
-	super_type: <word-list-type>Artifact</word-list-type>
-	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
-	rule_text:
-		<kw-A><nospellcheck><key>Living weapon</key></nospellcheck><atom-reminder-expert> <i-auto>(When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)</i-auto></atom-reminder-expert></kw-A>
-		Equipped creature gets +4/+4 and has <key><kw-a><nospellcheck>vigilance</key></nospellcheck></kw-a> and <key><kw-a><nospellcheck>lifelink</key></nospellcheck></kw-a>.
-		<sym-auto>L/CL/CL/CL/C</sym-auto>: Return <atom-cardname><nospellcheck>Skullfucker</nospellcheck></atom-cardname> to its owner’s hand.
-		<i-auto>(<sym-auto>L/C</sym-auto> can be paid with <sym>1</sym> or by drinking 3.)</i-auto>
-		<key><kw-a><nospellcheck>Equip <param-cost>5</key></param-cost></nospellcheck></kw-a>
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		<kw-A><nospellcheck><key>Living weapon</key></nospellcheck><atom-reminder-expert> <i-auto>(When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)</i-auto></atom-reminder-expert></kw-A>
+		Equipped creature gets +4/+4 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		<sym-auto>L/CL/CL/CL/C</sym-auto>: Return <atom-cardname><nospellcheck>Skullfucker</nospellcheck></atom-cardname> to its owner’s hand.
+		<i-auto>(<sym-auto>L/C</sym-auto> can be paid with <sym>1</sym> or by drinking 3.)</i-auto>
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>5</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

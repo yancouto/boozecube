@@ -1,25 +1,27 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-27 18:14:35
+	time_modified: 2025-05-27 21:09:26
 	name: Blasphemous Art
 	casting_cost: 3RR
-	image: image232.png
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: Whenever a source you control causes an opponent to drink 3 or more, you may have <atom-cardname><nospellcheck>Blasphemous Art</nospellcheck></atom-cardname> deal 2 damage to that opponent or to a creature that they control.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	illustrator: 
-	copyright: 
+	image: image188.png
 	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: Whenever a source you control causes an opponent to drink 3 or more, you may have <atom-cardname><nospellcheck>Blasphemous Art</nospellcheck></atom-cardname> deal 2 damage to that opponent or to a creature that they control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,23 +7,25 @@ card:
 	name: Puppy
 	casting_cost: W
 	image: image471.png
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Dog</word-list-race><soft> </soft><word-list-class></word-list-class>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dog</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
 	rule_text:
-		<kw-A><nospellcheck><key>Kicker <param-cost>B</key></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>B</sym-auto></param-mana> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Kicker <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>B</sym-auto></param-mana> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
 		If <atom-cardname><nospellcheck>Puppy</nospellcheck></atom-cardname> was kicked, creatures attack you if able until your next turn.
 	flavor_text: <i-flavor>“You monster”</i-flavor>
 	power: 1
 	toughness: 1
-	card_code_text: 
 	illustrator: Don’t do it
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
-	super_type_2: <word-list-type></word-list-type>
-	sub_type_2: 
-	super_type_3: <word-list-type></word-list-type>
-	sub_type_3: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 
