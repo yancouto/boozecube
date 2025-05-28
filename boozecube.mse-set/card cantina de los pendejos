@@ -16,7 +16,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
 		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>

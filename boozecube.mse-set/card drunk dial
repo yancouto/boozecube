@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 16:29:54
-	time_modified: 2025-05-27 19:51:59
+	time_modified: 2025-05-28 02:00:10
 	name: Drunk Dial
 	casting_cost: 2R
-	image: image305.png
+	image: image711.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text: Target opponent reveals the top card of their library. If it’s a permanent, you may put it on the battlefield under your control. If you do, drink </sym>X<sym>, where X is its mana value.
-	flavor_text: <i-flavor>It doesn’t matter whether or not they understand your incoherent slurring. After all, you won’t remember calling them anyway.</i-flavor>
+	flavor_text: <i-flavor>You’re not a high-net-worth individual, Harry, you’re drunk.</i-flavor>
 	watermark: none
 	card_code_text: 
 	card_code_text_2: 
