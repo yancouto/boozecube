@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: At the beginning of your end step, the player with the biggest deck <i-auto>(in height)</i-auto> draws a card for each smaller deck, then <atom-cardname><nospellcheck>Deck Measuring Contest</nospellcheck></atom-cardname> deals 1 damage to the player with the smallest deck for each card drawn this way.
+	rule_text: At the beginning of your end step, the player with the biggest deck <i-auto>(in height)</i-auto> draws a card for each smaller deck, then <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> deals 1 damage to the player with the smallest deck for each card drawn this way.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Tamanho</error-spelling:en_US> <error-spelling:en_US>comercial</error-spelling:en_US>” — <error-spelling:en_US>Delfino</error-spelling:en_US>, <error-spelling:en_US>Giovana</i-flavor></error-spelling:en_US>
 	card_code_text: 
 	card_code_text_2: 

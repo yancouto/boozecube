@@ -19,7 +19,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>GGG</sym-auto>.
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>4</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
-		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>Llanowar Townie</nospellcheck></atom-cardname>, add <sym>GGGG</sym> if you have finished your drinking beverage this turn.
+		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, add <sym>GGGG</sym> if you have finished your drinking beverage this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

@@ -19,7 +19,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>
 		Other attacking creatures you control get +1/+0.
-		If <atom-cardname><nospellcheck>Serra-Malte Angel</nospellcheck></atom-cardname> attacks alone, it loses <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn. 
+		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks alone, it loses <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

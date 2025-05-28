@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Menace</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
-		When <atom-cardname><nospellcheck>Zombooze</nospellcheck></atom-cardname> enters, you may take a shot. If you do, destroy target creature.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may take a shot. If you do, destroy target creature.
 	flavor_text: <i-flavor>What do dyslexic zombies eat?</i-flavor>
 	power: 3
 	toughness: 2

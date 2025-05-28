@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Each player sacrifices a creature, sacrifices a land and loses 2 life.
-		At the beginning of your end step, you may drink 10. If you do, return <atom-cardname><nospellcheck>Dry Heaves</nospellcheck></atom-cardname> from your graveyard to your hand.
+		At the beginning of your end step, you may drink 10. If you do, return <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

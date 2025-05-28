@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Whenever an opponent drinks, you may pay <sym-auto>1</sym-auto>. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>Cap’n Crunch</nospellcheck></atom-cardname>.
+	rule_text: Whenever an opponent drinks, you may pay <sym-auto>1</sym-auto>. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

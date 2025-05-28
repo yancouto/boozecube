@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Once per turn, whenever you say the name of this card, unless an opponents says “quack” in 5 seconds, put a +1/+1 counter on <atom-cardname><nospellcheck>Pato da Fúria</nospellcheck></atom-cardname>.
+		Once per turn, whenever you say the name of this card, unless an opponents says “quack” in 5 seconds, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 4

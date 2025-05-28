@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Elephant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>Loxodon Brohammer</nospellcheck></atom-cardname> enters, each player drinks X<sym></sym>, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>white</param-one_word></key></nospellcheck>.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>W</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>white</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, each player drinks X<sym></sym>, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>white</param-one_word></key></nospellcheck>.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>W</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>white</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 5

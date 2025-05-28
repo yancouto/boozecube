@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Untap target drink land.
-		When <atom-legname><nospellcheck>Voyeur Elf</nospellcheck></atom-legname> becomes tapped, target player drinks.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> becomes tapped, target player drinks.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

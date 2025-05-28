@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		If an opponent has drank a total of 10 or more this turn <i-auto>(combining all instances)</i-auto>, you may pay <sym-auto>0</sym-auto> instead of the mana cost for <atom-cardname><nospellcheck>Oh No You Didn’t</nospellcheck></atom-cardname>.
+		If an opponent has drank a total of 10 or more this turn <i-auto>(combining all instances)</i-auto>, you may pay <sym-auto>0</sym-auto> instead of the mana cost for <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>.
 		Exile any number of target spells.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

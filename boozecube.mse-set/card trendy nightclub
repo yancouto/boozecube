@@ -16,7 +16,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Trendy Nightclub</nospellcheck></atom-cardname> enters, drink.
+		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
 		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>WWW</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>

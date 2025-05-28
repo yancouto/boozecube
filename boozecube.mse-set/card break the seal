@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of your upkeep, drink 2 and put a pee counter on <atom-cardname><nospellcheck>Break the Seal</nospellcheck></atom-cardname>.
-		<sym-auto>0</sym-auto>: Destroy all nonland permanents. Activate this ability only if <atom-cardname><nospellcheck>Break the Seal</nospellcheck></atom-cardname> has at least six pee counters on it.
+		At the beginning of your upkeep, drink 2 and put a pee counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
+		<sym-auto>0</sym-auto>: Destroy all nonland permanents. Activate this ability only if <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> has at least six pee counters on it.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

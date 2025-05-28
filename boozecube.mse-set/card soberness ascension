@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of each opponent’s end step, if you didn’t drink this turn, you may put a quest counter on <atom-cardname><nospellcheck>Soberness Ascension</nospellcheck></atom-cardname>.
-		<sym-auto>2W</sym-auto>: Create a 4/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Activate this ability only if <atom-cardname><nospellcheck>Soberness Ascension</nospellcheck></atom-cardname> has 4 or more quest counters.
+		At the beginning of each opponent’s end step, if you didn’t drink this turn, you may put a quest counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
+		<sym-auto>2W</sym-auto>: Create a 4/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Activate this ability only if <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> has 4 or more quest counters.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

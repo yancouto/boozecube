@@ -20,7 +20,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Enchanted player cannot attack you.
 		Whenever a player’s drinking beverage is empty, enchanted player must refill it for him or her.
-		At the beginning of enchanted player’s upkeep, they may pay <sym-auto>8</sym-auto> to destroy <atom-cardname><nospellcheck>Fraternal Servitude</nospellcheck></atom-cardname>.
+		At the beginning of enchanted player’s upkeep, they may pay <sym-auto>8</sym-auto> to destroy <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

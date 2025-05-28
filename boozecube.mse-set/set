@@ -8,6 +8,7 @@ set_info:
 	set_language: en
 	symbol: 
 	masterpiece_symbol: 
+	CARDNAME_replacement: card's type
 	automatic_reminder_text: old, expert, pseudo, action, lower case
 	mana_symbol_options: 
 styling:

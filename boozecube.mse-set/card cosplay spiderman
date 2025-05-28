@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		Drink <sym></sym>2: <atom-cardname><nospellcheck>Cosplay Spiderman</nospellcheck></atom-cardname> gets +0/+1 until end of turn.
+		Drink <sym></sym>2: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +0/+1 until end of turn.
 	flavor_text: <i-flavor>With great cheeseburger comes great fries and a large coke.</i-flavor>
 	power: 2
 	toughness: 4

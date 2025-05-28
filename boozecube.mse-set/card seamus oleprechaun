@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
-		<sym-auto>G</sym-auto>: Target creature blocks <atom-cardname><nospellcheck>Seamus O’Leprechaun</nospellcheck></atom-cardname> if able. Activate this ability only before blockers are declared.
+		<sym-auto>G</sym-auto>: Target creature blocks <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> if able. Activate this ability only before blockers are declared.
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>1</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>They’re always after his lucky charms.</i-flavor>
 	power: 0

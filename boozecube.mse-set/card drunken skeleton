@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This creature</atom-cardname> attacks each turn if able.
-		Drink </sym>2<sym>: Return <atom-cardname><nospellcheck>Drunken Skeleton</nospellcheck></atom-cardname> from the graveyard to the battlefield.
+		Drink </sym>2<sym>: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from the graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

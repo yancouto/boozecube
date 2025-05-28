@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Bourbon Entity</nospellcheck></atom-cardname> enters, you may drink X. If you do, put X +1/+1 counters on Bourbon Entity.
-		Remove a +1/+1 counter from <atom-cardname><nospellcheck>Bourbon Entity</nospellcheck></atom-cardname>: Gain 1 life.
-		Remove two +1/+1 counters from <atom-cardname><nospellcheck>Bourbon Entity</nospellcheck></atom-cardname>: Target player loses 1 life. Activate this only as a sorcery.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may drink X. If you do, put X +1/+1 counters on Bourbon Entity.
+		Remove a +1/+1 counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Gain 1 life.
+		Remove two +1/+1 counters from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Target player loses 1 life. Activate this only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

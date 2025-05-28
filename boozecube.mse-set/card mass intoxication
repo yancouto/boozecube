@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		All creatures have <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> <i-auto>(They deal damage to players in the form of drinks.)</i-auto>
-		At the beginning of your upkeep, roll a D6. On a 1 or <sym></sym>2, chug a beer and sacrifice <atom-cardname><nospellcheck>Mass Intoxication</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, roll a D6. On a 1 or <sym></sym>2, chug a beer and sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	card_code_text: 

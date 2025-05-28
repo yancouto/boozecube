@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may take a shot and discard a white card rather than pay <atom-cardname><nospellcheck>Tooth for a Tooth</nospellcheck></atom-cardname>’s mana cost.
-		The next time a source of your choice would deal damage to you this turn instead <atom-cardname><nospellcheck>Tooth for a Tooth</nospellcheck></atom-cardname> deals that much damage to that source’s controller.
+		You may take a shot and discard a white card rather than pay <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>’s mana cost.
+		The next time a source of your choice would deal damage to you this turn instead <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> deals that much damage to that source’s controller.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: We make holes in teeth
 	card_code_text: 

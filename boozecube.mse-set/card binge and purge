@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		As an additional cost, take a shot or chug a beer.
-		Return target permanent card in a graveyard to the battlefield under your control. Exile <atom-cardname><nospellcheck>Binge and Purge</nospellcheck></atom-cardname>.
+		Return target permanent card in a graveyard to the battlefield under your control. Exile <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

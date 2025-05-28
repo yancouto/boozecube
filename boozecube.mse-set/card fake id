@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may take a shot and discard a blue card rather than pay <atom-cardname><nospellcheck>Fake ID</nospellcheck></atom-cardname>’s mana cost.
+		You may take a shot and discard a blue card rather than pay <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>’s mana cost.
 		You may choose new targets for target spell.
 	flavor_text: <i-flavor>“So ‘Mr. Bolas,<error-spelling:en_US>’</error-spelling:en_US> it says here that you’re a 25,000-year-old elder dragon...”</i-flavor>
 	card_code_text: 

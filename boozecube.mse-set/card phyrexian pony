@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever a creature damaged by <atom-cardname><nospellcheck>Phyrexian Pony</nospellcheck></atom-cardname> dies, its controller drinks.
+		Whenever a creature damaged by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, its controller drinks.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

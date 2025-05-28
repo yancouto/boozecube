@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Whenever an opponent says something, you may say “that’s what she said”. If you do and an opponent laughs, you may return <atom-cardname><nospellcheck>That’s What She Said</nospellcheck></atom-cardname> from the graveyard to your hand.
+		Whenever an opponent says something, you may say “that’s what she said”. If you do and an opponent laughs, you may return <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> from the graveyard to your hand.
 		Return target permanent to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

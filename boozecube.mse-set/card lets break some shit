@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Multikicker—<param-cost>drink 3</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>drink 3 in addition to any other costs</param-cost> any number of times as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
-		Destroy target artifact. You may destroy an additional target artifact for each time <atom-cardname><nospellcheck>Let’s Break Some Shit</nospellcheck></atom-cardname> was kicked.
+		Destroy target artifact. You may destroy an additional target artifact for each time <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> was kicked.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator:
 		 KOTH SMASH!

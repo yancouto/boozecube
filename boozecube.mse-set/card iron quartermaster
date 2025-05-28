@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>1R</sym-auto>: Attempt to bounce a quarter into an empty cup. If you are successful, <atom-cardname><nospellcheck>Iron Quartermaster</nospellcheck></atom-cardname> deals damage equal to its power to target creature or player. If not, drink <sym-auto>X</sym-auto>, where X is <atom-cardname><nospellcheck>Iron Quartermaster</nospellcheck></atom-cardname>’s power. <i-auto>(3 tries)</i-auto>
+	rule_text: <sym-auto>1R</sym-auto>: Attempt to bounce a quarter into an empty cup. If you are successful, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals damage equal to its power to target creature or player. If not, drink <sym-auto>X</sym-auto>, where X is <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s power. <i-auto>(3 tries)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

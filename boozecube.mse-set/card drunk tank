@@ -16,9 +16,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may choose not to untap <atom-cardname><nospellcheck>Drunk Tank</nospellcheck></atom-cardname> during your untap step. If you do, drink.
+		You may choose not to untap <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> during your untap step. If you do, drink.
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
-		<sym-auto>T</sym-auto>: Target creature doesn’t untap as normal while <atom-cardname><nospellcheck>Drunk Tank</nospellcheck></atom-cardname> remains tapped.
+		<sym-auto>T</sym-auto>: Target creature doesn’t untap as normal while <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> remains tapped.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

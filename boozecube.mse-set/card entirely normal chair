@@ -17,8 +17,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		During your turn, if this card is in your hand, you may hide it on the battlefield.
-		<sym-auto>0</sym-auto>: Return <atom-cardname><nospellcheck>Entirely Normal Chair</nospellcheck></atom-cardname> to its owner hand. Only an opponent may activate this ability, and only if they see the <atom-cardname><nospellcheck>Entirely Normal Chair</nospellcheck></atom-cardname>.
-		<sym-auto>2</sym-auto>, sacrifice <atom-cardname><nospellcheck>Entirely Normal Chair</nospellcheck></atom-cardname>: Destroy target attacking creature.
+		<sym-auto>0</sym-auto>: Return <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> to its owner hand. Only an opponent may activate this ability, and only if they see the <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		<sym-auto>2</sym-auto>, sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Destroy target attacking creature.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

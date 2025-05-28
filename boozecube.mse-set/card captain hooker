@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may choose not to untap <atom-cardname><nospellcheck>Captain Hooker</nospellcheck></atom-cardname> during your untap step.
-		<sym-auto>T</sym-auto>: Gain control of target creature whose controller has drank 3 or more this turn. You control that creature for as long as <atom-cardname><nospellcheck>Captain Hooker</nospellcheck></atom-cardname> remains tapped.
+		You may choose not to untap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> during your untap step.
+		<sym-auto>T</sym-auto>: Gain control of target creature whose controller has drank 3 or more this turn. You control that creature for as long as <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> remains tapped.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 2

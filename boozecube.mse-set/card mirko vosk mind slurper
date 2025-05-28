@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Mirko Vosk, Mind Slurper</nospellcheck></atom-cardname> deals combat damage to a player, you must make “slurping” sounds while that player reveals cards from the top of their library until 2 lands are revealed. That player drinks for each card revealed, then puts those cards in their graveyard.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, you must make “slurping” sounds while that player reveals cards from the top of their library until 2 lands are revealed. That player drinks for each card revealed, then puts those cards in their graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

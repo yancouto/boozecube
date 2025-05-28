@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Pumale</nospellcheck></atom-cardname> enters, you may chug a beer. If you do, exile target permanent until <atom-cardname><nospellcheck>Pumale</nospellcheck></atom-cardname> leaves the battlefield.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may chug a beer. If you do, exile target permanent until <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield.
 	flavor_text: <i-flavor>What’s a cat’s favorite dessert?</i-flavor>
 	power: 2
 	toughness: 3

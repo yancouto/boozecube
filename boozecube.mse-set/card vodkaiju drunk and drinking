@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-0><nospellcheck><key>Cascade</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>cascade</key></nospellcheck></kw-0> <i-auto>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom at a random order. Then do it again.)</i-auto>
-		When <atom-legname><nospellcheck>Vodkaiju</nospellcheck></atom-legname> enters, for each spell cast this turn, target player drinks, then target player drinks.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, for each spell cast this turn, target player drinks, then target player drinks.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 6

@@ -16,7 +16,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Phyrexian Frat House</nospellcheck></atom-cardname> becomes tapped, drink 2.
+		Whenever <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> becomes tapped, drink 2.
 		<sym-auto>T</sym-auto>: Add one mana of any color.
 	flavor_text: <i-flavor>Everyone gets laid at the <error-spelling:en_US>Phy</error-spelling:en_US> house’s annual <error-spelling:en_US>Compleation</error-spelling:en_US> Party. Not everyone leaves with their original body parts.</i-flavor>
 	card_code_text: 

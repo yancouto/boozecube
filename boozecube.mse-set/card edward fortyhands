@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This creature</atom-cardname> enters with two 40oz counters on it. <atom-cardname><nospellcheck>Edward Fortyhands</nospellcheck></atom-cardname> is <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as there are no 40oz counters on it.
-		Chug a beer: Remove a counter from <atom-cardname><nospellcheck>Edward Fortyhands</nospellcheck></atom-cardname>. <i-auto>(Any type of counter may be removed.)</i-auto>
+		<atom-name>This creature</atom-cardname> enters with two 40oz counters on it. <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> is <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as there are no 40oz counters on it.
+		Chug a beer: Remove a counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. <i-auto>(Any type of counter may be removed.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 2

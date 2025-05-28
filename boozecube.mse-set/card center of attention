@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may discard a blue card and take a shot rather than pay <atom-cardname><nospellcheck>Center of Attention</nospellcheck></atom-cardname>’s mana cost.
+		You may discard a blue card and take a shot rather than pay <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>’s mana cost.
 		Counter target spell.
 	flavor_text: <i-flavor>It’s so good once it hits your lips.</i-flavor>
 	illustrator: Frank the Tank

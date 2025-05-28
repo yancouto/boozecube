@@ -25,7 +25,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
-		At the start of the game, place an empty cup next to <atom-cardname><nospellcheck>Reaper’s Cup</nospellcheck></atom-cardname>.
+		At the start of the game, place an empty cup next to <atom-cardname><nospellcheck>this</nospellcheck></atom-cardname>.
 		Whenever a nontoken creature dies, its controller pours 1 drink into the cup.
 		Take a shot: Target player finishes the content of the cup.
 		<sym-auto>1BB</sym-auto>: If  the cup is empty, each player sacrifices a creature.

@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Protection from <param-name>Dwarves</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted or dealt damage by Dwarves.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Scrotumbeard</nospellcheck></atom-cardname> enters, destroy target artifact.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, destroy target artifact.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

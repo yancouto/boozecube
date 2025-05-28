@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, roll a d6. On a 6 sacrifice <atom-cardname><nospellcheck>Mysterious Egg</nospellcheck></atom-cardname> and create a 6/6 green “Hatched Dinosaur” creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+		At the beginning of your upkeep, roll a d6. On a 6 sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and create a 6/6 green “Hatched Dinosaur” creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

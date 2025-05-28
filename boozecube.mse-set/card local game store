@@ -17,7 +17,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
-		<sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Local Game Store</nospellcheck></atom-cardname>, <sym-auto>T</sym-auto>: Choose a permanent target opponent controls, then he or she chooses a permanent you control. Exchange control of those permanents.
+		<sym-auto>5</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>, <sym-auto>T</sym-auto>: Choose a permanent target opponent controls, then he or she chooses a permanent you control. Exchange control of those permanents.
 	flavor_text:
 		<i-flavor>“I’ll trade you two dual lands for a <error-spelling:en_US>Shivan</error-spelling:en_US> Dragon.”
 		“Throw in that Serra Angel and you’ve got a deal”

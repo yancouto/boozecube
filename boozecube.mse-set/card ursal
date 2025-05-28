@@ -17,7 +17,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This land</atom-cardname> enters tapped.
-		At the beginning of each upkeep, if there are no red creatures on the battlefield, sacrifice <atom-cardname><nospellcheck>URSAL</nospellcheck></atom-cardname>.
+		At the beginning of each upkeep, if there are no red creatures on the battlefield, sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>RRR</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

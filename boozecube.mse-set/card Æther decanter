@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of your upkeep, you may put a charge counter on <atom-cardname><nospellcheck>Æther Decanter</nospellcheck></atom-cardname>.
-		At the beginning of each player’s end step, drink </sym>X<sym>, where X is the number of charge counters on <atom-cardname><nospellcheck>Æther Decanter</nospellcheck></atom-cardname>.
-		<sym-auto>T</sym-auto>: You may put a creature card with mana value equal to the number of charge counters on <atom-cardname><nospellcheck>Æther Decanter</nospellcheck></atom-cardname> from your hand onto the battlefield.
+		At the beginning of your upkeep, you may put a charge counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		At the beginning of each player’s end step, drink </sym>X<sym>, where X is the number of charge counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>: You may put a creature card with mana value equal to the number of charge counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> from your hand onto the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

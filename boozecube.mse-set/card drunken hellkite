@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>R</sym-auto>: <atom-cardname><nospellcheck>Drunken Hellkite</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
-		Whenever <atom-cardname><nospellcheck>Drunken Hellkite</nospellcheck></atom-cardname> attacks, flip a coin. If you lose, <atom-cardname><nospellcheck>Drunken Hellkite</nospellcheck></atom-cardname> gains <kw-0><nospellcheck><key>intoxicated</key></nospellcheck></kw-0> until end of turn.
+		<sym-auto>R</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, flip a coin. If you lose, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gains <kw-0><nospellcheck><key>intoxicated</key></nospellcheck></kw-0> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

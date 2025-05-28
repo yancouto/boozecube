@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		At the beginning of your upkeep, you lose 2 life.
-		<sym-auto>0</sym-auto>: Put a charge counter on <atom-cardname><nospellcheck>Das Boot</nospellcheck></atom-cardname>, then drink </sym>X<sym>, where X equals the number of charge counters. If you do, target player gains control of <atom-cardname><nospellcheck>Das Boot</nospellcheck></atom-cardname>.
+		<sym-auto>0</sym-auto>: Put a charge counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>, then drink </sym>X<sym>, where X equals the number of charge counters. If you do, target player gains control of <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

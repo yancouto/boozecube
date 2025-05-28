@@ -19,7 +19,7 @@ card:
 	rule_text:
 		Spells and abilities don’t cause players to drink.
 		Players can’t drink to cast spells, activate abilities, or pay costs.
-		At the beginning of each upkeep, any player may take a shot or chug a beer. If a player does either, sacrifice <atom-cardname><nospellcheck>Prohibition</nospellcheck></atom-cardname>.
+		At the beginning of each upkeep, any player may take a shot or chug a beer. If a player does either, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Rabbit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: At the beginning of your upkeep, you may pay <sym-auto>U</sym-auto>. If you don’t, you drink 2 and lose 2 life. If you do, create a token that is a copy of <atom-cardname><nospellcheck>Breeding Pirates</nospellcheck></atom-cardname>.
+	rule_text: At the beginning of your upkeep, you may pay <sym-auto>U</sym-auto>. If you don’t, you drink 2 and lose 2 life. If you do, create a token that is a copy of <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

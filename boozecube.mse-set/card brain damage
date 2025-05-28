@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may cast <atom-cardname><nospellcheck>Brain Damage</nospellcheck></atom-cardname> any time you could cast an instant if you drink 8 as an additional cost to cast it.
+		You may cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> any time you could cast an instant if you drink 8 as an additional cost to cast it.
 		Search your library for up to three creature cards and put them in your graveyard. Shuffle your library afterwards.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

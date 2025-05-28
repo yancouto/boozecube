@@ -19,7 +19,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Boozetouch</key></nospellcheck></kw-0>
 		Damage done to Mermaid Ingenue is reduced to 0.
-		Whenever <atom-cardname><nospellcheck>Mermaid Ingenue</nospellcheck></atom-cardname> blocks or becomes blocked, drink.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> blocks or becomes blocked, drink.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

@@ -17,7 +17,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Tiki Bar</nospellcheck></atom-cardname> enters, drink.
+		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym>UU</sym>.
 	flavor_text: <i-flavor></i-flavor>

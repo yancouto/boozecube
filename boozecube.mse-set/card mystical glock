@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> enters with X bullet counters.
-		Equipped creatures has “<sym-auto>T</sym-auto>, Remove a bullet counter from <atom-cardname><nospellcheck>Mystical Glock</nospellcheck></atom-cardname>: <atom-cardname><nospellcheck>Mystical Glock</nospellcheck></atom-cardname> deals damage equal to equipped creature’s power to target creature.”
+		Equipped creatures has “<sym-auto>T</sym-auto>, Remove a bullet counter from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: <atom-cardname><nospellcheck>This artifact</nospellcheck></atom-cardname> deals damage equal to equipped creature’s power to target creature.”
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>This mystical weapon fits nearly into the <error-spelling:en_US>mutiverse’s</error-spelling:en_US> flavor... No really, it does... Because its powered by <error-spelling:en_US>mana</error-spelling:en_US>, that’s why... Well, fuck you too, <error-spelling:en_US>Vorthos</error-spelling:en_US>.</i-flavor>
 	illustrator: Rat-a-tat-tat

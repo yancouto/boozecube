@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Pledge</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: At the end of each turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Elite Pledge</nospellcheck></atom-cardname> if two or more players drank that turn.
+	rule_text: At the end of each turn, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> if two or more players drank that turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

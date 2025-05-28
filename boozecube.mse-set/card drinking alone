@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-0><nospellcheck><key>Kicker—<param-cost>drink 9</param-cost></key></nospellcheck></kw-0>
-		Destroy all creatures. They can’t be regenerated. If <atom-cardname><nospellcheck>Drinking Alone</nospellcheck></atom-cardname> was kicked, you may then return target creature in your graveyard to the battlefield.
+		Destroy all creatures. They can’t be regenerated. If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> was kicked, you may then return target creature in your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

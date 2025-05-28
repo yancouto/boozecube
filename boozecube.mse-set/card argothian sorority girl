@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Whenever you cast an enchantment spell, you may draw a card.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Argothian Sorority Girl</nospellcheck></atom-cardname>: Search your library for an enchantment card, reveal it and put it into your hand. Shuffle your library afterwards.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Search your library for an enchantment card, reveal it and put it into your hand. Shuffle your library afterwards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

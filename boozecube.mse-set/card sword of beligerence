@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This artifact</atom-cardname> can equip only <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creatures. <i-auto>(If a creature ceases to be <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>, <atom-cardname><nospellcheck>Sword of Beligerence</nospellcheck></atom-cardname> becomes unequipped. )</i-auto>
+		<atom-name>This artifact</atom-cardname> can equip only <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creatures. <i-auto>(If a creature ceases to be <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>, <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> becomes unequipped. )</i-auto>
 		Equipped creature gets +8/+0 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

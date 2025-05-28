@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may take a shot and discard a green card rather than pay <atom-cardname><nospellcheck>Embiggen</nospellcheck></atom-cardname>’s mana cost.
+		You may take a shot and discard a green card rather than pay <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>’s mana cost.
 		Target creature gets +4/+4 and gains <kw-a><nospellcheck><key>shroud</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“A noble spirit <error-spelling:en_US>embiggens</error-spelling:en_US> the smallest man.”- <error-spelling:en_US>Jebediah</error-spelling:en_US> Springfield</i-flavor>
 	illustrator: It’s a perfect cromulent word

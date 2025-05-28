@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Whenever you drink, you may put a charge counter on <atom-cardname><nospellcheck>Tapped Keg</nospellcheck></atom-cardname>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Tapped Keg</nospellcheck></atom-cardname>: Destroy all nonland permanents with a mana value equal to the number of charge counters on <atom-cardname><nospellcheck>Tapped Keg</nospellcheck></atom-cardname>. Each player drinks </sym>X<sym>, where X is the number of charge counters.
+		Whenever you drink, you may put a charge counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Destroy all nonland permanents with a mana value equal to the number of charge counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>. Each player drinks </sym>X<sym>, where X is the number of charge counters.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

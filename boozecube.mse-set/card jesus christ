@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		If <atom-cardname><nospellcheck>Jesus Christ</nospellcheck></atom-cardname> would die, exile him instead. If <atom-cardname><nospellcheck>Jesus Christ</nospellcheck></atom-cardname> is exiled in this manner, return him to the battlefield at the beginning of the next end step.
-		Whenever <atom-cardname><nospellcheck>Jesus Christ</nospellcheck></atom-cardname> is sacrificed, you may gain two life.
+		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> would die, exile him instead. If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is exiled in this manner, return him to the battlefield at the beginning of the next end step.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is sacrificed, you may gain two life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 4

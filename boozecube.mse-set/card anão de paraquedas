@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>Anão de Paraquedas</nospellcheck></atom-cardname> comes into play, flip it from a height of at least 1m. Sacrifice it unless the card lands face up after flipping at least 360<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>º</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> comes into play, flip it from a height of at least 1m. Sacrifice it unless the card lands face up after flipping at least 360<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>º</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

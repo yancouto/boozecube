@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Target creature becomes a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in addition to its other creature types.
-		<sym-auto>1UU</sym-auto>, <sym-auto>T</sym-auto>: Gain control of target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature while you control <atom-cardname><nospellcheck>Social Chair</nospellcheck></atom-cardname>.
+		<sym-auto>1UU</sym-auto>, <sym-auto>T</sym-auto>: Gain control of target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature while you control <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

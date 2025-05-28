@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Other creatures you control have +1/+1.
-		Whenever a creature you control attacks or deals combat damage to a player or planeswalker, you must apologize, else you must sacrifice <atom-cardname><nospellcheck>Sorry Cop</nospellcheck></atom-cardname>.
+		Whenever a creature you control attacks or deals combat damage to a player or planeswalker, you must apologize, else you must sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor>“A flagellant cop-monk”</i-flavor>
 	power: 2
 	toughness: 2

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bodyguard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>1W</sym-auto>: If target spell or ability would cause you to drink, instead put a -1/-1 counter on <atom-cardname><nospellcheck>Designated Drinker</nospellcheck></atom-cardname>.
+	rule_text: <sym-auto>1W</sym-auto>: If target spell or ability would cause you to drink, instead put a -1/-1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 5

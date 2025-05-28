@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of your upkeep, put a tip counter on <atom-cardname><nospellcheck>Assemble the Strippers</nospellcheck></atom-cardname>. Then create a 1/1 red and black Stripper creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> for each tip counter on it.
-		At the beginning of your end step, sacrifice each Stripper you control unless you drink 3 for each tip counter on <atom-cardname><nospellcheck>Assemble the Strippers</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, put a tip counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>. Then create a 1/1 red and black Stripper creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> for each tip counter on it.
+		At the beginning of your end step, sacrifice each Stripper you control unless you drink 3 for each tip counter on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Grand Prix Las Vegas 2013
 	card_code_text: 

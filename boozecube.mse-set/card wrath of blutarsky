@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-0><nospellcheck><key>Kicker <param-cost><sym-auto>WW</sym-auto></param-cost></key></nospellcheck></kw-0>
-		If <atom-cardname><nospellcheck>Wrath Of Blutarsky</nospellcheck></atom-cardname> was kicked, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> was kicked, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 		Destroy all creatures.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Bluto’s</error-spelling:en_US> right. <error-spelling:en_US>Psycothic</error-spelling:en_US>, but absolutely right. We gotta take these bastards.”- Otter</i-flavor>
 	card_code_text: 

@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Kicker—<param-cost>drink 3</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>drink 3 in addition to any other costs</param-cost> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
-		Return target creature to its owner’s hand. If <atom-cardname><nospellcheck>Drink Up, Me Hearties</nospellcheck></atom-cardname> was kicked, instead return target permanent to its owner’s hand.
+		Return target creature to its owner’s hand. If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> was kicked, instead return target permanent to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

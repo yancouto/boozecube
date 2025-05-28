@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Rush Captain</nospellcheck></atom-cardname> enters, create a 2/2 white Pledge creature token.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, create a 2/2 white Pledge creature token.
 		Whenever a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, each player drinks.
 	flavor_text: <i-flavor>He’s damn glad to meet you.</i-flavor>
 	power: 2

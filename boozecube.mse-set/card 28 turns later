@@ -20,7 +20,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Suspend <param-number>28</param-number> <param-cost><sym>B</sym></param-cost></key></nospellcheck> <atom-reminder-expert> <i-auto>(Rather than cast this card from your hand, pay <param-mana><sym-auto>B</sym-auto></param-mana> and exile it with <param-number>twenty-eight</param-number> time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</i-auto></atom-reminder-expert></kw-A>
 		Return all creatures from all graveyards to the battlefield under your control. Each creature returned is a zombie in addition to any other types.
-		Drink </sym>2<sym>: Remove a time counter from <atom-cardname><nospellcheck>28 Turns Later</nospellcheck></atom-cardname>.
+		Drink </sym>2<sym>: Remove a time counter from <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

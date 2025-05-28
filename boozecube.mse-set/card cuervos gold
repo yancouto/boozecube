@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Whenever a player finishes their drinking beverage, you may put a change counter on <atom-cardname><nospellcheck>Cuervo’s Gold</nospellcheck></atom-cardname>.
-		Remove three charge counters from <atom-cardname><nospellcheck>Cuervo’s Gold</nospellcheck></atom-cardname>: Put a permanent card from your hand onto the battlefield. Activate only as a sorcery.
+		Whenever a player finishes their drinking beverage, you may put a change counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		Remove three charge counters from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Put a permanent card from your hand onto the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

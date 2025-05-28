@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-0><nospellcheck><key>Protection from <param-name>Jew</param-name></key></nospellcheck></kw-0> <i-auto>(This creature can’t be blocked, targeted or dealt damage by Jew creatures.)</i-auto>
-		<i>High-five!</i> — When <atom-legname><nospellcheck>Borat Sagdiyev</nospellcheck></atom-legname> enters, draw two card. 
+		<i>High-five!</i> — When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, draw two card. 
 	flavor_text: <i-flavor>“On <error-spelling:en_US>Mirrodin</error-spelling:en_US>, everyone has metal body parts, like my cousin <error-spelling:en_US>Bilo</error-spelling:en_US>. <error-spelling:en_US>Mirrodin</error-spelling:en_US> people are born with their metal, unlike <error-spelling:en_US>Bilo</error-spelling:en_US>, who got new phallus after he tried to make <error-spelling:en_US>sexytime</error-spelling:en_US> explosion in a bear.”</i-flavor>
 	power: 2
 	toughness: 4

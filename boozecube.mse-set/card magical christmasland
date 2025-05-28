@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Pay 1 life, <sym-auto>T</sym-auto>: Add one mana of any color. 
-		If <atom-cardname><nospellcheck>Magical Christmasland</nospellcheck></atom-cardname> is in your opening hand <i-auto>(before mulligans)</i-auto>, you may reveal then exile it. If you do, each player puts their hand on top of their library, then searches their library for seven cards and sets them aside. Then each player puts the cards set aside into their hand and shuffles.
+		If <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> is in your opening hand <i-auto>(before mulligans)</i-auto>, you may reveal then exile it. If you do, each player puts their hand on top of their library, then searches their library for seven cards and sets them aside. Then each player puts the cards set aside into their hand and shuffles.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

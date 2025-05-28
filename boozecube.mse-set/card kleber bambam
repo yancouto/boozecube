@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>menace</key></nospellcheck></kw-0>
-		<sym-auto>1B</sym-auto>, Reveal this card from your hand, say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>tá</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>vindo</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> o <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>monstro</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>...”: <atom-cardname><nospellcheck>Kleber Bambam</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
+		<sym-auto>1B</sym-auto>, Reveal this card from your hand, say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>tá</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>vindo</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> o <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>monstro</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>...”: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Ajuda</error-spelling:en_US> o <error-spelling:en_US>maluco</error-spelling:en_US> <error-spelling:en_US>que</error-spelling:en_US> <error-spelling:en_US>tá</error-spelling:en_US> <error-spelling:en_US>doente</error-spelling:en_US>”-<error-spelling:en_US>Karn</i-flavor></error-spelling:en_US>
 	power: 7
 	toughness: 7

@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		At the beginning each player’s upkeep, he or she flips a coin. If the player loses the flip, they sacrifice a creature unless they take a shot or chug a beer.
-		At the beginning of your end step, sacrifice <atom-cardname><nospellcheck>Blackout</nospellcheck></atom-cardname> if there are no creatures on the battlefield.
+		At the beginning of your end step, sacrifice <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> if there are no creatures on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

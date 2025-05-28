@@ -18,8 +18,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Rolê Andarilho</nospellcheck></atom-cardname> enters, exile target non-land permanent an opponent controls until its owner finishes its current drinking beverage or <atom-cardname><nospellcheck>Rolê Andarilho</nospellcheck></atom-cardname> leaves the battlefield.
-		Take a shot: Return <atom-cardname><nospellcheck>Rolê Andarilho</nospellcheck></atom-cardname> from anywhere to your hand. 
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile target non-land permanent an opponent controls until its owner finishes its current drinking beverage or <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> leaves the battlefield.
+		Take a shot: Return <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> from anywhere to your hand. 
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

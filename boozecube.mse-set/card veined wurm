@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>Veined Wurm</nospellcheck></atom-cardname> dies, you may drink 10. If you do, return it from the graveyard to your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may drink 10. If you do, return it from the graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 4

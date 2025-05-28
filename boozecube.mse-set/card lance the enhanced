@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This creature</atom-cardname> is unblockable.
-		You may sneak <atom-legname><nospellcheck>Lance</nospellcheck></atom-legname> into play at any time without paying for it, but if an opponent catches you right away, sacrifice it and drink 10.
+		You may sneak <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> into play at any time without paying for it, but if an opponent catches you right away, sacrifice it and drink 10.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Menace</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
-		Whenever <atom-cardname><nospellcheck>Pizza-Delivery Guy</nospellcheck></atom-cardname> deals combat damage to a player, you may pay <sym-auto>XR</sym-auto>. If you do, that player drinks X.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage to a player, you may pay <sym-auto>XR</sym-auto>. If you do, that player drinks X.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

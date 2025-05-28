@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		You may pay <sym-auto>1</sym-auto> less to cast <atom-cardname><nospellcheck>Wax Philosophical</nospellcheck></atom-cardname> if an opponent has drank this turn.
+		You may pay <sym-auto>1</sym-auto> less to cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> if an opponent has drank this turn.
 		Counter target spell or ability.
 	flavor_text: <i-flavor>Sometimes, you solve world hunger over a few beers. Other times, you vigorously debate who would win in a fight between a Viking warrior and a Oxford-educated <error-spelling:en_US>velociraptor</error-spelling:en_US>.</i-flavor>
 	card_code_text: 

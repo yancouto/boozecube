@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of each player’s end step, you may put a +1/+1 counter on <atom-cardname><nospellcheck>Drunken Sailors</nospellcheck></atom-cardname> if you didn’t drink this turn.
-		<sym-auto>0</sym-auto>: Remove any number of +1/+1 counters from <atom-cardname><nospellcheck>Drunken Sailors</nospellcheck></atom-cardname>. Target player drinks X</sym><sym>X, where X is the number of counters removed.
+		At the beginning of each player’s end step, you may put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> if you didn’t drink this turn.
+		<sym-auto>0</sym-auto>: Remove any number of +1/+1 counters from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. Target player drinks X</sym><sym>X, where X is the number of counters removed.
 	flavor_text: <i-flavor>What do you do with them?</i-flavor>
 	power: 0
 	toughness: 1

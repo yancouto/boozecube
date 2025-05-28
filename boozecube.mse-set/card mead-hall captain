@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-0><nospellcheck><key>Intoxicated</key></nospellcheck></kw-0>
-		When <atom-cardname><nospellcheck>Mead-Hall Captain</nospellcheck></atom-cardname> enters, put three 1/1 red Dwarf creature tokens.
-		<sym-auto>1R</sym-auto>, Sacrifice a Dwarf: <atom-cardname><nospellcheck>Mead-Hall Captain</nospellcheck></atom-cardname> deals 2 damage to target creature or player.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, put three 1/1 red Dwarf creature tokens.
+		<sym-auto>1R</sym-auto>, Sacrifice a Dwarf: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> deals 2 damage to target creature or player.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>0</sym-auto>: <atom-cardname><nospellcheck>Horde of 80s Cartoons</nospellcheck></atom-cardname> becomes  a copy or target creature and gains this ability. Drink X<sym></sym>, where X is the copied creature’s mana value.
+	rule_text: <sym-auto>0</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> becomes  a copy or target creature and gains this ability. Drink X<sym></sym>, where X is the copied creature’s mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1

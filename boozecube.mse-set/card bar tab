@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This enchantment</atom-cardname> enters with X bill counters on it. Whenever you take a shot, you may put three bill counters on <atom-cardname><nospellcheck>Bar Tab</nospellcheck></atom-cardname>.
-		At the beginning of your upkeep, remove a bill counter. If there are no bill counters on <atom-cardname><nospellcheck>Bar Tab</nospellcheck></atom-cardname>, sacrifice each nonland permanent you control.
+		<atom-name>This enchantment</atom-cardname> enters with X bill counters on it. Whenever you take a shot, you may put three bill counters on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, remove a bill counter. If there are no bill counters on <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>, sacrifice each nonland permanent you control.
 		Whenever you tap a Swamp for mana, add an additional <sym-auto>BB</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

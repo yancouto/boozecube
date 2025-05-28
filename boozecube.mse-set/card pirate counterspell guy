@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Boozetouch</key></nospellcheck><atom-reminder-core> <i-auto>(When this creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
-		<sym-auto>U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Pirate Counterspell Guy</nospellcheck></atom-cardname>: Counter target noncreature spell.
+		<sym-auto>U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: Counter target noncreature spell.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

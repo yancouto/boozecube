@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Kicker <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>B</sym-auto></param-mana> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
-		If <atom-cardname><nospellcheck>Puppy</nospellcheck></atom-cardname> was kicked, creatures attack you if able until your next turn.
+		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> was kicked, creatures attack you if able until your next turn.
 	flavor_text: <i-flavor>“You monster”</i-flavor>
 	power: 1
 	toughness: 1

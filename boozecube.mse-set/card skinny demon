@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		As an additional cost to cast this spell, take a shot of any beverage, and <atom-cardname><nospellcheck>Skinny Demon</nospellcheck></atom-cardname> enters with a +1/+1 counter for each 10% of alcohol in that beverage.
+		As an additional cost to cast this spell, take a shot of any beverage, and <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters with a +1/+1 counter for each 10% of alcohol in that beverage.
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>​”I mean, drinking is free, right?”</i-flavor>
 	level_1_text:

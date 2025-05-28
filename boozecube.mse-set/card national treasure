@@ -21,7 +21,7 @@ card:
 	rarity: special
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym>∞</sym> <i-auto>(in any combination of colors)</i-auto>.
-		Sacrifice <atom-cardname><nospellcheck>National Treasure</nospellcheck></atom-cardname>: Destroy all creatures.
+		Sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Destroy all creatures.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

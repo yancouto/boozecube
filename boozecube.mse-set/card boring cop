@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		At the beginning of your end step, if you didn’t cast any spells or attacked with a creature this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>Boring Cop</nospellcheck></atom-cardname>.
+		At the beginning of your end step, if you didn’t cast any spells or attacked with a creature this turn, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor>“A touch of the regular”</i-flavor>
 	power: 1
 	toughness: 1

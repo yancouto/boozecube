@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
-		<sym-auto>B/R</sym-auto>: <atom-cardname><nospellcheck>Wifebeater Devil</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
-		Whenever a creature damaged by <atom-cardname><nospellcheck>Wifebeater Devil</nospellcheck></atom-cardname> dies, drink X<sym></sym>, where X is the sum of its power and toughness.
+		<sym-auto>B/R</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
+		Whenever a creature damaged by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, drink X<sym></sym>, where X is the sum of its power and toughness.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

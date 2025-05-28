@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Ace of Spades</nospellcheck></atom-cardname> enters, reveal the top card of your library. Creatures you control get +X/+0 until end of turn, where X is the revealed card’s mana value.
-		Whenever you drink 5 or more, you may return <atom-cardname><nospellcheck>Ace of Spades</nospellcheck></atom-cardname> from the battlefield to your hand.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, reveal the top card of your library. Creatures you control get +X/+0 until end of turn, where X is the revealed card’s mana value.
+		Whenever you drink 5 or more, you may return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from the battlefield to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
-		When <atom-legname><nospellcheck>Walter</nospellcheck></atom-legname> enters, exile all cards from all graveyards.
+		When <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> enters, exile all cards from all graveyards.
 	flavor_text: <i-flavor>“Three thousand years of beautiful tradition, from Moses to Sandy Koufax, you’re goddamn right. I’m living in the fucking past!”</i-flavor>
 	power: 2
 	toughness: 2

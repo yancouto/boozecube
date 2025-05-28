@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This spell</atom-cardname> deals 2 damage to target creature or player.
-		Whenever an opponent drinks 3 or more, you may pay <sym-auto>R</sym-auto>. If you do, return <atom-cardname><nospellcheck>Projectile Vomit</nospellcheck></atom-cardname> from the graveyard to your hand.
+		Whenever an opponent drinks 3 or more, you may pay <sym-auto>R</sym-auto>. If you do, return <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> from the graveyard to your hand.
 	flavor_text: <i-flavor>“Guys, I fucked up.”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

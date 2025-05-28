@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Mr. Brightside</nospellcheck></atom-cardname> dies, return it to the battlefield under target opponent’s control.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, return it to the battlefield under target opponent’s control.
 	flavor_text: <i-flavor>“It’s killing me and taking control”</i-flavor>
 	power: 5
 	toughness: 5

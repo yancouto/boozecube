@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Home-Theatre Enthusiast</nospellcheck></atom-cardname> enters, you may search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>2</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3

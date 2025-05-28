@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> enters tapped.
-		Drink 3<sym></sym>, <sym-auto>T</sym-auto>: Put a keg counter on <atom-cardname><nospellcheck>Kinetic Power Keg</nospellcheck></atom-cardname>.
-		Drink 3<sym></sym>, <sym>T</sym> Remove a keg counter from <atom-cardname><nospellcheck>Kinetic Power Keg</nospellcheck></atom-cardname>: Target player chugs a beer.
+		Drink 3<sym></sym>, <sym-auto>T</sym-auto>: Put a keg counter on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		Drink 3<sym></sym>, <sym>T</sym> Remove a keg counter from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Target player chugs a beer.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

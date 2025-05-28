@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Parched Baloth</nospellcheck></atom-cardname> enters, target player finishes the contents of their drinking beverage.
-		When <atom-cardname><nospellcheck>Parched Baloth</nospellcheck></atom-cardname> leaves the battlefield, finish the contents of your drinking beverage.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, target player finishes the contents of their drinking beverage.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> leaves the battlefield, finish the contents of your drinking beverage.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>Obnoxious Protesters</nospellcheck></atom-cardname> enters, choose a nonland card type. Spells of that card type cost an additional <sym-auto>L/W</sym-auto> to cast. <i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose a nonland card type. Spells of that card type cost an additional <sym-auto>L/W</sym-auto> to cast. <i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

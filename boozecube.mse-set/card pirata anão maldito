@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Pirate</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dwarf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Sacrifice <atom-cardname><nospellcheck>Pirata Anão Maldito</nospellcheck></atom-cardname>: You may change the targets of target instant or sorcery spell.
+	rule_text: Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: You may change the targets of target instant or sorcery spell.
 	flavor_text: <i-flavor>“No, u”-<error-spelling:en_US>João</error-spelling:en_US> Rafael</i-flavor>
 	power: 2
 	toughness: 2

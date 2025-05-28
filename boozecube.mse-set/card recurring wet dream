@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Sacrifice a creature, return <atom-cardname><nospellcheck>Recurring Wet Dream</nospellcheck></atom-cardname> to its owner’s hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery unless you take a shot as an additional activation cost.
+	rule_text: Sacrifice a creature, return <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> to its owner’s hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery unless you take a shot as an additional activation cost.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

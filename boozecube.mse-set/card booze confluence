@@ -17,7 +17,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>
-		<sym-auto>T</sym-auto>: Add 1 booze counter to <atom-cardname><nospellcheck>Booze Confluence</nospellcheck></atom-cardname> and drink for each booze counter in <atom-cardname><nospellcheck>Booze Confluence</nospellcheck></atom-cardname>. Add one mana of any color.
+		<sym-auto>T</sym-auto>: Add 1 booze counter to <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> and drink for each booze counter in <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>. Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

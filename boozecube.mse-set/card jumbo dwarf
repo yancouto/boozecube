@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		As <atom-cardname><nospellcheck>Jumbo Dwarf</nospellcheck></atom-cardname> enters, roll a D6 and it enters with that many +1/+1 counters.
-		At the beginning of your upkeep, roll a D6 and put that many +1/+1 counters on  <atom-cardname><nospellcheck>Jumbo Dwarf</nospellcheck></atom-cardname>.
-		At the beginning of your end step, roll a D6 and remove that many +1/+1 counters from <atom-cardname><nospellcheck>Jumbo Dwarf</nospellcheck></atom-cardname>.
+		As <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, roll a D6 and it enters with that many +1/+1 counters.
+		At the beginning of your upkeep, roll a D6 and put that many +1/+1 counters on  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		At the beginning of your end step, roll a D6 and remove that many +1/+1 counters from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0

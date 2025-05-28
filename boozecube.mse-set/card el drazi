@@ -26,7 +26,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When you cast <atom-cardname><nospellcheck>El Drazi</nospellcheck></atom-cardname>, each opponent takes two shots.
+		When you cast <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, each opponent takes two shots.
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		<soft-line><kw-A><nospellcheck><key>Tequilator <param-number>2</param-number></key></nospellcheck> </soft-line><atom-reminder-expert> <i-auto>(When this creature creature attacks, defending player takes <param-number>two</param-number> shots.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>

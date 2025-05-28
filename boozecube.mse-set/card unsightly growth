@@ -19,7 +19,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Kicker—<param-cost>Drink 5</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may <param-cost>drink 5 in addition to any other costs</param-cost> as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
 		Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.
-		If <atom-cardname><nospellcheck>Unsightly Growth</nospellcheck></atom-cardname> was kicked, you may search for basic or non basic lands.
+		If <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> was kicked, you may search for basic or non basic lands.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

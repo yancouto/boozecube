@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Tavern Brawler</nospellcheck></atom-cardname> attacks, create two 1/1 red Dwarf creature tokens.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, create two 1/1 red Dwarf creature tokens.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4

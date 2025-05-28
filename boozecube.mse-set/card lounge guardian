@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Defender</key></nospellcheck>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a><atom-reminder-core> <i-auto>(This creature can’t attack.)</i-auto></atom-reminder-core></kw-1>
-		Whenever a creature damaged by <atom-cardname><nospellcheck>Lounge Guardian</nospellcheck></atom-cardname> dies, its controller drinks.
+		Whenever a creature damaged by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, its controller drinks.
 	flavor_text: <i-flavor>You’re not on the list.</i-flavor>
 	power: 1
 	toughness: 6

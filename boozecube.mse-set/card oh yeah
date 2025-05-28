@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Destroy target land.
-		Drink 4<sym></sym>: Return <atom-cardname><nospellcheck>Oh Yeah!</nospellcheck></atom-cardname> to your hand from the graveyard.
+		Drink 4<sym></sym>: Return <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> to your hand from the graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

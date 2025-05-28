@@ -29,7 +29,7 @@ card:
 	rule_text_2:
 		<kw-0><nospellcheck><key>Protection from <param-name>colorless, wither, boozetouch</param-name></key></nospellcheck></kw-0>
 		<sym-auto>C</sym-auto>, drink <sym></sym>2: Target spell or permanent becomes colorless.
-		When <atom-cardname><nospellcheck>Mr. Mime</nospellcheck></atom-cardname> dies, all colorless spells and permanents become all colors in their mana costs.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, all colorless spells and permanents become all colors in their mana costs.
 	flavor_text: <i-flavor>La la love makes the world go round!</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: *

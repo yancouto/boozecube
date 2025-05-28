@@ -18,8 +18,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>Timber Shiverer</nospellcheck></atom-cardname> dies, you may exile it. If you do, return all pirate creatures in graveyards to the battlefield tapped and under your control. They are zombies in addition to their other types.
-		Whenever you would drink for the first time in a turn, you must first say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrrrrrrr</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.” If you don’t, exile <atom-cardname><nospellcheck>Timber Shiverer</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may exile it. If you do, return all pirate creatures in graveyards to the battlefield tapped and under your control. They are zombies in addition to their other types.
+		Whenever you would drink for the first time in a turn, you must first say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrrrrrrr</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.” If you don’t, exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor>Sometimes, dead men do tell tales.</i-flavor>
 	power: 2
 	toughness: 2

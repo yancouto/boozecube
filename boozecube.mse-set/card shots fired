@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>Shots Fired</nospellcheck></atom-cardname> take one or more shots.
+		As an additional cost to cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> take one or more shots.
 		Copy target instant or sorcery spell fro each shot you took this turn.
 		You may choose new targets for the copies.
 	flavor_text: <i-flavor></i-flavor>

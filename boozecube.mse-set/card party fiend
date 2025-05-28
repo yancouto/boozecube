@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Party Fiend</nospellcheck></atom-cardname> attacks, defending player drinks 1 for each attacking creature.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, defending player drinks 1 for each attacking creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

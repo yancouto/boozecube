@@ -20,7 +20,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a><soft-line>
 		</soft-line><soft-line>
-		</soft-line>When <atom-cardname><nospellcheck>Rô, the Oracle of Half-Truths</nospellcheck></atom-cardname> enters, choose an opponent. That player looks at the top 3 cards of your library and separates them into a face up and a face down pile. Put one pile in your hand and the other into your graveyard. 
+		</soft-line>When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose an opponent. That player looks at the top 3 cards of your library and separates them into a face up and a face down pile. Put one pile in your hand and the other into your graveyard. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

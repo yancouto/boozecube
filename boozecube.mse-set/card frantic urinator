@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<sym-auto>R</sym-auto>: <atom-cardname><nospellcheck>Frantic Urinator</nospellcheck></atom-cardname> gains <kw-0><nospellcheck><key>intoxicated</key></nospellcheck></kw-0> until end of turn.
-		<sym-auto>1</sym-auto>: Target creature can’t block <atom-cardname><nospellcheck>Frantic Urinator</nospellcheck></atom-cardname> this turn. Activate this ability only if <atom-cardname><nospellcheck>Frantic Urinator</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
+		<sym-auto>R</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-0><nospellcheck><key>intoxicated</key></nospellcheck></kw-0> until end of turn.
+		<sym-auto>1</sym-auto>: Target creature can’t block <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> this turn. Activate this ability only if <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“Out of my way, I need to piss!”</i-flavor>
 	power: 4
 	toughness: 2

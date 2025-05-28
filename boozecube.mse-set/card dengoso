@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Fratboy</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dwarf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: At the beginning of your upkeep, <atom-cardname><nospellcheck>Dengoso</nospellcheck></atom-cardname> deals 1 damage to each player. Each player drinks.
+	rule_text: At the beginning of your upkeep, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each player. Each player drinks.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Qual</error-spelling:en_US> <error-spelling:en_US>vai</error-spelling:en_US> <error-spelling:en_US>ser</error-spelling:en_US> o <error-spelling:en_US>nome</error-spelling:en_US> <error-spelling:en_US>dessa</error-spelling:en_US> <error-spelling:en_US>carta</error-spelling:en_US> <error-spelling:en_US>Pudim</error-spelling:en_US>?” — <error-spelling:en_US>Rica</i-flavor></error-spelling:en_US>
 	power: 4
 	toughness: 4

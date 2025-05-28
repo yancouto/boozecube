@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of each player’s upkeep, that player rolls a six sided dice. Put weight counters on <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname> equal to the rolled number.
-		<sym-auto>3</sym-auto>: Roll a six sided dice. Put weight counters on <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname> equal to the rolled number. Any player may activate this ability.
-		Whenever <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname> has 20 or more weight counters on it, the active player takes a shot and remove all counters from <atom-cardname><nospellcheck>The Bowl</nospellcheck></atom-cardname>.
+		At the beginning of each player’s upkeep, that player rolls a six sided dice. Put weight counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> equal to the rolled number.
+		<sym-auto>3</sym-auto>: Roll a six sided dice. Put weight counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> equal to the rolled number. Any player may activate this ability.
+		Whenever <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> has 20 or more weight counters on it, the active player takes a shot and remove all counters from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: sa
 	card_code_text: 

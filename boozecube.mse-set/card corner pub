@@ -17,8 +17,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This land</atom-cardname> enters with three tab counters to it.
-		<sym-auto>T</sym-auto>, Remove a tab counter from <atom-cardname><nospellcheck>Corner Pub</nospellcheck></atom-cardname>: Add one mana of any color.
-		Drink </sym>8<sym>, <sym-auto>T</sym-auto>: Put three tab counters on <atom-cardname><nospellcheck>Corner Pub</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Remove a tab counter from <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>: Add one mana of any color.
+		Drink </sym>8<sym>, <sym-auto>T</sym-auto>: Put three tab counters on <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
