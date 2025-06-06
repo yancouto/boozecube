@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 21:32:53
-	time_modified: 2025-05-08 16:48:41
+	time_modified: 2025-06-06 00:48:46
 	name: Montezuma’s Revenge
 	casting_cost: BB
 	image: image108.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Sacrifice a creature: Target player drinks 4<sym></sym>, and you gain life equal to the sacrifice creature’s toughness.
+	rule_text: Sacrifice a creature: Target player drinks </sym>5<sym>, and you gain life equal to the sacrifice creature’s toughness.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 16:40:47
-	time_modified: 2025-05-12 02:23:37
+	time_modified: 2025-06-05 23:34:50
 	name: Jackass Dwarf
 	casting_cost: 1RR
 	image: image376.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, it deals 2 damage to each non-dwarf creature.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, it deals 2 damage to each non-Dwarf creature.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: whenever it dies create inves de só se sacar
+	notes: whenever it dies create inves de só se sacar — ruas
 	time_created: 2025-03-29 18:32:09
-	time_modified: 2025-05-12 02:46:10
+	time_modified: 2025-06-06 00:56:08
 	name: Mysterious Egg
 	casting_cost: 2G
 	image: image421.png
@@ -21,7 +21,7 @@ card:
 		At the beginning of your upkeep, roll a d6. On a 6 sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> and create a 6/6 green “Hatched Dinosaur” creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
-	toughness: 1
+	toughness: 3
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

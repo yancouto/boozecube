@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-19 17:16:54
+	time_modified: 2025-06-06 00:44:00
 	name: Milwaukee’s Beast
 	casting_cost: G
 	image: image633.png
@@ -13,12 +13,14 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature.</param-name></key></nospellcheck></kw-a>
-		Enchanted creatures gets +2/+0 and has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creatures gets +2/+0 and has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
 		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> is put into the graveyard from the battlefield, return it to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

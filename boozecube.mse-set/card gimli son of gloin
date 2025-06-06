@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 18:26:51
-	time_modified: 2025-05-08 16:13:05
+	time_modified: 2025-06-05 22:36:27
 	name: Gimli, Son of Gloin
 	casting_cost: 1RW
 	image: image69.png
@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-0><nospellcheck><key>Double strike</key></nospellcheck></kw-0>, <kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
-		If a spell or effect would cause a player to drink, that player drinks twice as much instead.
+		<kw-0><nospellcheck><key>Double strike</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>intoxicated</key></nospellcheck></kw-0>
+		If a source would cause a player to drink, that player drinks twice as much instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

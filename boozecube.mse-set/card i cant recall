@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 13:09:22
-	time_modified: 2025-05-12 02:18:59
+	time_modified: 2025-06-05 23:18:58
 	name: I Can’t Recall
 	casting_cost: U
 	image: image366.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Choose an opponent. That opponent may drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>XXXXX</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(X is at most 3.)</i-auto>
+		Choose an opponent. That opponent may drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>XXXXX</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(They choose </sym>X<sym> between 0 and 3.)</i-auto>
 		Draw 3-X cards.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

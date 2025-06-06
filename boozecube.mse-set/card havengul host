@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 11:21:16
-	time_modified: 2025-05-08 16:16:35
+	time_modified: 2025-06-05 23:03:08
 	name: Havengul Host
 	casting_cost: 4BB
 	image: image75.png
@@ -18,8 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Intimidate</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)</i-auto></atom-reminder-old></kw-A>
-		<sym>L/B</sym> <sym-auto>L/B</sym-auto>: You may play target creature in a graveyard this turn. <i-auto>(You still pay its costs.)</i-auto>
-		<i-auto>(<sym-auto>L/B</sym-auto> can be paid with <sym>B</sym> or drinking 3.)</i-auto>
+		<sym>L/B</sym> <sym-auto>L/B</sym-auto>: You may cast target creature in a graveyard this turn. treating colored mana symbols in their mana costs as liquid mana symbols of the same color.
 	flavor_text: <i-flavor>His martinis are simply to die for.</i-flavor>
 	power: 5
 	toughness: 4

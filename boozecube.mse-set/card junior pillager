@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Cumulative upkeep drink 1 (ou 2)
 	time_created: 2025-03-28 15:28:56
-	time_modified: 2025-05-08 16:43:54
+	time_modified: 2025-06-05 23:48:51
 	name: Junior Pillager
 	casting_cost: 2U
 	image: image90.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: You gain control or target artifact. The artifact has “At the beginning of your upkeep, sacrifice this artifact unless you drink 2.”
+	rule_text: Sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>: You gain control or target artifact. The artifact gains “At the beginning of your upkeep, sacrifice this artifact unless you drink 2.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

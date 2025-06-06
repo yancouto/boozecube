@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 18:16:48
-	time_modified: 2025-05-12 21:52:31
+	time_modified: 2025-06-05 23:37:21
 	name: Shots Fired
 	casting_cost: RR
 	image: image504.png
@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		As an additional cost to cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> take one or more shots.
-		Copy target instant or sorcery spell fro each shot you took this turn.
+		As an additional cost, take one or more shots.
+		Copy target instant or sorcery spell for each shot you took this turn.
 		You may choose new targets for the copies.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

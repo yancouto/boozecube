@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 21:05:27
-	time_modified: 2025-05-12 02:10:35
+	time_modified: 2025-06-05 22:26:11
 	name: Flip, Sip or Strip
 	casting_cost: BG
-	image: image337.png
+	image: image229.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		When you play <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname>, give it to any player.
-		During your upkeep, flip a coin. If heads, draw a card and pass <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> to the player on your left. Is tails, take a shot, and pass it to the player in your right.
+		During your upkeep, flip a coin. If heads, draw a card and pass <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> to the player on your left. If tails, take a shot, and pass it to the player in your right.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

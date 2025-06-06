@@ -11,10 +11,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: podia custar menos 3
 	time_created: 2025-03-23 13:51:02
-	time_modified: 2025-05-20 14:44:46
-	card_color: blue, black, hybrid, horizontal
+	time_modified: 2025-06-05 23:20:39
+	card_color: blue, black, multicolor, horizontal
 	name: Impair Cognition
 	casting_cost: 2UB
 	image: image367.png
@@ -28,7 +28,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Each opponent chooses a number of cards in their hand, drinks 3 for each card chosen this way and discard the rest.
+		Each opponent chooses a number of cards in their hand, drinks 3 for each card chosen this way and discards the rest.
 		Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

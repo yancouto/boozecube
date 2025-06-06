@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 14:20:10
-	time_modified: 2025-05-08 16:34:57
+	time_modified: 2025-06-05 23:38:53
 	name: Jagerbomb
 	casting_cost: 4
 	image: image86.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> enters tapped.
-		Take a shot: Put a fate counter on target permanent.
+		Take a shot: Put a fate counter on target permanent. Activate this ability only once per turn.
 		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 18:14:01
-	time_modified: 2025-05-12 02:41:28
+	time_modified: 2025-06-06 00:33:34
 	name: Master Baiter
 	casting_cost: 1U
 	image: image412.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Target creature an opponent controls attacks this turn if able.
-		<sym-auto>Q</sym-auto>: Target creature an opponent controls has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>Q</sym-auto>: Target creature an opponent controls gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>Come at me, bro.</i-flavor>
 	power: 1
 	toughness: 2

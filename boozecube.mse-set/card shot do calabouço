@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 23:38:00
-	time_modified: 2025-05-12 21:51:19
+	time_modified: 2025-06-05 23:36:59
 	name: Shot Do Calabouço
 	casting_cost: BRG
 	image: image502.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		As an additional cost to cast this spell, take a shot.
+		As an additional cost, take a shot.
 		Reveal the top card of your library. If it’s a permanent, you may put it onto the battlefield.
 		You can cast <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> from your graveyard.
 	flavor_text: <i-flavor></i-flavor>

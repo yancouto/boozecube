@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 12:16:12
-	time_modified: 2025-05-12 02:49:35
+	time_modified: 2025-06-05 23:36:46
 	name: Overdo
 	casting_cost: R
 	image: image435.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		As an additional cost to cast this card, sacrifice a land.
+		As an additional cost, sacrifice a land.
 		Add three mana of any color the sacrificed land could produce.
 		If the land sacrificed was a drink land, a random player chugs a beer.
 	flavor_text: <i-flavor></i-flavor>

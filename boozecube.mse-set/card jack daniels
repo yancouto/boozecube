@@ -5,12 +5,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 17:36:37
-	time_modified: 2025-05-19 17:07:25
+	time_modified: 2025-06-05 23:32:43
 	special_text:
 		[+2]: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.
-		</margin:130:0:0>
+		[-X]: <margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.</margin:130:0:0>
 	name: Jack Daniels
 	casting_cost: 4BB
 	image: image610.png
@@ -29,9 +28,7 @@ card:
 	loyalty: 3
 	level_1_text: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
-	level_3_text:
-		<margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.
-		</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.</margin:130:0:0>
 	illustrator: Old No. 7
 	card_code_text: 
 	card_code_text_2: 

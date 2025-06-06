@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: art too dark
 	time_created: 2025-03-21 19:08:09
-	time_modified: 2025-05-12 21:47:58
+	time_modified: 2025-06-06 00:43:38
 	card_color: blue
 	name: Midnight Negotiations
 	image: image389.png
@@ -25,8 +25,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
-		Pay 5 life, exile 1 card from your hand, drink 5<sym></sym>: Counter target spell.
-		<sym-auto>U</sym-auto>, Drink 2<sym></sym>, exile a card from your hand: Target spell can’t be countered.
+		Pay 5 life, exile a card from your hand, drink </sym>5<sym>: Counter target spell.
+		<sym-auto>U</sym-auto>, Drink </sym>2<sym>, exile a card from your hand: Target spell can’t be countered.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

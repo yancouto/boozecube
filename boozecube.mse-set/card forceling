@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 11:24:23
-	time_modified: 2025-05-08 16:11:36
+	time_modified: 2025-06-05 22:19:49
 	name: Forceling
 	casting_cost: 3BB
 	image: image64.png
@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
-		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>B</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-0><nospellcheck><key>intimidate</key></nospellcheck></kw-0> until end of turn.
 		<sym-auto>B</sym-auto>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets +1/-1 until end of turn.
 		<sym-auto>1</sym-auto>:  <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> gets -1/+1 until end of turn.

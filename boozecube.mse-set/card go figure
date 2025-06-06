@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 10:01:56
-	time_modified: 2025-05-12 02:13:19
+	time_modified: 2025-06-05 22:39:41
 	name: Go Figure
 	casting_cost: BB
 	image: image349.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Target player discards a random card.
-		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 7</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 7</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

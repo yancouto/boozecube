@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Adicionar vermelho WR ou UWR
 	time_created: 2025-03-23 20:57:48
-	time_modified: 2025-05-12 02:12:03
+	time_modified: 2025-06-05 22:30:52
 	name: Free-For-All
 	casting_cost: 3WU
 	image: image343.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile all other non-land permanents.
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, exile all other nonland permanents.
 		At the beginning of each player’s upkeep, that player chooses a card exiled with <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> at random and puts it onto the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

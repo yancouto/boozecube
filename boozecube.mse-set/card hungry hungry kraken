@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 15:09:39
-	time_modified: 2025-05-12 02:18:12
+	time_modified: 2025-06-05 23:16:39
 	name: Hungry Hungry Kraken
 	casting_cost: 3UUU
 	image: image365.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This creature</atom-cardname> can’t attack unless defending player controls an Island.
-		<sym-auto>1UU</sym-auto>: Target land whose controller has drank 3 or more this turn becomes a basic Island.
+		<sym-auto>1UU</sym-auto>: Target land whose controller has drank 3 or more this turn becomes a basic Island. <i-auto>(This effect doesn’t end.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 8

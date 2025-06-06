@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: add R to flashback
 	time_created: 2025-03-22 18:14:40
-	time_modified: 2025-05-12 02:32:03
+	time_modified: 2025-06-06 00:05:25
 	name: Last Call
 	casting_cost: RRR
 	image: image387.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Add <sym-auto>RRRRRR</sym-auto>. You may use this mana only to cast instants or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		Add <sym-auto>RRRRRR</sym-auto>. You may use this mana only to cast instants and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 6</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

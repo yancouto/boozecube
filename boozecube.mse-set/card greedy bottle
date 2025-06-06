@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-27 15:44:04
-	time_modified: 2025-05-12 02:14:01
+	time_modified: 2025-06-05 22:41:53
 	name: Greedy Bottle
 	casting_cost: 2
 	image: image353.png
@@ -26,8 +26,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Draft <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> card face up. Instead of drafting a card in a pack, you may draft all cards instead.
-		If you do, turn this card face down and do not draft any more cards this round. Drink for each card taken.
+		Draft this card face up.
+		Instead of drafting a card in a pack, you may draft all cards instead. If you do, turn this card face down and do not draft any more cards this pack. Drink for each card taken.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1

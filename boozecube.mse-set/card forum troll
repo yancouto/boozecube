@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:27:29
-	time_modified: 2025-05-08 16:11:50
+	time_modified: 2025-06-05 22:24:05
 	name: Forum Troll
 	casting_cost: 2GG
 	image: image66.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Provoke</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)</i-auto></atom-reminder-expert></kw-A>
-		<sym-auto>G</sym-auto>, Drink <sym></sym>2: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> Forum Troll.
+		<sym-auto>G</sym-auto>, Drink </sym>2<sym>: <kw-0><nospellcheck><key>Regenerate</key></nospellcheck></kw-0> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor>You know that you shouldn’t feed him. But sometimes, you just can’t help yourself.</i-flavor>
 	power: 4
 	toughness: 3

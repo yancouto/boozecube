@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 17:06:02
-	time_modified: 2025-05-12 02:39:24
+	time_modified: 2025-06-06 00:22:01
 	name: Lose Your Friends
 	casting_cost: 1RR
 	image: image401.png
@@ -13,13 +13,15 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell>Arcane</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		Destroy target land.
 		If it was a drink land, its controller drinks 3.
-	flavor_text: <i-flavor>“Sinkhole, pillage, <error-spelling:en_US>stripmine</error-spelling:en_US>, wasteland e <error-spelling:en_US>armageddon</error-spelling:en_US>? <error-spelling:en_US>Qual</error-spelling:en_US> o <error-spelling:en_US>seu</error-spelling:en_US> <error-spelling:en_US>problema</error-spelling:en_US>?!”</i-flavor>
+	flavor_text: <i-flavor>“Sinkhole, Pillage, Strip Mine, Wasteland e Armageddon? <error-spelling:en_US>Qual</error-spelling:en_US> o <error-spelling:en_US>seu</error-spelling:en_US> <error-spelling:en_US>problema</error-spelling:en_US>?!”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

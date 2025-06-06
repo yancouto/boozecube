@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 17:38:42
-	time_modified: 2025-05-08 16:45:34
+	time_modified: 2025-06-06 00:09:57
 	name: Life of the Party
 	casting_cost: 2R/GR/G
 	image: image97.png
@@ -26,7 +26,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
-		Other <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creatures you control are <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+		Other <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creatures you control have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>Once a party takes on a life of its own, there’s often no stopping it. You might as well just hang on and enjoy the ride.</i-flavor>
 	power: 3
 	toughness: 3

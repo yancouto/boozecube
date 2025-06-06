@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 18:20:08
-	time_modified: 2025-05-08 16:45:51
+	time_modified: 2025-06-06 00:18:46
 	name: Lords of South Padre
 	casting_cost: W
 	image: image98.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals combat damage, each player drinks 2.
-		Drink <sym></sym>X: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-A><nospellcheck><key>absorb <param-number>X</param-number></key></nospellcheck> until end of turn.<atom-reminder-expert> <i-auto>(If a source would deal damage to this creature, prevent <param-number>X</param-number> of that damage.)</i-auto></atom-reminder-expert></kw-A>
+		Drink </sym>X<sym>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-A><nospellcheck><key>absorb <param-number>X</param-number></key></nospellcheck> until end of turn. Activate only once per turn.<atom-reminder-expert> <i-auto>(If a source would deal damage to this creature, prevent <param-number>X</param-number> of that damage.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Paradoxically, bonging boxed wine was both the best idea ever and the worst idea ever.</i-flavor>
 	power: 2
 	toughness: 1

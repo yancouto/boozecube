@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 18:03:02
-	time_modified: 2025-05-12 02:41:54
+	time_modified: 2025-06-06 00:37:47
 	name: Mayhem
 	casting_cost: 3R
 	image: image414.png
@@ -26,7 +26,7 @@ card:
 	sub_type: <word-list-race-en>Incarnation</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>XXR</sym-auto>: Flip a coin. If you win, all unblocked creatures get +X/+0 and are <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+	rule_text: <sym-auto>XXR</sym-auto>: Flip a coin. If you win, all unblocked creatures get +X/+0 and gain <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>I’m your trade binder. You triple-stuffed my pockets full of bulk, and now I drop money cards when you turn me on the wrong way. Notice your <error-spelling:en_US>Jace</error-spelling:en_US> on the floor? Of course not.</i-flavor>
 	power: 3
 	toughness: 3

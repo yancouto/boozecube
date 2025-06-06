@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 13:16:51
-	time_modified: 2025-05-12 02:09:52
+	time_modified: 2025-06-05 22:16:04
 	name: Fishsticks
 	casting_cost: UU
 	image: image335.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		The next time a spell or ability an opponent controls would require you to drink X<sym></sym>, target player drinks XX instead.
+		The next time a source an opponent controls would require you to drink </sym>X<sym>, target player drinks XX instead.
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: You like fishsticks? What, are you a gay fish?

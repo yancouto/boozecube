@@ -1,9 +1,11 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes:
+		deleta essa carta — ruas
+		2ur — yan couto
 	time_created: 2025-03-28 12:13:12
-	time_modified: 2025-05-20 13:22:18
+	time_modified: 2025-06-06 00:26:12
 	name: Magic World Record Holder
 	casting_cost: 1UR
 	image: image406.png
@@ -20,6 +22,8 @@ card:
 		Speed <kw-0><nospellcheck><key>exploit</key></nospellcheck></kw-0> <i-auto>(Every card you own or control has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>split second</key></nospellcheck></kw-0>.)</i-auto>
 		Your turn consists only of the untap step, draw step and combat phase. At the end of that combat phase, end the turn.
 	flavor_text: <i-flavor>To PB pace!!</i-flavor>
+	power: 2
+	toughness: 2
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

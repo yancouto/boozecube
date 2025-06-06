@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 22:35:19
-	time_modified: 2025-05-12 02:14:26
+	time_modified: 2025-06-05 22:44:16
 	name: Group Drink
 	casting_cost: W
 	image: image354.png
@@ -23,8 +23,7 @@ card:
 		<i-flavor>“Here’s to all of you, here’s to me,
 		Together as friends we’ll always be,
 		But if we should ever disagree,
-		Then fuck all of you, here’s to me!
-		- Tucker Max</i-flavor>
+		Then fuck all of you, here’s to me!”</i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

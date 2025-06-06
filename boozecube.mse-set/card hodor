@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 21:25:00
-	time_modified: 2025-05-08 16:17:36
+	time_modified: 2025-06-05 23:11:44
 	name: Hodor
 	casting_cost: 4WW
 	image: image78.png
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, you may return a permanent with converted mana cost 3 or less from your graveyard to the battlefield.
-		When you say a word other than “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hodor</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>,” sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters or attacks, you may return a permanent with mana value 3 or less from your graveyard to the battlefield.
+		When you say a word other than “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hodor</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”, sacrifice <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 8

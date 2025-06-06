@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-27 22:19:38
-	time_modified: 2025-05-08 16:49:14
+	time_modified: 2025-06-06 00:53:56
 	name: Mr. Hankey, the Christmas Poo
 	casting_cost: 3B/GB/G
 	image: image111.png
@@ -25,12 +25,12 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Whenever a creature enters under your control, drink <sym-auto>X</sym-auto>, where X is its mana value.
+		Whenever a creature enters under your control, drink </sym>X<sym>, where X is its mana value.
 		<sym-auto>B/G</sym-auto>, <sym-auto>T</sym-auto>: Sacrifice a creature, then put another target creature from any graveyard onto the battlefield under your control.
 	flavor_text:
 		<i-flavor>It’s the poo of the antelope, the poo of the giraffe
 		Which crawls up to the earth, and becomes the blades of grass
-		The grass is eaten by the cattle, which comes out the other and
+		The grass is eaten by the cattle, which comes out the other end
 		To make poo for the humans, and start all over again.</i-flavor>
 	power: 2
 	toughness: 4

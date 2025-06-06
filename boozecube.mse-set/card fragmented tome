@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 14:33:54
-	time_modified: 2025-05-12 02:10:48
+	time_modified: 2025-06-05 22:24:27
 	name: Fragmented Tome
 	casting_cost: 2
 	image: image338.png
@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Split cards you own have <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0>.  <i-auto>(You may cast both halves of them from your hand.)</i-auto>
-		<sym-auto>U</sym-auto>: Search your library fora a split card, reveal it, then put it into your hand. Shuffle. Activate only as a sorcery and only per turn.
+		Split cards you own have <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0>. <i-auto>(You may cast both halves of them from your hand.)</i-auto>
+		<sym-auto>U</sym-auto>: Search your library for a split card, reveal it, then put it into your hand. Shuffle. Activate only as a sorcery and only per turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

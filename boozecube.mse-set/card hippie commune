@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:43:38
-	time_modified: 2025-05-08 16:17:19
+	time_modified: 2025-06-05 23:09:49
 	name: Hippie Commune
 	image: image77.png
 	image_2: 
@@ -12,9 +12,11 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
 		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.

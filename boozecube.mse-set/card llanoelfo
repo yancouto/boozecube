@@ -2,11 +2,11 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2025-03-29 19:31:43
-	time_modified: 2025-06-05 22:22:22
-	name: Find Booze Elves
-	casting_cost: L/GG
-	image: image221.png
+	time_created: 2025-03-29 19:33:26
+	time_modified: 2025-06-06 00:13:08
+	name: Llanoelfo
+	casting_cost: G
+	image: image395.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -17,11 +17,11 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>
-		<sym-auto>L/G</sym-auto>: Untap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. You can only use this ability once per turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if an opponent drank this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 2
+	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

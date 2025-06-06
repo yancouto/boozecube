@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 21:58:47
-	time_modified: 2025-05-12 02:45:49
+	time_modified: 2025-06-06 00:52:13
 	name: Motion-Sensor-Bomb
 	casting_cost: 1B
 	image: image419.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		As <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, choose one of enchanted player’s hand, that player balances this card on the back of that hand.
+		As <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> enters, choose one of enchanted player’s hands, that player balances this card on the back of that hand.
 		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> falls off the chosen hand, sacrifice it, then enchanted player loses 3 life and takes a shot.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

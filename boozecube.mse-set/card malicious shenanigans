@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: Não tar com o Emoji de imagem quebra o ciclo
+	notes: 
 	time_created: 2025-03-23 12:28:47
-	time_modified: 2025-05-12 02:40:37
+	time_modified: 2025-06-06 00:28:19
 	name: Malicious Shenanigans
 	casting_cost: 1B
-	image: image407.png
+	image: image252.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

@@ -2,29 +2,51 @@
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
-	has_styling: false
-	notes: Falta o outro lado
+	has_styling: true
+	styling_data:
+		dfc_type: transforming
+		front_style: normal
+		back_style: 3 ability planeswalker
+		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Falta a foto do outro lado
 	time_created: 2025-03-29 16:48:14
-	time_modified: 2025-05-20 10:19:34
+	time_modified: 2025-06-05 22:58:09
+	special_text_2:
+		[+3]: <margin:130:0:0>Drink 5. Target player chugs a beer.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Put target permanent at the bottom of its controller’s library.</margin:130:0:0>
+		[-9]: <margin:130:0:0>You get an emblem with “Whenever a player drinks, create a 1/1 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token, then each creature you control gets a +1/+1 counter”.</margin:130:0:0>
+	card_color_2: white, red, multicolor, horizontal
 	name: Guzman, the Jock
-	name_2: [?]
+	name_2: Guzmão, the Redeemed
 	casting_cost: R/WR/W
-	image: image355.png
-	image_2: 
+	image: image232.png
+	image_2: image_23.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
+	sub_type_2: <word-list-planeswalker>Fratboy</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Redemption <param-number>100</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature enters with <param-number>100</param-number> redemption counters. Remove one for each drink you take and fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>, <kw-1><nospellcheck><key>Melee</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</i-auto></atom-reminder-expert></kw-1>
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> blocks a creature, that creature gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> has no more <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0>, transform it.
+	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	loyalty_cost_9: +3
+	loyalty_cost_10: -2
+	loyalty_cost_11: -9
+	loyalty_2: 5
+	level_9_text: <margin:130:0:0>Drink 5. Target player chugs a beer.</margin:130:0:0>
+	level_10_text: <margin:130:0:0>Put target permanent at the bottom of its controller’s library.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>You get an emblem with “Whenever a player drinks, create a 1/1 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token, then each creature you control gets a +1/+1 counter”.</margin:130:0:0>
 	power: 0
 	toughness: 2
 	card_code_text: 

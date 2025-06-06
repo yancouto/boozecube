@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Podia custar 1R
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 02:09:37
+	time_modified: 2025-06-05 22:12:57
 	name: Fire Bress
 	casting_cost: 2R
 	image: image333.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>R</sym-auto>: Target creature you control gets +1/+0 <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn. <i-auto>(It deals damage to players in the form of drinks.)</i-auto>
+	rule_text: <sym-auto>R</sym-auto>: Target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn. <i-auto>(It deals damage to players in the form of drinks.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	card_code_text: 

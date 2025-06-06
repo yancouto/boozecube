@@ -10,7 +10,14 @@ card:
 		override_levels: three abilities
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:
+		nerfar<soft-line>
+		<soft-line>
+		</soft-line>sugestões<soft-line>
+		</soft-line><soft-line>
+		untap X target lands you control <soft-line>
+		<soft-line>
+		0: drink YYY</soft-line></soft-line></soft-line></soft-line>
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-05-19 17:14:56
 	special_text:

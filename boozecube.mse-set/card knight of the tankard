@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: podia ser drink 2 e gets +2/0
 	time_created: 2025-03-29 16:55:58
-	time_modified: 2025-05-12 02:31:25
+	time_modified: 2025-06-06 00:01:55
 	name: Knight of the Tankard
 	casting_cost: 3RR
 	image: image385.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Drink 1<sym></sym>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		Drink </sym>1<sym>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+0 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 		At the beginning of each end step, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 1 damage to each player who didn’t drink this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4

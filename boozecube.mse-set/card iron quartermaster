@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 17:57:46
-	time_modified: 2025-05-19 17:26:08
+	time_modified: 2025-06-05 23:27:12
 	name: Iron Quartermaster
 	casting_cost: 1RR
 	image: image648.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Dwarf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>1R</sym-auto>: Attempt to bounce a quarter into an empty cup. If you are successful, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals damage equal to its power to target creature or player. If not, drink <sym-auto>X</sym-auto>, where X is <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s power. <i-auto>(3 tries)</i-auto>
+	rule_text: <sym-auto>1R</sym-auto>: Attempt to bounce a coin into an empty cup. If you are successful, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals damage equal to its power to target creature or player. If not, drink </sym>X<sym>, where X is <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>’s power. <i-auto>(3 tries)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
