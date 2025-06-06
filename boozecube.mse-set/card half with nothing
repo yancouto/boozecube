@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 10:36:49
-	time_modified: 2025-05-27 21:08:50
+	time_modified: 2025-06-06 01:10:43
 	name: Half with Nothing
 	casting_cost: BBB
 	image: image187.png
@@ -19,7 +19,7 @@ card:
 	rule_text:
 		Each player loses half of their life, then discards half of their hand, then sacrifices half of the creature they control, then drinks half of their drinking beverage.
 		Round up each time.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>When something remains, everything is equally possible.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
