@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 17:33:31
-	time_modified: 2025-05-19 17:08:32
+	time_modified: 2025-06-09 22:19:20
 	name: Phyrexian Pony
 	casting_cost: 1BB
 	image: image612.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever a creature damaged by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, its controller drinks.
+		Whenever a creature damaged by <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, its controller drinks its mana value.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

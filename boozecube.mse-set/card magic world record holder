@@ -3,11 +3,11 @@ card:
 	has_styling: false
 	notes:
 		deleta essa carta — ruas
-		2ur — yan couto
+
 	time_created: 2025-03-28 12:13:12
-	time_modified: 2025-06-06 00:26:12
+	time_modified: 2025-06-09 21:44:18
 	name: Magic World Record Holder
-	casting_cost: 1UR
+	casting_cost: 2UR
 	image: image406.png
 	image_2: 
 	mainframe_image: 

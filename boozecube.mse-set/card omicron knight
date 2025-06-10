@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 17:14:51
-	time_modified: 2025-05-12 02:48:51
+	time_modified: 2025-06-09 22:05:02
 	name: Omicron Knight
 	casting_cost: 1R/WR/W
 	image: image432.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, secretly name a player. The next time you are attacked, reveal the name. If it was the player, they chug a beer.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, secretly choose a player. The next time you are attacked, reveal your choice. If it was the attacking player, they chug a beer.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

@@ -3,21 +3,23 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:14:18
-	time_modified: 2025-05-08 16:59:58
+	time_modified: 2025-06-09 23:26:46
 	name: Sixth Street
 	image: image148.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
-		<atom-name>This spell</atom-cardname> enters tapped unless you drink 5.
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Search your library for a basic land and put it into play tapped, then shuffle. Return <atom-cardname><nospellcheck>this spell</nospellcheck></atom-cardname> to your hand at the end of the turn.
+		<atom-name>This land</atom-cardname></atom-cardname><atom-name> enters tapped unless you drink 5.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Search your library for a basic land and put it into play tapped, then shuffle. Return <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> to your hand at the end of the turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

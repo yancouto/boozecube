@@ -10,11 +10,11 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-21 19:35:04
-	time_modified: 2025-05-12 21:46:16
+	time_modified: 2025-06-09 23:11:54
 	name: Salt
 	name_2: Lime
 	casting_cost: 1W
-	casting_cost_2: 5G
+	casting_cost_2: 4G
 	image: image494.png
 	image_2: image_25.png
 	mainframe_image: 
@@ -26,7 +26,7 @@ card:
 	sub_type_2: <word-list-spell></word-list-spell>
 	sub_type_3: 
 	rule_text: The next time a spell or ability would cause a single player to drink X<sym></sym>, each other player also drinks X.
-	rule_text_2: Put a green 1/1 Worm token onto the battlefield for each land that you control.
+	rule_text_2: Put a green 1/1 Worm token onto the battlefield for each land you control.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	card_code_text: 

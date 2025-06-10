@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 15:41:24
-	time_modified: 2025-05-12 02:50:38
+	time_modified: 2025-06-09 22:15:38
 	name: Peg-Leg Petrax
 	casting_cost: 2U/RU/R
 	image: image441.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-A><nospellcheck><key>Multikicker <param-cost><sym-auto>U/R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>U/R</sym-auto></param-mana> any number of times as you cast this spell.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose target player, then choose another target player for each time it was kicked. Each player targeted drinks <sym></sym>X, where X is the number of instants and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in your graveyard.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose target player, then choose another target player for each time it was kicked. Each targeted player drinks for each instant and sorcery in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

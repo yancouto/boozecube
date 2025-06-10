@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-27 21:17:02
-	time_modified: 2025-05-19 17:23:55
+	time_modified: 2025-06-09 22:48:11
 	name: Racist Slime
 	casting_cost: 2B
 	image: image645.png
@@ -29,7 +29,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, choose a creature type.
 		Creatures of the chosen type get -1/-1.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>“ALL <error-spelling:en_US>SLIMES</error-spelling:en_US> MATTER!!”</i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 

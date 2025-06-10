@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 23:38:00
-	time_modified: 2025-06-05 23:36:59
+	time_modified: 2025-06-09 23:21:35
 	name: Shot Do Calabouço
 	casting_cost: BRG
 	image: image502.png
@@ -13,9 +13,11 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell>Arcane</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		As an additional cost, take a shot.
 		Reveal the top card of your library. If it’s a permanent, you may put it onto the battlefield.

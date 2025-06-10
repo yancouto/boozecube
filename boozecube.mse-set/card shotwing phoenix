@@ -3,8 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 21:52:37
-	name: Shotwing Phoenix
+	time_modified: 2025-06-09 23:23:24
+	name: [?]Shotwing Phoenix
 	casting_cost: 3R
 	image: image505.png
 	image_2: 
@@ -21,6 +21,8 @@ card:
 		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may take a shot, if you don’t, <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> deals 4 damage to you.
 		<sym-auto>1RR</sym-auto>: Return <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 2
 	illustrator: 
 	card_code_text: 
 	card_code_text_2: 
@@ -28,3 +30,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 

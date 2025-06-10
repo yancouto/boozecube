@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 13:24:01
-	time_modified: 2025-05-08 16:56:01
+	time_modified: 2025-06-09 22:46:47
 	name: Pussify
 	casting_cost: 1U
 	image: image134.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Target creature you don’t control loses all abilities and is a 1/1 Cat until end of turn. Its controller drinks <sym-auto>X</sym-auto>, where X is the creature’s mana value.
+		Target creature you don’t control loses all abilities and is a 1/1 Cat until end of turn. Its controller drinks its mana value.
 		<kw-A><nospellcheck><key>Overload <param-cost><sym-auto>4UUUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Such a cute pussy

@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 14:50:04
-	time_modified: 2025-04-27 17:59:52
+	time_modified: 2025-06-09 22:39:32
 	name: Prism
-	casting_cost: 3
+	casting_cost: 2
 	image: image1.png
 	image_2: 
 	mainframe_image: 
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>1</sym-auto>, drink for each color among permanents you control, <sym-auto>T</sym-auto>: Add <sym-auto>WUBRG</sym-auto>. This mana can only be used to pay for colored mana costs.
+	rule_text: <sym-auto>1</sym-auto>, Drink for each color among permanents you control, <sym-auto>T</sym-auto>: Add <sym-auto>WUBRG</sym-auto>. This mana can only be used to pay for colored mana costs.
 	flavor_text: <i-flavor>Even darkness cannot escape when the prism calls it to reflect.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

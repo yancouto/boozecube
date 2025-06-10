@@ -1,10 +1,10 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: imagem foto andarilho
 	time_created: 2025-03-26 16:35:55
-	time_modified: 2025-05-12 21:43:10
-	card_color: white, black, hybrid, horizontal
+	time_modified: 2025-06-09 23:04:15
+	card_color: white, black, multicolor, horizontal
 	name: Rolê Andarilho
 	casting_cost: 3WB
 	image: image483.png

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: poderia tirar ela do cubo
 	time_created: 2025-03-28 22:45:31
-	time_modified: 2025-06-06 00:02:34
+	time_modified: 2025-06-09 21:41:49
 	name: Lady Grinder
 	casting_cost: 2RR
 	image: image618.png
@@ -20,8 +20,8 @@ card:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>
 		If you win the game with <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, you may generate a bunch of pointless controversy.
 	flavor_text: <i-flavor>Amazingly, just as effective as any other creature.</i-flavor>
-	power: 4
-	toughness: 3
+	power: 5
+	toughness: 4
 	illustrator: Mary Jacobson
 	card_code_text: 
 	card_code_text_2: 

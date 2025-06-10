@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 21:32:20
+	time_modified: 2025-06-09 22:44:01
 	name: Pudim’s Pact
 	casting_cost: 2GG
 	image: image467.png
@@ -19,7 +19,7 @@ card:
 	rule_text:
 		At the beginning of your upkeep, choose one that hasn’t been chosen —<soft-line>
 		- </soft-line>Each creature you control may <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> another target creature you don’t control.
-		- Until end of turn, creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+		- Until end of turn, creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
 		- Search your library for up to two creatures and put them in your hand, then shuffle.
 		- Take 4 shots.
 	flavor_text: <i-flavor></i-flavor>

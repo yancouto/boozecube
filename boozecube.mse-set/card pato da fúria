@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 22:35:57
-	time_modified: 2025-05-20 11:56:27
+	time_modified: 2025-06-09 22:12:24
 	name: Pato da Fúria
 	casting_cost: 1WU
 	image: image438.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Once per turn, whenever you say the name of this card, unless an opponents says “quack” in 5 seconds, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		Once per turn, whenever you say the name of this card, unless an opponents says “Quack” in 5 seconds, put a +1/+1 counter on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 4

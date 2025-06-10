@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 17:10:16
-	time_modified: 2025-05-08 16:56:39
+	time_modified: 2025-06-09 22:57:09
 	name: Redneck
 	casting_cost: 2R
 	image: image138.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, you may search your library for a creature card with <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>. If you do, reveal that card and put it into your hand, then shuffle.
+	rule_text: When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters, search your library for a creature card with <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>, reveal it and put it into your hand, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

@@ -12,19 +12,22 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-27 15:52:33
-	time_modified: 2025-05-12 02:49:59
+	time_modified: 2025-06-09 22:12:16
 	name: Party Starter
 	casting_cost: 1
 	image: image437.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Bottle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Artifact</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bottle</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
+	rarity: special
 	rule_text: When you draft this card, reveal it, then all other players in the draft take a shot.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Skal</error-spelling:en_US>! <error-spelling:en_US>Prost</error-spelling:en_US>! <error-spelling:en_US>Kanpai</error-spelling:en_US>!”</i-flavor>
 	power: 1

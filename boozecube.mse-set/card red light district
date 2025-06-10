@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:03:48
-	time_modified: 2025-05-12 21:36:49
+	time_modified: 2025-06-09 22:55:28
 	card_color: land
 	name: Red Light District
 	image: image458.png
@@ -18,8 +18,8 @@ card:
 	sub_type_3: 
 	rule_text:
 		<atom-name>This land</atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
-		Pay 2 life, <sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>. If this mana is used to cast creature spell, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		Pay 2 life, <sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. If this mana is used to cast creature spell, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>Hurry up gentlemen, it’s time to get us some whores!</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

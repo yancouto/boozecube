@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 21:31:14
-	time_modified: 2025-05-12 02:49:27
+	time_modified: 2025-06-09 22:09:19
 	name: Order of the Bottle
 	casting_cost: 1WW
 	image: image434.png
@@ -19,7 +19,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Drinkcycling <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>3</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
-		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, creatures you control gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		When you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>, if you control a Plains, creatures you control gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

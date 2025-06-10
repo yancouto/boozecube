@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-28 12:17:30
-	time_modified: 2025-05-08 16:54:33
+	time_modified: 2025-06-09 22:28:28
 	name: Plankwalker
 	casting_cost: UU
 	image: image127.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Whenever you cast a Pirate spell, you may have target player drink <sym></sym>X, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>blue</param-one_word></key></nospellcheck>.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>U</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>blue</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Whenever a Pirate enters under your control, you may have target player drink </sym>X<sym>, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>blue</param-one_word></key></nospellcheck>.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>U</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>blue</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

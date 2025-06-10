@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 17:25:02
-	time_modified: 2025-05-12 21:18:25
+	time_modified: 2025-06-09 22:25:33
 	name: Plainswalker
 	casting_cost: G
 	image: image428.png
@@ -17,8 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Destroy target planeswalker. <kw-0><nospellcheck><key><param-prefix>Its controller creates a 2/2 green elk creature token with <kw-1>plains</param-prefix>walk</key></nospellcheck></kw-0>. <i-auto>(That creature can’t be blocked as long as defending player controls a plains.)</i-auto>
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Drinkcycle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 3 <i-auto>(Discard this card, drink <sym-auto>3</sym-auto>, draw a card)</i-auto>
+		Destroy target planeswalker. <kw-0><nospellcheck><key><param-prefix>Its controller creates a 2/2 green elk creature token with <kw-0>plains</param-prefix>walk</key></nospellcheck></kw-0>. <i-auto>(That creature can’t be blocked as long as defending player controls a plains.)</i-auto><soft-line>
+		<soft-line>
+		<kw-1><nospellcheck><key>Drinkcycling <param-number>3</soft-line></soft-line></param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>3</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

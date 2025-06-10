@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 21:42:52
+	time_modified: 2025-06-09 23:04:09
 	name: Rocky Cliffs
 	casting_cost: 1RR
 	image: image482.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Creatures you control enter with 5 <kw-A><nospellcheck><key>redemption counters</key></nospellcheck>.<atom-reminder-expert> <i-auto>(Remove one redemption counter from your creatures for each drink you take, or fifteen for each chug/shot.)</i-auto></atom-reminder-expert></kw-A>
-		Creatures with <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0> have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and first-strike.
+		Creatures with <kw-0><nospellcheck><key>redemption counters</key></nospellcheck></kw-0> have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	card_code_text: 

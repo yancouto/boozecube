@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 23:10:59
-	time_modified: 2025-05-12 02:50:44
+	time_modified: 2025-06-09 22:17:14
 	name: Perdidasso
 	casting_cost: 4U
 	image: image442.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Shuffle target creature you don’t own into your library.
+	rule_text: Shuffle target creature you don’t own into your library. <i-auto>(Give the card back to its owner after the match.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

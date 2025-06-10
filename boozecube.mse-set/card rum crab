@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: imagem 
 	time_created: 2025-03-28 15:02:21
-	time_modified: 2025-05-12 21:44:01
+	time_modified: 2025-06-09 23:07:42
 	name: Rum Crab
 	casting_cost: U
 	image: image487.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Crab</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — When a land you control enters, target player drinks 3. That player drinks 6 instead if it is a drink land.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — When a land you control enters, target player drinks 3. That player drinks 9 instead if it is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>drinkland</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
