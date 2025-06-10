@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name>This land</atom-cardname></atom-cardname><atom-name> enters tapped unless you drink 5.
+		<atom-name>This land</atom-cardname> enters tapped unless you drink 5.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Search your library for a basic land and put it into play tapped, then shuffle. Return <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> to your hand at the end of the turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

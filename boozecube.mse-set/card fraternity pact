@@ -18,7 +18,6 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This spell</atom-cardname> is white.
 		Prevent all damage from a source of your choice until end of turn. Create X 1/1 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature tokens where X is the half of the damage prevented, rounded up.
 		At the beginning of your next upkeep, take a shot. If you don’t, you lose the game.
 	flavor_text: <i-flavor></i-flavor>
