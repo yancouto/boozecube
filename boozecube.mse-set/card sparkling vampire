@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 17:51:32
-	time_modified: 2025-05-19 17:09:05
+	time_modified: 2025-06-09 23:38:53
 	name: Sparkling Vampire
 	casting_cost: 3B
 	image: image613.png
@@ -16,7 +16,10 @@ card:
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Vampires you control lose all credibility.
+	rule_text:
+		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a><soft-line>
+		<soft-line>
+		</soft-line></soft-line>Vampires you control lose all credibility.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

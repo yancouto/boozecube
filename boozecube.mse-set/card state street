@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:21:44
-	time_modified: 2025-05-19 17:01:58
+	time_modified: 2025-06-09 23:44:07
 	name: State Street
 	image: image603.png
 	image_2: 
@@ -12,13 +12,15 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<atom-name>This land</atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
-		<sym-auto>4</sym-auto>, Drink 6<sym></sym>, <sym-auto>T</sym-auto>: Search your library for up to two basic lands and put them on the battlefield tapped, then shuffle.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>4</sym-auto>, Drink </sym>6<sym>, <sym-auto>T</sym-auto>: Search your library for up to two basic lands and put them on the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Fuck’em bucks
 	card_code_text: 

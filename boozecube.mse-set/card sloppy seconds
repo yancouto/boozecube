@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 13:05:25
-	time_modified: 2025-05-08 17:00:28
+	time_modified: 2025-06-09 23:29:48
 	name: Sloppy Seconds
 	casting_cost: 1U
 	image: image150.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Return target creature to its owner’s hand.
-		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 4</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback—<param-cost> <sym-auto>U</sym-auto>, Drink 4</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor><error-spelling:en_US>Gork</error-spelling:en_US> couldn’t believe that he was on only his second beer. Of course, this was largely because <error-spelling:en_US>Gork</error-spelling:en_US> couldn’t count past two.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

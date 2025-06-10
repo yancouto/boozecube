@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: Teria que especificar se é rounded up or down (ps  2 manas flying 9/9 é op)
 	time_created: 2025-03-27 21:48:32
-	time_modified: 2025-06-05 23:37:36
+	time_modified: 2025-06-09 23:28:28
 	name: Skinny Demon
 	casting_cost: 1B
 	image: image3.png
@@ -16,6 +16,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	rarity: mythic rare
 	rule_text:
 		As an additional cost, take a shot of any beverage, and <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> enters with a +1/+1 counter for each 10% of alcohol in that beverage.
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>

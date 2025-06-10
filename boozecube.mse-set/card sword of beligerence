@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 14:06:59
-	time_modified: 2025-05-08 17:03:01
+	time_modified: 2025-06-09 23:52:45
 	name: Sword of Beligerence
 	casting_cost: 2
 	image: image159.png
@@ -13,13 +13,15 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> can equip only <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> creatures. <i-auto>(If a creature ceases to be <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>, <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> becomes unequipped. )</i-auto>
 		Equipped creature gets +8/+0 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

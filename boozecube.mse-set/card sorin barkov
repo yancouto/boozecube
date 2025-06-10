@@ -2,17 +2,22 @@
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
-	has_styling: false
+	has_styling: true
+	styling_data:
+		opacity: 70
+		override_levels: three abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-05-12 21:54:29
+	time_modified: 2025-06-09 23:39:31
 	special_text:
 		[+2]: <margin:130:0:0>Target player drinks 2 and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Target player drinks 10.</margin:130:0:0>
 		[-7]: <margin:130:0:0>During your next turn, target player drinks for you.</margin:130:0:0>
 	name: Sorin Barkov
 	casting_cost: 2WWBB
-	image: image511.png
+	image: image145.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -22,6 +27,7 @@ card:
 	sub_type: <word-list-planeswalker>Sorin</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	sub_type_2: 
 	sub_type_3: 
+	rarity: common
 	loyalty_cost_1: +2
 	loyalty_cost_2: -3
 	loyalty_cost_3: -7
