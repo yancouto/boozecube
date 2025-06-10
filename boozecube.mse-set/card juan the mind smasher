@@ -10,19 +10,12 @@ card:
 		override_levels: three abilities
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		nerfar<soft-line>
-		<soft-line>
-		</soft-line>sugestões<soft-line>
-		</soft-line><soft-line>
-		untap X target lands you control <soft-line>
-		<soft-line>
-		0: drink YYY</soft-line></soft-line></soft-line></soft-line>
+	notes: 
 	time_created: 2025-03-23 15:52:08
-	time_modified: 2025-06-06 01:54:23
+	time_modified: 2025-06-09 21:31:44
 	special_text:
-		[+X]: <margin:130:0:0>Drink XX. If you do, untap up to X target lands.</margin:130:0:0>
-		[+Y]: <margin:130:0:0>Drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>YYY</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. If you do, put Y 1/1 green Worm creature tokens.</margin:130:0:0>
+		[+X]: <margin:130:0:0>Untap X target lands you control.Drink XX. </margin:130:0:0>
+		[0]: <margin:130:0:0>Drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>YYY</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. If you do, put Y 1/1 green Worm creature tokens.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Any number of target opponents drink for each creature you control.</margin:130:0:0>
 	name: Juan, the Mind Smasher
 	casting_cost: 2GG
@@ -42,10 +35,10 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty_cost_1: +X
-	loyalty_cost_2: +Y
+	loyalty_cost_2: 0
 	loyalty_cost_3: -7
 	loyalty: 2
-	level_1_text: <margin:130:0:0>Drink XX. If you do, untap up to X target lands.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Untap X target lands you control.Drink XX. </margin:130:0:0>
 	level_2_text: <margin:130:0:0>Drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>YYY</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. If you do, put Y 1/1 green Worm creature tokens.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Any number of target opponents drink for each creature you control.</margin:130:0:0>
 	illustrator: ¿Donde esta mis pantalones?

@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: add blue to flashback
+	notes: 
 	time_created: 2025-03-23 13:12:30
-	time_modified: 2025-05-08 16:33:54
+	time_modified: 2025-06-09 21:26:37
 	name: I’m on a Boat
 	casting_cost: 1U
 	image: image85.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Counter target noncreature spell.
-		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 5</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym>U</sym>, Drink 5</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Fuck trees, I’ve got buoys motherfucker.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

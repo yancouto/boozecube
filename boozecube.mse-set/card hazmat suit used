@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: add deathtouch
+	notes: 
 	time_created: 2025-03-23 21:48:46
-	time_modified: 2025-05-12 02:15:31
+	time_modified: 2025-06-09 21:20:29
 	name: Hazmat Suit (used)
 	casting_cost: 3B
 	image: image358.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has +2/+1 and <kw-1><nospellcheck><key>menace</key></nospellcheck>.<atom-reminder-core> <i-auto>(That creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
+		Enchanted creature has +1/+1, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>menace</key></nospellcheck></kw-0>.
 		Whenever a player’s skin or fingernail touches enchanted creature, that player loses 2 life and drinks.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

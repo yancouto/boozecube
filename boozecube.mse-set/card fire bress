@@ -1,11 +1,11 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: Podia custar 1R
+	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-06-05 22:12:57
+	time_modified: 2025-06-09 21:12:33
 	name: Fire Bress
-	casting_cost: 2R
+	casting_cost: 1R
 	image: image333.png
 	image_2: 
 	mainframe_image: 

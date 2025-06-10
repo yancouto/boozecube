@@ -1,21 +1,23 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: > instant?
+	notes: 
 	time_created: 2025-03-20 23:31:40
-	time_modified: 2025-05-12 02:15:39
+	time_modified: 2025-06-09 21:21:28
 	name: Hazy Memories
 	casting_cost: 3U
 	image: image359.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		As an additional cost, drink X.
 		<kw-1><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck>.<atom-reminder-core> <i-auto>(Look at the top <param-number>X</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>

@@ -1,11 +1,11 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: Adicionar vermelho WR ou UWR
+	notes: 
 	time_created: 2025-03-23 20:57:48
-	time_modified: 2025-06-05 22:30:52
+	time_modified: 2025-06-09 21:17:00
 	name: Free-For-All
-	casting_cost: 3WU
+	casting_cost: 3RW
 	image: image343.png
 	image_2: 
 	mainframe_image: 

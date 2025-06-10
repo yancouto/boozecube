@@ -10,9 +10,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Creatures you control*
+	notes: 
 	time_created: 2025-03-21 18:56:18
-	time_modified: 2025-05-12 21:47:54
+	time_modified: 2025-06-09 21:14:35
 	card_color: red
 	name: Flaming Rage
 	image: image336.png
@@ -26,7 +26,7 @@ card:
 	rule_text:
 		<i-auto>(Begin the game with this card face up on your command zone and take a shot.)</i-auto>
 		At the end of each turn, if a source you own made an opponent drink 5 or more <i-auto>(combining all instances)</i-auto>, deal 2 damage to that player or creature he/she controls.
-		<sym-auto>1R</sym-auto>: Target creature gets <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>R</sym-auto>: Target creature you control gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

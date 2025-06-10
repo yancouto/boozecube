@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: intoxicated and boozetouch? — ruas
+	notes: 
 	time_created: 2025-03-22 13:53:57
-	time_modified: 2025-05-19 17:31:11
+	time_modified: 2025-06-09 21:21:46
 	name: Hidden Camelback
 	casting_cost: 1
 	image: image659.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Equipped creature has <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> <i-auto>(It deals damage to players in the form of drinks.)</i-auto>
+		Equipped creature has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> <i-auto>(It deals damage to players in the form of drinks.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>Easily concealed and filled with booze, the <error-spelling:en_US>Camelback</error-spelling:en_US> provides all-day entertainment at gladiatorial arenas throughout the multiverse.</i-flavor>
 	card_code_text: 

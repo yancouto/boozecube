@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: Drinks mana value
 	time_created: 2025-03-23 13:32:04
-	time_modified: 2025-05-08 16:12:05
+	time_modified: 2025-06-09 21:18:58
 	name: Fuck You
 	casting_cost: 1UU
 	image: image67.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Counter target spell. If the spell is countered, its controller drinks.
+	rule_text: Counter target spell. If the spell is countered, its controller drinks X where X is its mana value.
 	flavor_text: <i-flavor>Seriously, fuck you.</i-flavor>
 	illustrator: Your mom
 	card_code_text: 
