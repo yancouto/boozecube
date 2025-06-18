@@ -1,9 +1,7 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes:
-		deleta essa carta — ruas
-
+	notes: deleta essa carta — ruas
 	time_created: 2025-03-28 12:13:12
 	time_modified: 2025-06-09 21:44:18
 	name: Magic World Record Holder

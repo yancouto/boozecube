@@ -3,9 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 13:53:01
-	time_modified: 2025-06-06 21:13:03
+	time_modified: 2025-06-10 00:09:44
 	name: Rage Obelisk
 	casting_cost: 3
+	card_symbol: none
 	image: image257.png
 	image_2: 
 	mainframe_image: 
@@ -26,3 +27,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
