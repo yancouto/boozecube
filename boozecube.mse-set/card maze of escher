@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: Mudar pra mente do yugi 
 	time_created: 2025-03-21 10:54:16
-	time_modified: 2025-06-06 00:39:20
+	time_modified: 2025-06-19 11:10:12
 	name: Maze of Escher
 	image: image254.png
 	image_2: 
@@ -12,9 +12,11 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
 		Drink, <sym-auto>T</sym-auto>: Target attacking creature deals no combat damage this turn.

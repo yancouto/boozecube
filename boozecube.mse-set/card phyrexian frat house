@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:27:18
-	time_modified: 2025-05-19 17:01:07
+	time_modified: 2025-06-19 11:10:09
 	name: Phyrexian Frat House
 	image: image602.png
 	image_2: 
@@ -12,9 +12,11 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> becomes tapped, drink 2.
 		<sym-auto>T</sym-auto>: Add one mana of any color.
