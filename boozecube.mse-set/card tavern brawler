@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 16:51:01
-	time_modified: 2025-05-08 17:03:23
+	time_modified: 2025-06-18 22:18:11
 	name: Tavern Brawler
 	casting_cost: 4RR
 	image: image161.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, create two 1/1 red Dwarf creature tokens.
+		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks, create two 1/1 red Dwarf creature tokens tapped and attacking.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4

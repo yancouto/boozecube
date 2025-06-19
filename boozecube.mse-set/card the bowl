@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 13:10:13
-	time_modified: 2025-05-12 22:15:50
+	time_modified: 2025-06-18 20:39:45
 	name: The Bowl
 	casting_cost: B/R
 	image: image537.png
@@ -17,9 +17,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		At the beginning of each player’s upkeep, that player rolls a six sided dice. Put weight counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> equal to the rolled number.
-		<sym-auto>3</sym-auto>: Roll a six sided dice. Put weight counters on <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> equal to the rolled number. Any player may activate this ability.
-		Whenever <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname> has 20 or more weight counters on it, the active player takes a shot and remove all counters from <atom-cardname><nospellcheck>this artifact</nospellcheck></atom-cardname>.
+		At the beginning of each player’s upkeep, that player rolls a d6. Put weight counters on The Bowl equal to the result.
+		<sym-auto>3</sym-auto>: Roll a d6. Put weight counters on The Bowl equal to the result. Any player may activate this ability.
+		Whenever The Bowl has 20 or more weight counters on it, remove all counters from The Bowl, then the active player takes a shot.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: sa
 	card_code_text: 

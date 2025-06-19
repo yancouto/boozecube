@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 16:41:49
-	time_modified: 2025-05-08 17:05:46
+	time_modified: 2025-06-18 21:19:24
 	name: Trendy Nightclub
 	image: image173.png
 	image_2: 
@@ -12,13 +12,15 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
-		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
-		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>WWW</sym-auto>.
+		Drink </sym>3<sym>, <sym-auto>T</sym-auto>: Add <sym-auto>WW</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

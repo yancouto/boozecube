@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 15:00:53
-	time_modified: 2025-05-12 22:19:37
+	time_modified: 2025-06-18 21:19:29
 	name: Tridestilled Spear
 	casting_cost: 2
 	image: image549.png
@@ -13,9 +13,11 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<atom-name>This artifact</atom-cardname> can be attached to up to three different creatures simultaneously.
 		Equipped creatures get +2/+2 and <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>.

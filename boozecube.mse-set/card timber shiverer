@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-28 17:54:16
-	time_modified: 2025-05-12 22:18:09
+	time_modified: 2025-06-18 21:06:23
 	card_color: blue, black, hybrid, horizontal
 	name: Timber Shiverer
 	casting_cost: 1UB
@@ -18,8 +27,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may exile it. If you do, return all pirate creatures in graveyards to the battlefield tapped and under your control. They are zombies in addition to their other types.
-		Whenever you would drink for the first time in a turn, you must first say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrrrrrrr</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.” If you don’t, exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		Whenever you would drink for the first time in a turn, you must first say “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Arrrrrrr</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.” If you don’t, exile <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, you may exile it. If you do, return all Pirate creatures in graveyards to the battlefield tapped and under your control. They are zombies in addition to their other types.
 	flavor_text: <i-flavor>Sometimes, dead men do tell tales.</i-flavor>
 	power: 2
 	toughness: 2

@@ -11,10 +11,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-28 11:57:16
-	time_modified: 2025-05-20 11:00:13
+	time_modified: 2025-06-18 20:52:55
 	name: The Motherfuckin Scorpion God
 	casting_cost: 1BBRR
-	image: image541.png
+	image: image332.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -27,7 +27,7 @@ card:
 	rule_text:
 		Whenever a creature with a -1/-1 counter on it dies, its controller takes a shot.
 		<sym-auto>1BR</sym-auto>: Put -1/-1 counter on target creature. Drink 2.
-		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, take a shot, and return it to its owner’s hand at the end of your next turn.
+		When <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> dies, take a shot and return it to its owner’s hand at the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5

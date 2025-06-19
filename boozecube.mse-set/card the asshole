@@ -1,9 +1,11 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes:
+		
+		 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 22:42:09
+	time_modified: 2025-06-18 22:45:58
 	name: The Asshole
 	casting_cost: 2WW
 	image: image572.png
@@ -18,7 +20,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever another player drinks, that player may have the enchanted player also drink.
+		Whenever a source causes another player to drink, that player may have the enchanted player also drink. <i-auto>(Drinking as a cost is not a source)</i-auto>
 		Whenever <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> is put into the graveyard from the battlefield, enchanted player may return it to the battlefield targeting another player.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Beerfest

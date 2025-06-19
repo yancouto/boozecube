@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: Enabler 8 Fixing perfeito
+	notes: 
 	time_created: 2025-03-22 14:00:03
-	time_modified: 2025-05-08 17:06:43
+	time_modified: 2025-06-18 21:43:17
 	name: Urza’s Beer Goggles
 	casting_cost: 2
 	image: image178.png
@@ -16,7 +16,8 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>1</sym-auto>: Drink 1. If you do, add one mana of any color.
+	rarity: mythic rare
+	rule_text: Drink </sym>2<sym>, <sym-auto>1</sym-auto>: Add one mana of any color.
 	flavor_text:
 		<i-flavor>“I like big butts and I cannot lie.”
 		— <error-spelling:en_US>Ghandi</i-flavor></error-spelling:en_US>

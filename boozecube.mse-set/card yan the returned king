@@ -11,12 +11,12 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 17:29:36
-	time_modified: 2025-05-12 22:34:43
+	time_modified: 2025-06-18 22:15:49
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: 
 	name: Yan, the Returned King
-	casting_cost: L/WL/UL/BL/RL/G
+	casting_cost: L/CL/WL/UL/BL/RL/G
 	image: image560.png
 	image_2: 
 	mainframe_image: 
@@ -30,7 +30,7 @@ card:
 	rule_text:
 		<sym-auto>R</sym-auto>: All creatures gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 		<sym-auto>1G</sym-auto>: Put a +1/+1 counter on target creature.
-		<sym-auto>2W</sym-auto>: Target player gains 5 life
+		<sym-auto>2W</sym-auto>: Target player gains 5 life.
 		<sym-auto>3U</sym-auto>: Target player draws a card.
 		<sym-auto>4B</sym-auto>: Put target creature card from a graveyard onto the battlefield under its owner’s control.
 	flavor_text: <i-flavor></i-flavor>

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:46:56
-	time_modified: 2025-05-08 17:05:24
+	time_modified: 2025-06-18 21:18:08
 	name: Towlie, High as Fuck
 	casting_cost: GG
 	image: image170.png
@@ -22,7 +22,7 @@ card:
 		Whenever you play a land, drink.
 	flavor_text: <i-flavor>“I have no idea what’s going on.”</i-flavor>
 	power: 0
-	toughness: 6
+	toughness: 3
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

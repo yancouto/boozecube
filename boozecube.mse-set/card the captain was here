@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 17:31:37
-	time_modified: 2025-05-08 17:04:04
+	time_modified: 2025-06-18 22:47:13
 	name: The Captain Was Here
 	casting_cost: 1UU
 	image: image164.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Drink 1</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		You control enchanted creature.
 	flavor_text: <i-flavor>Got a little Captain in you?</i-flavor>

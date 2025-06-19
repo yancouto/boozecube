@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 12:44:41
-	time_modified: 2025-05-12 22:24:48
+	time_modified: 2025-06-18 21:45:13
 	name: Victim of Party
 	casting_cost: BB
 	image: image558.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text: Destroy target non-Bottle non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature.
-	flavor_text: <i-flavor>“Do not touch an <error-spelling:en_US>engov</error-spelling:en_US>. Not yet. I want to watch this so called ‘party <error-spelling:en_US>boy’</error-spelling:en_US> last PT” — <error-spelling:en_US>Orloff</error-spelling:en_US> <error-spelling:en_US>Voldaren</i-flavor></error-spelling:en_US>
+	flavor_text: <i-flavor>“Do not touch an <error-spelling:en_US>Engov</error-spelling:en_US>. Not yet. I want to watch this so called party boy’s last PT” — <error-spelling:en_US>Orloff</error-spelling:en_US> <error-spelling:en_US>Voldaren</i-flavor></error-spelling:en_US>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

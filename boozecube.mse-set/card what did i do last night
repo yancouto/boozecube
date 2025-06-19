@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: Add cumulative upkeep?
+	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-08 17:08:59
+	time_modified: 2025-06-18 23:04:06
 	name: What Did I Do Last Night?
 	casting_cost: 2G
 	image: image184.png
@@ -16,7 +16,9 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: At the beginning of your upkeep, put the top card of your library into your graveyard, then put a card in your graveyard on top of your library.
+	rule_text:
+		<kw-A><nospellcheck><key>Cumulative upkeep—<param-cost>Drink 2</param-cost></key></nospellcheck><atom-reminder-old> <i-auto>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i-auto></atom-reminder-old></kw-A>
+		At the beginning of your upkeep, put the top card of your library into your graveyard, then put a permanent card in your graveyard on top of your library.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 
 	card_code_text: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-23 13:42:07
-	time_modified: 2025-05-12 22:17:18
+	time_modified: 2025-06-18 20:58:24
 	name: Thinking About My Future
 	casting_cost: U
 	image: image531.png
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>.
 		Target player drinks.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

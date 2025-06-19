@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 13:37:28
-	time_modified: 2025-05-19 17:31:39
+	time_modified: 2025-06-18 23:11:19
 	name: WikiLore
-	casting_cost: 0
+	casting_cost: 3
 	image: image660.png
 	image_2: 
 	mainframe_image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		You have no maximum hand size.
-		At the beginning of your upkeep, reveal your hand to target opponent. That opponent may choose a card. If they do, shuffle that card into your library, then draw two cards.
+		At the beginning of your upkeep, reveal your hand to target opponent. That opponent chooses a card. If they do, put that card on the bottom of your library, then draw two cards.
 	flavor_text: <i-flavor>A <error-spelling:en_US>Spellbook</error-spelling:en_US> that anyone can edit.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

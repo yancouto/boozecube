@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-27 22:10:10
-	time_modified: 2025-05-08 17:06:09
+	time_modified: 2025-06-18 21:35:41
 	name: Undead Security
-	casting_cost: BB
+	casting_cost: 1B
 	image: image175.png
 	image_2: 
 	mainframe_image: 

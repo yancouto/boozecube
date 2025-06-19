@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-12 22:17:06
+	time_modified: 2025-06-18 20:54:18
 	name: The President
 	casting_cost: 4WW
-	image: image530.png
+	image: image321.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -20,7 +20,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> becomes attached to a player, that player gains 5 life.
 		Enchanted player has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and “<sym-auto>2</sym-auto>: Target player drinks”.
-		If <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> would be destroyed, instead exile it and return it to the battlefield enchanting the player who controlled the spell or ability that destroyed it
+		When <atom-cardname><nospellcheck>this enchantment</nospellcheck></atom-cardname> dies, return it to the battlefield enchanting the player who controlled the spell or ability that destroyed it.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hall to the Chief, baby
 	card_code_text: 

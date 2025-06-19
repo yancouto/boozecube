@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 18:02:31
-	time_modified: 2025-05-12 22:11:21
+	time_modified: 2025-06-18 22:36:20
 	name: Tequila Dance
 	casting_cost: 2G
 	image: image523.png
@@ -16,7 +16,9 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Search your library for up to two drink lands, reveal them, put one of them in your hand and the other onto the battlefield tapped. Then shuffle.
+	rule_text:
+		Search your library for up to two drink lands, reveal them, put one of them in your hand and the other onto the battlefield tapped. Then shuffle.
+		<kw-A><nospellcheck><key>Drinkcycling <param-number>5</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Drink <param-number>5</param-number>, discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:07:51
-	time_modified: 2025-05-08 17:04:50
+	time_modified: 2025-06-18 21:04:25
 	name: Tiki Bar
 	image: image166.png
 	image_2: 
@@ -12,14 +12,16 @@ card:
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Drinkland</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname> enters, drink.
+		<atom-name>This land</atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
-		Drink <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add <sym>UU</sym>.
+		Drink </sym>3<sym>, <sym-auto>T</sym-auto>: Add <sym>UU</sym>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

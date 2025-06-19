@@ -3,10 +3,11 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 17:29:20
-	time_modified: 2025-05-12 22:18:41
+	time_modified: 2025-06-18 21:22:45
+	card_color: white, blue, hybrid, horizontal
 	name: TL; DR
 	casting_cost: 1W/UW/U
-	image: image545.png
+	image: image339.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

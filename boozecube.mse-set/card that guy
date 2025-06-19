@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-03-29 18:23:01
-	time_modified: 2025-05-08 17:03:55
+	time_modified: 2025-06-18 20:34:14
 	name: That Guy
 	casting_cost: 2R/GR/G
 	image: image163.png
@@ -18,7 +27,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>R/G</sym-auto>, <sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> fights target creature.
-		Drink <sym-auto>2</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+1 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
+		Drink </sym>2<sym>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets +1/+1 and gains <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>You think you’re <error-spelling:en_US>better’n</error-spelling:en_US> me, huh?</i-flavor>
 	power: 0
 	toughness: 1

@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 17:51:39
-	time_modified: 2025-05-12 22:28:24
+	time_modified: 2025-06-18 22:13:16
 	name: Wrecked Reckoner
 	casting_cost: R/WR/WR/W
 	image: image571.png
@@ -25,7 +25,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-1><nospellcheck><key>Intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
+		<kw-0><nospellcheck><key>Intoxicated</key></nospellcheck></kw-0>
 		Whenever <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> is dealt damage, it deals that much damage to target creature or player.
 		<sym-auto>R/W</sym-auto>: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“Imagine a tactical genius that also just drunk his weight in <error-spelling:en_US>dwarven</error-spelling:en_US> ale. That’s him.” —Mr. <error-spelling:en_US>Hankey</i-flavor></error-spelling:en_US>

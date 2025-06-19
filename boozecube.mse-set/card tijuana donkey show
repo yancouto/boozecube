@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 17:22:10
-	time_modified: 2025-05-19 17:18:59
+	time_modified: 2025-06-18 22:55:42
 	name: Tijuana Donkey Show
 	casting_cost: 2G
 	image: image638.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Destroy the target artifact or enchantment.
-		<kw-A><nospellcheck><key>Flashback—<param-cost>Drink 5</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>G</sym-auto>, Drink 5</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Actually, the picture is from nuevo laredo.
 	card_code_text: 

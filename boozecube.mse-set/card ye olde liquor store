@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:02:26
-	time_modified: 2025-05-19 17:33:53
+	time_modified: 2025-06-18 22:15:31
 	name: Ye Olde Liquor Store
 	image: image664.png
 	image_2: 
@@ -16,7 +16,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<sym-auto>T</sym-auto>: Add <sym-auto>1</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>T</sym-auto>: Target player drinks.
 	flavor_text: <i-flavor>Free samples for everyone!</i-flavor>
 	card_code_text: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 23:11:50
-	time_modified: 2025-05-12 22:19:43
+	time_modified: 2025-06-18 21:22:10
 	name: Trivial Pursuit
 	casting_cost: 1U
 	image: image550.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Target opponent asks you a question from the game <i>Trivial Pursuit</i>. You choose the category. If you answer correctly, draw a card; otherwise, drink 4. If you drank or drew a card, you may repeat this process.
+	rule_text: Target opponent asks you a question from the game <i>Trivial Pursuit</i>. You choose the category. If you answer correctly, draw a card; otherwise, drink 4. You may repeat this process.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
