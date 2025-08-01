@@ -1,0 +1,26 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-08-01 14:21:35
+	time_modified: 2025-08-01 14:29:01
+	name: Journey’s Pact
+	casting_cost: 3GGWW
+	image: image1
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment> <word-list-enchantment>Curse</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck>Enchant <param-name>player</param-name></nospellcheck></kw-a>
+		At the beginning of your upkeep, choose one that hasn’t been chosen —
+		- Take a shot
+		- Chug a beer
+		- Drink 17
+		- Take a shot. Chug a beer. Drink 17.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
