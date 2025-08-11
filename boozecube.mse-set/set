@@ -979,6 +979,43 @@ include_file: card sucker punch
 include_file: card voltron defender of the universe
 include_file: card murica
 include_file: card bottle.1
+include_file: card goblin.1
+include_file: card goblin.2
+include_file: card worm.1
+include_file: card worm.2
+include_file: card worm.3
+include_file: card worm.4
+include_file: card worm.5
+include_file: card worm.6
+include_file: card worm.7
+include_file: card worm.8
+include_file: card worm.9
+include_file: card stripper.1
+include_file: card stripper.2
+include_file: card fratboy.1
+include_file: card fratboy.2
+include_file: card dwarf.1
+include_file: card dwarf.2
+include_file: card dwarf.3
+include_file: card dwarf.4
+include_file: card dwarf.5
+include_file: card dwarf.6
+include_file: card dwarf.7
+include_file: card dwarf.8
+include_file: card dwarf.9
+include_file: card dwarf.10
+include_file: card bottle.2
+include_file: card bottle.3
+include_file: card tare bottle.1
+include_file: card bottle.4
+include_file: card bottle.5
+include_file: card bottle.6
+include_file: card bottle.7
+include_file: card bottle.8
+include_file: card bottle.9
+include_file: card bottle.10
+include_file: card bottle.11
+include_file: card bottle.12
 keyword:
 	keyword: Boozetouch
 	match: boozetouch
