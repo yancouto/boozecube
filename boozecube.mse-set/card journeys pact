@@ -1,26 +1,40 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: fullart
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
-	time_created: 2025-08-01 14:21:35
-	time_modified: 2025-08-01 14:29:01
+	time_created: 2025-08-11 22:16:30
+	time_modified: 2025-08-11 22:30:22
 	name: Journey’s Pact
-	casting_cost: 3GGWW
-	image: image1
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment> <word-list-enchantment>Curse</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
-	rule_text:
-		<kw-a><nospellcheck>Enchant <param-name>player</param-name></nospellcheck></kw-a>
-		At the beginning of your upkeep, choose one that hasn’t been chosen —
-		- Take a shot
-		- Chug a beer
-		- Drink 17
-		- Take a shot. Chug a beer. Drink 17.
-	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
-	copyright: 
+	casting_cost: 2GGWW
+	image: image733.png
 	image_2: 
-	copyright_2: 
-	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Curse</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
+		At the beginning of enchanted player’s  upkeep, that player chooses one that hasn’t been chosen —
+		- Drink 17.
+		- Take a shot.
+		- Chug a beer.
+		- Drink </sym>17<sym>, take a shot and chug a beer.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

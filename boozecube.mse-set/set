@@ -1016,6 +1016,16 @@ include_file: card bottle.9
 include_file: card bottle.10
 include_file: card bottle.11
 include_file: card bottle.12
+include_file: card journeys pact
+include_file: card pledge.1
+include_file: card pledge.2
+include_file: card pledge.3
+include_file: card pledge.4
+include_file: card pledge.5
+include_file: card pledge.6
+include_file: card pledge.7
+include_file: card pledge.8
+include_file: card pledge.9
 keyword:
 	keyword: Boozetouch
 	match: boozetouch
