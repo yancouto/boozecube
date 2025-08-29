@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 12:12:13
-	time_modified: 2025-05-27 20:56:32
+	time_modified: 2025-08-29 19:38:00
 	name: 1000 pra 1
 	casting_cost: 1UR
 	image: image694.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <sym-auto>T</sym-auto>: Guess the type of the card at the top of your library then reveal it. Then reveal it. If you are right, draw 2 cards. If you are wrong, take a shot or chug a beer.
+	rule_text: <sym-auto>T</sym-auto>: Guess the type of the card at the top of your library then reveal it. If you are right, draw 2 cards. If you are wrong, take a shot or chug a beer.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
