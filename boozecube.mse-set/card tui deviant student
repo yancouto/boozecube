@@ -5,22 +5,32 @@ card:
 	has_styling: true
 	styling_data:
 		dfc_type: transforming
-		front_style: normal
-		other_options: use hovering pt, unindent nonloyalty abilities, automate type frames, auto nyx crowns, clear front, clear back
+		front_style: auto-sizing planeswalker
+		defaults: Click here for default coordinate information
+		back_style: auto-sizing planeswalker
+		other_options: automate type frames, auto nyx crowns
+		legend_crown: standard
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2025-03-28 22:11:52
-	time_modified: 2025-06-18 21:28:01
-	special_text: 
+	time_modified: 2025-09-28 14:17:20
+	special_text:
+		At the beginning of each upkeep, drink for each <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> has 5 or more <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counters on it, transform it.
+		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
+		<atom-name>This creature</atom-cardname> has +7/+7 as long as you drank 5 or more, took a shot or chugged a beer this turn.</atom-cardname><atom-name>
+
+	special_text_2:
+		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
+
 	card_color: white, red, hybrid, horizontal
 	card_color_2: white, red, multicolor, horizontal
-	name: Tui, Deviant Student 
+	name: Tui, Deviant Student
 	name_2: Tui, Drunken Master
 	casting_cost: R/W
-	image: image551.png
-	image_2: image_27.png
+	image: image737.png
+	image_2: image_225.png
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>

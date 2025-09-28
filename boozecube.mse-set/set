@@ -72,7 +72,13 @@ styling:
 	magic-m15-conspiracy:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-contraption:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-devoid:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-duplex:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-emblem:
@@ -126,7 +132,10 @@ styling:
 	magic-m15-grayscale:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	magic-m15-invocation: overlay: 
+	magic-m15-imageupload:
+		overlay: 
+	magic-m15-invocation:
+		overlay: 
 	magic-m15-jinx:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -233,6 +242,14 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-capenna-skyscraper:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-doctor-who-tardis:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-showcase-dominaria-stained-glass:
 		legend_crown: if legendary
 		overlay: 
@@ -249,7 +266,31 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
 		text_box_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
+	magic-m15-showcase-fallout-pipboy:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-ikoria-crystal:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-showcase-innistrad-double-feature:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-innistrad-double-feature-walker:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-ixalan-caverns:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-ixalan-treasure:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-tarkir-dragon-wing:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -269,7 +310,8 @@ styling:
 	magic-m15-textless:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	magic-m15-textless-land: overlay: 
+	magic-m15-textless-land:
+		overlay: 
 	magic-m15-token-invention:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -278,6 +320,14 @@ styling:
 		overlay: 
 	magic-m15-ttk-frames:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-unstable-basics:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-vanguard:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-youtube:
 		overlay: 
 	magic-monarch-emblem:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
