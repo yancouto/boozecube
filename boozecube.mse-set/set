@@ -132,10 +132,8 @@ styling:
 	magic-m15-grayscale:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	magic-m15-imageupload:
-		overlay: 
-	magic-m15-invocation:
-		overlay: 
+	magic-m15-imageupload: overlay: 
+	magic-m15-invocation: overlay: 
 	magic-m15-jinx:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -310,8 +308,7 @@ styling:
 	magic-m15-textless:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	magic-m15-textless-land:
-		overlay: 
+	magic-m15-textless-land: overlay: 
 	magic-m15-token-invention:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -327,8 +324,7 @@ styling:
 	magic-m15-vanguard:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	magic-m15-youtube:
-		overlay: 
+	magic-m15-youtube: overlay: 
 	magic-monarch-emblem:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -917,7 +913,7 @@ include_file: card serra-malte angel
 include_file: card dwarven brewmaster
 include_file: card party fiend
 include_file: card olivia
-include_file: card firewater shamam
+include_file: card firewater shaman
 include_file: card jackass dwarf
 include_file: card remedial pyromancer
 include_file: card mead-hall captain

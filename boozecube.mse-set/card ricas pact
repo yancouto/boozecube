@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-27 19:15:16
+	time_modified: 2026-01-27 12:47:34
 	name: Rica’s Pact
 	casting_cost: 2RR
 	image: image476.png
@@ -19,7 +19,7 @@ card:
 	rule_text:
 		At the beginning of your upkeep choose one that hasn’t been chosen —<soft-line>
 		- </soft-line>Create seven 1/1 red Dwarf creature tokens.
-		- All your creatures lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		- Until end of turn creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and lose <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> and can’t have or gain <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>
 		- A random opponent takes a shot. Then a random opponent drinks 10. Then a random opponent chugs a beer.
 		- Take 3 shots.
 	flavor_text: <i-flavor></i-flavor>

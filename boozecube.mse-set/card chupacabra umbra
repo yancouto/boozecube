@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Totem armor</key></nospellcheck><atom-reminder-expert> <i-auto>(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Totem armor</key></nospellcheck><atom-reminder-expert> <i-auto>(If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</i-auto></atom-reminder-expert></kw-A>
 		Enchanted creature has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-0><nospellcheck><key>protection from <param-name>goats and ewes.</param-name></key></nospellcheck></kw-0>
 		Whenever you drink, you may gain that much life.
 	flavor_text: <i-flavor></i-flavor>

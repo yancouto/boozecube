@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 15:55:03
-	time_modified: 2025-05-19 13:10:33
+	time_modified: 2026-01-27 12:51:48
 	name: Broken Beer Bottle
 	casting_cost: 1
 	image: image27.png
@@ -13,9 +13,11 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		Whenever you drink, equipped creature gets +1/+0 until end of turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>

@@ -18,8 +18,6 @@ card:
 	time_modified: 2025-09-28 14:17:20
 	special_text:
 		At the beginning of each upkeep, drink for each <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> has 5 or more <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counters on it, transform it.
-		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
-		<atom-name>This creature</atom-cardname> has +7/+7 as long as you drank 5 or more, took a shot or chugged a beer this turn.</atom-cardname><atom-name>
 
 	special_text_2:
 		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
