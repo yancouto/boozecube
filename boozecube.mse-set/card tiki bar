@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		<atom-name>This land</atom-cardname> enters tapped.
+		<atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 		Drink </sym>3<sym>, <sym-auto>T</sym-auto>: Add <sym>UU</sym>.
 	flavor_text: <i-flavor></i-flavor>

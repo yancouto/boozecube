@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2026-01-30 16:37:28
+	time_modified: 2026-01-30 16:53:46
+	name: Arthur Pair-In
+	casting_cost: 2BG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Perin</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor>​</i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty_cost_3: -6
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Drink </sym>2<sym>, create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Sacrifice two permanents. If you did, for each of them return another target permanent sharing a card type from your graveyard to your battlefield.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Target player gets an emblem with “If you would take a shot, take two shots instead”. Target player takes a shot.</margin:130:0:0>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Drink </sym>2<sym>, create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Sacrifice two permanents. If you did, for each of them return another target permanent sharing a card type from your graveyard to your battlefield.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Target player gets an emblem with “If you would take a shot, take two shots instead”. Target player takes a shot.</margin:130:0:0>

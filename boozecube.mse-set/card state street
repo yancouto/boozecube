@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<atom-name>This land</atom-cardname> enters tapped.
+		<atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>4</sym-auto>, Drink </sym>6<sym>, <sym-auto>T</sym-auto>: Search your library for up to two basic lands and put them on the battlefield tapped, then shuffle.
 	flavor_text: <i-flavor></i-flavor>

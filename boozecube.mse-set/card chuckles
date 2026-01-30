@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This creature</atom-cardname> can only be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> can only be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
 		2 <sym-auto>G/U</sym-auto>, <sym-auto>Q</sym-auto>: For each counter on target permanent, add another counter of the same type.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

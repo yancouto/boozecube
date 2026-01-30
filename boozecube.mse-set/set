@@ -1,8 +1,8 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2024-10-01
+game_version: 2025-06-14
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2025-10-05
 set_info:
 	title: Boozecube
 	set_language: en
@@ -47,7 +47,9 @@ styling:
 		frames: 
 		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
 		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-black:
@@ -156,6 +158,7 @@ styling:
 	magic-m15-mainframe-planeswalker:
 		opacity: 255
 		override_levels: three abilities
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
@@ -820,7 +823,7 @@ include_file: card invisible flasher
 include_file: card captain jack sparrow
 include_file: card james beard
 include_file: card pirata anão maldito
-include_file: card art cop
+include_file: card pun intended
 include_file: card rum crab
 include_file: card champion tortuga
 include_file: card sly scurvy
@@ -1072,6 +1075,12 @@ include_file: card pledge.6
 include_file: card pledge.7
 include_file: card pledge.8
 include_file: card pledge.9
+include_file: card perin master chugger
+include_file: card arthur pair-in
+include_file: card art cop
+include_file: card copo a copo
+include_file: card i can only count to four
+include_file: card hangover reflection
 keyword:
 	keyword: Boozetouch
 	match: boozetouch

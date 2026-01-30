@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<atom-name>This spell</atom-cardname> is black.
+		<atom-cardname><nospellcheck>This spell</nospellcheck></atom-cardname> is black.
 		<kw-0><nospellcheck><key>Suspend <param-number>3</param-number>—<param-cost><sym-auto>B</sym-auto>, Pay X life</param-cost>.</key></nospellcheck></kw-0>
 		Gain X life. Then:
 		- If you gained at least 10 life, add <sym>BBBBBB</sym>.

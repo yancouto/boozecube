@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -19,7 +19,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
-		<atom-name>This land</atom-cardname> enters tapped unless you drink 3.
+		<atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped unless you drink 3.
 	flavor_text: <i-flavor>As natural as can be.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

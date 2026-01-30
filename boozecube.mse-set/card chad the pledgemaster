@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6,10 +6,6 @@ card:
 	notes: 
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-05-28 02:13:08
-	special_text:
-		[+2]: <margin:130:0:0>Each player drinks 2.</margin:130:0:0>
-		[-1]: <margin:130:0:0>Create a 2/2 white Pledge creature token.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Search your library for an enchantment with converted mana cost X or less and put it onto the battlefield, then shuffle.</margin:130:0:0>
 	name: Chad, the Pledgemaster
 	casting_cost: 3WW
 	image: image716.png
@@ -42,3 +38,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+2]: <margin:130:0:0>Each player drinks 2.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Create a 2/2 white Pledge creature token.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Search your library for an enchantment with converted mana cost X or less and put it onto the battlefield, then shuffle.</margin:130:0:0>

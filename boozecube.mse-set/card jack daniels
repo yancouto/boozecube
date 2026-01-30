@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6,10 +6,6 @@ card:
 	notes: 
 	time_created: 2025-03-27 17:36:37
 	time_modified: 2025-06-06 01:25:50
-	special_text:
-		[+2]: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
-		[-4]: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.</margin:130:0:0>
 	name: Jack Daniels
 	casting_cost: 4BB
 	image: image717.png
@@ -36,3 +32,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+2]: <margin:130:0:0>Add <sym-auto>BBB</sym-auto> to your mana pool.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Search your library for a card and put it into your hand, then shuffle.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Drink X. Creatures opponents control get -X/-X until end of turn.</margin:130:0:0>

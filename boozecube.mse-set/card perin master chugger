@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-30 16:18:51
+	time_modified: 2026-01-30 17:46:00
+	name: Perin, Master Chugger
+	casting_cost: 4GW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fratboy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Vigilance</key></nospellcheck><atom-reminder-core> <i-auto>(Attacking doesn’t cause this creature to tap.)</i-auto></atom-reminder-core></kw-1>
+		Sacrifice a creature, <sym-auto>T</sym-auto>: Choose any number of target opponents. You and the chosen players each chug a beer <i-auto>(starting at the same time)</i-auto>. For each opponent that finished their beer after you do, create a 3/3 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token. For each opponent that finished their beer before you, they create a 1/1 white Pledge creature token.
+		<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Alguém</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> me <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>traz</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>uma</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>chave</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>! — <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Perin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Master <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Chugger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		</i>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

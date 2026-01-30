@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <atom-name>This creature</atom-cardname> gets a +1/+1 for each enchantment on the battlefield.
+	rule_text: <atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> gets a +1/+1 for each enchantment on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

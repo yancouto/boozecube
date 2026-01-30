@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a> 
-		<atom-name>This artifact</atom-cardname> can’t block.
+		<atom-cardname><nospellcheck>This artifact</nospellcheck></atom-cardname> can’t block.
 		At the beginning of your end step, create a 1/1 colorless Bottle artifact with <kw-a><nospellcheck><key>boozetouch</key></nospellcheck></kw-a>.
 		<kw-A><nospellcheck><key>DrunkenCrew <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Tap any number of creatures with intoxicated or boozetouch you control with total power <param-number>3</param-number> or more: This Vehicle becomes an artifact creature until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>

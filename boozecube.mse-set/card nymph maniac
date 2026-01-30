@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -19,7 +19,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Bestow <param-cost><sym-auto>3R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>intoxicated</key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Enchant <param-name>creature gets +6/+1, has first strike and intoxicated.</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature gets +6/+1, has first strike and intoxicated</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 1

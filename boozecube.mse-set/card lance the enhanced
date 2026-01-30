@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,8 +17,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This creature</atom-cardname> is unblockable.
-		You may sneak <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> into play at any time without paying for it, but if an opponent catches you until end of turn, sacrifice it and drink 10.
+		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> is unblockable.
+		You may <kw-A><nospellcheck><key>sneak <param-cost><atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> into play at any time without paying for it, but if an opponent catches you until end of turn, sacrifice it and drink 10.<atom-reminder-expert> <i-auto>(You may cast this spell for <param-cost>this</param-cost> if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

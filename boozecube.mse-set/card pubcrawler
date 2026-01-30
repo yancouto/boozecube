@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This creature</atom-cardname> can’t block.
+		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> can’t block.
 		Drink <sym></sym>2: You may cast <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> from your graveyard.
 	flavor_text: <i-flavor>Randall wasn’t going to let a little thing like death stand in the way of a one night stand with a cyclops.</i-flavor>
 	power: 2

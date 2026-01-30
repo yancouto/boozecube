@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Target creature has <kw-A><nospellcheck><key>protection from <param-name>all colors until end of turn.</param-name></key></nospellcheck> <atom-reminder-expert> <i-auto>(It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything that’s white, blue, black, red, or green until end of turn..)</i-auto></atom-reminder-expert></kw-A>
+		Target creature has <kw-A><nospellcheck><key>protection from <param-name>all colors until end of turn</param-name>.</key></nospellcheck> <atom-reminder-expert> <i-auto>(It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything that’s white, blue, black, red, or green until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 		All players drink.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

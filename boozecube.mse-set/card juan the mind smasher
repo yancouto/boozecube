@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8,15 +8,12 @@ card:
 		combined_chop: 0,8,0
 		shift_loyalty_costs: 
 		override_levels: three abilities
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2025-03-23 15:52:08
 	time_modified: 2025-06-09 21:31:44
-	special_text:
-		[+X]: <margin:130:0:0>Untap X target lands you control.Drink XX. </margin:130:0:0>
-		[0]: <margin:130:0:0>Drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>YYY</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. If you do, put Y 1/1 green Worm creature tokens.</margin:130:0:0>
-		[-7]: <margin:130:0:0>Any number of target opponents drink for each creature you control.</margin:130:0:0>
 	name: Juan, the Mind Smasher
 	casting_cost: 2GG
 	image: image722.png
@@ -48,3 +45,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text:
+		[+X]: <margin:130:0:0>Untap X target lands you control.Drink XX. </margin:130:0:0>
+		[0]: <margin:130:0:0>Drink <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>YYY</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. If you do, put Y 1/1 green Worm creature tokens.</margin:130:0:0>
+		[-7]: <margin:130:0:0>Any number of target opponents drink for each creature you control.</margin:130:0:0>

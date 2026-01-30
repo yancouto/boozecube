@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 14:59:15
+	time_modified: 2026-01-30 17:31:46
+	name: Pun Intended
+	casting_cost: 3B
+	image: image372.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Creatures with at least one pun counter get +2/-1 and <kw-1><nospellcheck><key>boozetouch</key></nospellcheck>.<atom-reminder-core> <i-auto>(When that creature creature deals combat damage to a player, that player drinks.)</i-auto></atom-reminder-core></kw-1>
+		Whenever a creature attacks, you may make a pun with its name. If you do, put a pun counter on that creature.
+	flavor_text: <i-flavor>“Everything is “literally” shit”</i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

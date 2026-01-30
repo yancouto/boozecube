@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -14,10 +14,6 @@ card:
 	notes: 
 	time_created: 2025-03-29 16:48:14
 	time_modified: 2025-06-05 22:58:09
-	special_text_2:
-		[+3]: <margin:130:0:0>Drink 5. Target player chugs a beer.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Put target permanent at the bottom of its controller’s library.</margin:130:0:0>
-		[-9]: <margin:130:0:0>You get an emblem with “Whenever a player drinks, create a 1/1 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token, then each creature you control gets a +1/+1 counter”.</margin:130:0:0>
 	card_color_2: white, red, multicolor, horizontal
 	name: Guzman, the Jock
 	name_2: Guzmão, the Redeemed
@@ -55,3 +51,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text_2:
+		[+3]: <margin:130:0:0>Drink 5. Target player chugs a beer.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Put target permanent at the bottom of its controller’s library.</margin:130:0:0>
+		[-9]: <margin:130:0:0>You get an emblem with “Whenever a player drinks, create a 1/1 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token, then each creature you control gets a +1/+1 counter”.</margin:130:0:0>

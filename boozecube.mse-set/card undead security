@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bouncer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <kw-A><nospellcheck><key>Protection from <param-name>intoxicated creatures.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted or dealt damage by intoxicated creatures..)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Protection from <param-name>intoxicated creatures</param-name>.</key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted or dealt damage by intoxicated creatures.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

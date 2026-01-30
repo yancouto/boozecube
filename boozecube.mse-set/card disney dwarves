@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: Está sem arte e não é do cubo base acho.
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>Boozetouch</key></nospellcheck></kw-a>
-		<atom-name>This creature</atom-cardname> enters with seven +1/+1 counters on it.
+		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> enters with seven +1/+1 counters on it.
 		Remove a +1/+1 counter: Create a 1/1 red Dwarf creature token.
 	flavor_text: <i-flavor>Grumpy was less than thrilled at his new nickname: <error-spelling:en_US>Prematurey</error-spelling:en_US>.</i-flavor>
 	power: 0

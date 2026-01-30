@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This land</atom-cardname> enters tapped.
+		<atom-cardname><nospellcheck>This land</nospellcheck></atom-cardname> enters tapped.
 		At the beginning of each upkeep, if there are no red creatures on the battlefield, sacrifice <atom-cardname><nospellcheck>this land</nospellcheck></atom-cardname>.
 		<sym-auto>T</sym-auto>: Add <sym-auto>RRR</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>

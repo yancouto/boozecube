@@ -1,9 +1,9 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 16:28:43
-	time_modified: 2025-05-27 21:54:01
+	time_modified: 2026-01-30 17:17:47
 	name: Alpha Sigma Ritual
 	casting_cost: WB
 	image: image200.png
@@ -18,7 +18,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of each end step, if you took at least one shot and chugged at least one beer this turn, create a 5/5 black and white Demon <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>.
+	rule_text:
+		At the beginning of each end step, if you took at least one shot and chugged at least one beer this turn, create a 5/5 black and white Demon <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>boozetouch</key></nospellcheck></kw-0>.<soft-line>
+		<sym-auto>0</sym-auto>: Take a shot or chug a beer. Activate this ability only once each turn.</soft-line>
 	flavor_text: <i-flavor>“Rise, Bro”- Blood Shaman Bro</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

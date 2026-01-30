@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This artifact</atom-cardname> enters with X charge counters on it.
+		<atom-cardname><nospellcheck>This artifact</nospellcheck></atom-cardname> enters with X charge counters on it.
 		Whenever a player casts a spell, counter it unless that player drinks X.
 	flavor_text: <i-flavor><error-spelling:en_US>Pimpin’</error-spelling:en_US> ain’t easy, even in the void.</i-flavor>
 	card_code_text: 

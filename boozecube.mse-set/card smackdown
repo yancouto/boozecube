@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<i-auto>(<sym-auto>L/R</sym-auto> can be paid with <sym>R</sym> or drinking 3.)</i-auto>
-		<atom-name>This spell</atom-cardname> deals 3 damage to target creature or player.
+		<atom-cardname><nospellcheck>This spell</nospellcheck></atom-cardname> deals 3 damage to target creature or player.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	stylesheet: genevensis-10-saga
 	stylesheet_version: 2022-02-22
@@ -19,7 +19,6 @@ card:
 	time_modified: 2025-05-27 21:47:34
 	extra_data:
 		magic-m15-meld-3in1: meld_image: 
-	special_text: 
 	name: Bruninho’s Journey
 	casting_cost: 1GGWW
 	image: image213.png
@@ -49,3 +48,4 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	special_text: 

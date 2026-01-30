@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-race-en>Dwarf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fratboy</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: <kw-a><nospellcheck><key>Indestructible</atom-cardname></key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>intoxicated</key></nospellcheck><atom-name><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
+	rule_text: <kw-a><nospellcheck><key>Indestructible</atom-cardname></key></nospellcheck></kw-a>, <kw-1><nospellcheck><key>intoxicated</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals damage to players in the form of drinks.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: true
 	styling_data:
@@ -6,7 +6,9 @@ card:
 		chop_bottom: 6
 		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
 		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 

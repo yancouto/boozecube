@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
-		<atom-name>This creature</atom-cardname> can only attack alone.
+		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> can only attack alone.
 		If <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname> attacks and is not blocked, defending player finishes the contents of their drinking beverage.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<i-auto>(<sym-auto>L/W</sym-auto> can be paid with <sym>W</sym> or drinking 3.)</i-auto>
-		Target permanent has <kw-0><nospellcheck><key>protection from <param-name>the color or card type of your choice until end of turn.</param-name></key></nospellcheck></kw-0>
+		Target permanent has <kw-0><nospellcheck><key>protection from <param-name>the color or card type of your choice until end of turn</param-name>.</key></nospellcheck></kw-0>
 		Each player drinks.
 	flavor_text: <i-flavor>Sometimes, the gods protect the stupid.</i-flavor>
 	illustrator: May the Old Ones bless you and eat you

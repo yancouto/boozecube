@@ -1,9 +1,9 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 16:32:09
-	time_modified: 2025-05-19 17:38:17
+	time_modified: 2026-01-30 16:21:19
 	card_color: white, black, hybrid, vertical
 	name: I’m Batman
 	casting_cost: 1W/BW/B
@@ -17,7 +17,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rarity: basic land
+	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Whenever a creature deals damage to enchanted creature, you may exile that creature.

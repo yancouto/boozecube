@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -17,7 +17,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<atom-name>This creature</atom-cardname> enters with nine -1/-1 counters on it.
+		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> enters with nine -1/-1 counters on it.
 		<sym-auto>0</sym-auto>: Drink <sym-auto>X</sym-auto>, where X equals the number of counters on <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. If you do, remove a -1/-1 counter from <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 10
