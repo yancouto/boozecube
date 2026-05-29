@@ -29,7 +29,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-A><nospellcheck><key>Companion — <param-name>Your drinking beverage is always 15%+</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(If this card is your chosen companion, you may put it into your hand from outside the game for <sym>3</sym> as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Companion —</key></nospellcheck> Your drinking beverage is always 15%+<atom-reminder-expert> <i-auto>(If this card is your chosen companion, you may put it into your hand from outside the game for <sym>3</sym> as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 		This spell costs <sym-auto>1</sym-auto> less for each 5% in your drinking beverage.
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward—<param-cost> Drink 6</param-cost></key></nospellcheck></kw-0>
 		If an effect would cause an opponent to drink, shot or chug, triple the amount.

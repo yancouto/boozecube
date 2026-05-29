@@ -15,10 +15,22 @@ styling:
 	magic-DayNight:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-classicshifted-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-genevensis-02-leveler:
+		number_of_textboxes: three
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
 	magic-genevensis-10-saga:
 		center_name: no
 		textboxes: seven
 		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-genevensis-11-class:
+		first_divider: level
+		extended_art: yes
+		casting_cost_mana_symbols: magic-mana-small-phyrexian.mse-symbol-font
 		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
 	magic-kasu-eldrazi_750:
 		overlay: 
@@ -143,6 +155,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-leveler:
+		level_label: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -208,6 +221,7 @@ styling:
 		other_options: 
 		custom_class_bar: 
 		shrink_name_text: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-scroll:
@@ -332,6 +346,18 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-monarch-emblem-with-name:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-leveler-clear:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-leveler-gradiented:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-planeshifted-leveler:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-scifi:

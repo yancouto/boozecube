@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-22 17:18:49
-	time_modified: 2025-06-06 01:17:31
+	time_modified: 2026-05-29 10:11:48
 	name: Hotboxed Van
 	casting_cost: G
 	image: image704.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Prevent all combat damage that would be dealt this turn.
-		<kw-A><nospellcheck><key>Flashback—<param-cost>drink 3</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>G</sym-auto>, Drink 3</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

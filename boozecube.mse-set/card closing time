@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-20 22:37:34
-	time_modified: 2025-05-08 15:17:36
+	time_modified: 2026-05-29 10:02:22
 	name: Closing Time
 	casting_cost: 3WW
 	image: image41.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		Put each creature on the bottom of its owner’s library.
-		Flashback drink 9 <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto>
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>W</sym-auto>, Drink 9</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>You don’t have to go home, but you can’t stay here.</i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-21 11:02:26
-	time_modified: 2026-01-30 18:26:50
+	time_modified: 2026-05-29 10:29:09
 	name: Hangover Reflection
 	casting_cost: 4B
 	image: image386.png
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of each end step, each opponent drinks equal to the drinks they have taken this turn.
+	rule_text: At the beginning of each end step, each opponent drinks equal to the amount of drinks they’ve had this turn.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

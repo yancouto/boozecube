@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-01-30 16:18:51
-	time_modified: 2026-01-30 17:46:00
+	time_modified: 2026-05-29 11:45:05
 	name: Perin, Master Chugger
 	casting_cost: 4GW
-	image: 
+	image: image388.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -19,11 +19,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-1><nospellcheck><key>Vigilance</key></nospellcheck><atom-reminder-core> <i-auto>(Attacking doesn’t cause this creature to tap.)</i-auto></atom-reminder-core></kw-1>
-		Sacrifice a creature, <sym-auto>T</sym-auto>: Choose any number of target opponents. You and the chosen players each chug a beer <i-auto>(starting at the same time)</i-auto>. For each opponent that finished their beer after you do, create a 3/3 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token. For each opponent that finished their beer before you, they create a 1/1 white Pledge creature token.
-		<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Alguém</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> me <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>traz</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>uma</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>chave</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>! — <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Perin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Master <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Chugger</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
-		</i>
-	flavor_text: <i-flavor></i-flavor>
+		<kw-0><nospellcheck><key>Vigilance</key></nospellcheck></kw-0>
+		Sacrifice a creature, <sym-auto>T</sym-auto>: Choose any number of target opponents. You and the chosen players each chug a beer <i-auto>(starting at the same time)</i-auto>. For each opponent that finished their beer after you, create a 3/3 white <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Fratboy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token. Each opponent that finished their beer before you creates a 1/1 white Pledge creature token.
+	flavor_text: <i-flavor><error-spelling:en_US>Alguém</error-spelling:en_US> me <error-spelling:en_US>traz</error-spelling:en_US> <error-spelling:en_US>uma</error-spelling:en_US> <error-spelling:en_US>chave</error-spelling:en_US>! — <error-spelling:en_US>Perin</error-spelling:en_US>, Master <error-spelling:en_US>Chugger</i-flavor></error-spelling:en_US>
 	power: 4
 	toughness: 4
 	card_code_text: 

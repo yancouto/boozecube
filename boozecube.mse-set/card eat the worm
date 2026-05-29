@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:32:31
-	time_modified: 2025-05-27 20:08:40
+	time_modified: 2026-05-29 10:14:19
 	name: Eat the Worm
 	casting_cost: 1GG
 	image: image58.png
@@ -16,7 +16,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
-	rule_text: Whenever you drink, you may create a 1/1 green Worm creature token. This triggers only once per turn.
+	rule_text: Whenever you drink, you may create a 1/1 green Worm creature token. This triggers only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Delicious
 	card_code_text: 

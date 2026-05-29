@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 19:31:43
-	time_modified: 2025-06-05 22:22:22
+	time_modified: 2026-05-29 11:26:44
 	name: Find Booze Elves
 	casting_cost: L/GG
 	image: image221.png
@@ -18,7 +18,7 @@ card:
 	sub_type_3: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>
-		<sym-auto>L/G</sym-auto>: Untap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. You can only use this ability once per turn.
+		<sym-auto>L/G</sym-auto>: Untap <atom-cardname><nospellcheck>this creature</nospellcheck></atom-cardname>. Activate only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

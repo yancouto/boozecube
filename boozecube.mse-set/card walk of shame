@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 17:19:39
-	time_modified: 2025-05-20 11:12:43
+	time_modified: 2026-05-29 09:54:59
 	name: Walk of Shame
 	casting_cost: 3W
 	image: image294.png
@@ -19,7 +19,7 @@ card:
 	rule_text:
 		Whenever a creature deals damage to you, put a shame counter on it.
 		Creatures with shame counters don’t untap during their controller’s untap step.
-		At the beginning of each player’s upkeep, that player may remove any number of shame counters from creatures that he or she controls and drink 4 or each counter removed this way.
+		At the beginning of each player’s upkeep, that player may remove any number of shame counters from creatures that he or she controls and drink 4 for each counter removed this way.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

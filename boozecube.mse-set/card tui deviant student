@@ -8,14 +8,17 @@ card:
 		front_style: auto-sizing planeswalker
 		defaults: Click here for default coordinate information
 		back_style: auto-sizing planeswalker
-		other_options: automate type frames, auto nyx crowns
+		other_options: normal back face, automate type frames, auto nyx crowns
 		legend_crown: standard
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2025-03-28 22:11:52
-	time_modified: 2025-09-28 14:17:20
+	time_modified: 2026-05-29 11:30:16
+	extra_data:
+		magic-m15-mainframe-dfc:
+			back_type_hint: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fighter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	card_color: white, red, hybrid, horizontal
 	card_color_2: white, red, multicolor, horizontal
 	name: Tui, Deviant Student
@@ -39,6 +42,16 @@ card:
 		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has +7/+7 as long as you drank 5 or more, took a shot or chugged a beer this turn.</atom-cardname>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
+	loyalty_cost_1: 
+	level_1_text:
+		At the beginning of each upkeep, drink for each <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> has 5 or more <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counters on it, transform it.
+		<sym-auto>T</sym-auto>: Put <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. 
+	level_2_text: </atom-cardname>
+	level_3_text: 
+	level_9_text:
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+		This creature has +7/+7 as long as you drank 5 or more, took a shot or chugged a beer this turn.
+	level_10_text: 
 	power: 1
 	power_2: 3
 	toughness: 3
@@ -51,9 +64,9 @@ card:
 	copyright_3: 
 	special_text:
 		At the beginning of each upkeep, drink for each <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counter on <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname>. At the beginning of your upkeep, if <atom-legname><nospellcheck>this creature</nospellcheck></atom-legname> has 5 or more <kw-0><nospellcheck><key>training</key></nospellcheck></kw-0> counters on it, transform it.
-		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
-		<atom-cardname><nospellcheck>This creature</nospellcheck></atom-cardname> has +7/+7 as long as you drank 5 or more, took a shot or chugged a beer this turn.</atom-cardname>
+		</atom-cardname>
 
 	special_text_2:
-		<kw-0><nospellcheck><key>Indestructible</key></nospellcheck></kw-0>
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+		This creature has +7/+7 as long as you drank 5 or more, took a shot or chugged a beer this turn.
 
